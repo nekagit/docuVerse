@@ -5,6 +5,7 @@ sidebar_position: 1
 # Bachelor Arbeit
 
 Prof. Dr. Frank Weichert
+
 Preboarding-ChatBot fuer TU-Dortmund Webseite
 
 # ChatGPT
