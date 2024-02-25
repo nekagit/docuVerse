@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docuVerse - Software Development/Untitled.md",
+                "file": "docuVerse - Software Development/BachelorArbeit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docuVerse - Software Development/Untitled.md",
+                "file": "docuVerse - Software Development/BachelorArbeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docuVerse - Software Development/Untitled.md",
+                "file": "docuVerse - Software Development/BachelorArbeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docuVerse - Software Development/Untitled.md"
+                "file": "docuVerse - Software Development/BachelorArbeit.md"
               }
             }
           }
@@ -148,8 +148,16 @@
   },
   "active": "f039e703b414b748",
   "lastOpenFiles": [
-    "docuVerse - Software Development/deploy-your-site.md",
+    "docuVerse - Software Development/ASPDOTNET.mdx",
+    "docuVerse - Software Development/C#.mdx",
     "docuVerse - Software Development/Untitled.md",
+    "docuVerse - Software Development/General.md",
+    "docuVerse - Software Development/qmBase.md",
+    "docuVerse - Software Development/DevOPs.md",
+    "docuVerse - Software Development/ReactJs.md",
+    "docuVerse - Software Development/VueJs.md",
+    "docuVerse - Software Development/BachelorArbeit.md",
+    "docuVerse - Software Development/deploy-your-site.md",
     "docuVerse - Software Development/create-a-document.md",
     "docuVerse - Software Development/create-a-blog-post.md",
     "docuVerse - Software Development/congratulations.md",
