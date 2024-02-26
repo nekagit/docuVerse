@@ -62,7 +62,6 @@ const config: Config = {
           position: "left",
           label: "DocuVerse",
         },
-        { to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/nekagit/docuVerse.git",
           label: "GitHub",
@@ -93,12 +92,6 @@ const config: Config = {
         },
         {
           title: "More",
-          items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
-          ],
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} DocuVerse, Inc. Built with Docusaurus.`,
