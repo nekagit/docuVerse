@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docuVerse - Philosophie/Hegels Welt.md",
+                "file": "docuVerse - Basic Knowledge/Serbia/Language/blogovi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docuVerse - Philosophie/Hegels Welt.md",
+                "file": "docuVerse - Basic Knowledge/Serbia/Language/blogovi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docuVerse - Philosophie/Hegels Welt.md",
+                "file": "docuVerse - Basic Knowledge/Serbia/Language/blogovi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docuVerse - Philosophie/Hegels Welt.md"
+                "file": "docuVerse - Basic Knowledge/Serbia/Language/blogovi.md"
               }
             }
           }
@@ -148,37 +148,50 @@
   },
   "active": "c367ab36054b2f25",
   "lastOpenFiles": [
-    "docuVerse - Languages/Deutsch.md",
-    "docuVerse - Languages/Spanisch.md",
-    "docuVerse - Buch/inhaltsverzeichniss.md",
-    "docuVerse - Buch/Brainstorm.md",
+    "docuVerse - Basic Knowledge/Serbia/rand/Google Notes.md",
+    "docuVerse - Basic Knowledge/Serbia/rand/Europa/List.md",
+    "docuVerse - Basic Knowledge/Serbia/serbian legends/sport.md",
+    "docuVerse - Basic Knowledge/Serbia/serbian legends/pisci.md",
+    "docuVerse - Basic Knowledge/Serbia/BeoKult.md",
+    "docuVerse - Basic Knowledge/Espanol/spanisch.md",
+    "docuVerse - Basic Knowledge/Espanol/Todas cosas.md",
+    "docuVerse - Basic Knowledge/Espanol/Profesíon sus labores.md",
+    "docuVerse - Basic Knowledge/Espanol/Mala suerte.md",
+    "docuVerse - Basic Knowledge/Espanol/La primera clase.md",
+    "docuVerse - Basic Knowledge/Espanol/La familia Rivero.md",
+    "docuVerse - Basic Knowledge/Espanol/La difficil pronuncioación.md",
+    "docuVerse - Basic Knowledge/Espanol/En la plaza.md",
+    "docuVerse - Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
+    "docuVerse - Basic Knowledge/Computer Science/Bachelorarbeit/Zweites Treffen.md",
+    "docuVerse - Basic Knowledge/Computer Science/Bachelorarbeit/Machine Learning.md",
+    "docuVerse - Basic Knowledge/Computer Science/Bachelorarbeit/Frage -> GPT.md",
+    "docuVerse - Basic Knowledge/Computer Science/Bachelorarbeit/Erstes Treffen.md",
+    "docuVerse - Basic Knowledge/Computer Science/Bachelorarbeit/ChatGPT.md",
+    "docuVerse - Basic Knowledge/Computer Science/Bachelorarbeit/Blogs_ChatGPT.md",
+    "docuVerse - Basic Knowledge/Computer Science/Bachelorarbeit/Bachelor.md",
+    "docuVerse - Basic Knowledge/Computer Science/Bachelorarbeit/07.02.md",
+    "docuVerse - Basic Knowledge/Computer Science/Bachelorarbeit/06.02.md",
+    "docuVerse - Basic Knowledge/Bible/Übersicht.md",
+    "docuVerse - Basic Knowledge/Bible/Überblick.md",
+    "docuVerse - Basic Knowledge/Bible/Römer.md",
+    "docuVerse - Basic Knowledge/Bible/Korinther.md",
+    "docuVerse - Basic Knowledge/Serbia/rand/Europa/List",
+    "docuVerse - Basic Knowledge/Serbia/rand/Europa",
+    "docuVerse - Basic Knowledge/Serbia/Language/ivo-andric-na-drini-cuprija.pdf",
+    "docuVerse - Basic Knowledge/Serbia/serbian legends",
+    "docuVerse - Basic Knowledge/Serbia/rand",
+    "docuVerse - Basic Knowledge/Serbia/muzika",
+    "docuVerse - Basic Knowledge/Serbia/gluma",
+    "docuVerse - Basic Knowledge/Serbia/film",
+    "docuVerse - Basic Knowledge/Serbia/Language",
+    "docuVerse - Basic Knowledge/Serbia/Hrana",
+    "docuVerse - Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
     "pics/Pasted image 20240226191615.png",
-    "docuVerse - Philosophie/Hegels Welt.md",
-    "pics",
     "pics/Pasted image 20240226191731.png",
     "pics/Pasted image 20240226191720.png",
     "pics/Pasted image 20240226191657.png",
     "pics/Pasted image 20240226191645.png",
     "pics/Pasted image 20240226191634.png",
-    "docuVerse - Philosophie/image.png",
-    "docuVerse - Languages/_category_.json",
-    "docuVerse - Languages",
-    "intro.md",
-    "docuVerse - Software Development/BachelorArbeit.md",
-    "docuVerse - Software Development/DevOPs.md",
-    "docuVerse - Software Development/General.md",
-    "docuVerse - Software Development/qmBase.md",
-    "docuVerse - Software Development/ReactJs.md",
-    "docuVerse - Software Development/VueJs.md",
-    "docuVerse - Software Development/Software Development.md",
-    "docuVerse - Philosophie/Ueberblick.md",
-    "docuVerse - Software Development/ASPDOTNET.mdx",
-    "docuVerse - Software Development/C#.mdx",
-    "docuVerse - Software Development/Untitled.md",
-    "docuVerse - Software Development/deploy-your-site.md",
-    "docuVerse - Software Development/create-a-document.md",
-    "docuVerse - Software Development/create-a-blog-post.md",
-    "docuVerse - Software Development/congratulations.md",
-    "docuVerse - Software Development/create-a-page.md"
+    "docuVerse - Philosophie/image.png"
   ]
 }

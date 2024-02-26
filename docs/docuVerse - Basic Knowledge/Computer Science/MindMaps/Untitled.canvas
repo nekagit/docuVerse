@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"3692c45e08927862","x":-1080,"y":-1628,"width":350,"height":429,"type":"text","text":"Problems\n- Classification\n- Generative Model\n- Regression\n- Clustering\n- Dimension Reduction\n- Density Estimation\n- Anomaly Detection\n- Data Cleaning\n- AutoML\n- Association Rules\n- Semantic Analysis\n- Structured Prediction\n- Feature Engineering\n- Feature Learning\n- Learning to Rank\n- Grammar Induction\n- Ontology Learning\n- Multimodal Learning\n\n"},
+		{"id":"7f268e021d17e7af","type":"text","text":"Chat Window","x":-2180,"y":-1232,"width":200,"height":60},
+		{"id":"0632b935b34b6f04","type":"text","text":"User\n","x":-2140,"y":-1563,"width":120,"height":60},
+		{"id":"fbd0798c024ae56a","type":"text","text":"Tokenisation\nEmbedings\nModel\nDekoding","x":-1883,"y":-817,"width":199,"height":170},
+		{"id":"46a681354ed7eba7","type":"text","text":"ChatGPT","x":-1864,"y":-1232,"width":180,"height":66},
+		{"id":"e28e9a5a01902c78","x":-1660,"y":-1482,"width":324,"height":70,"type":"text","text":"# Machine Learning"},
+		{"id":"def21979c5a9d024","x":-1109,"y":-1077,"width":409,"height":460,"type":"text","text":"Paradigmns\n- Supervised Learning\n- Unsupervised Learning\n- Online Learning\n- Batch Learning\n- Meta-learning\n- Semi-supervised Learning\n- Self-supervised Learning\n- Reinforcement Learning\n- Rule-based Learning\n- Quantum Machine Learning"},
+		{"id":"3f4c795b77d7a979","x":-1109,"y":-2227,"width":354,"height":427,"type":"text","text":"**Clustering**\n- BIRCH\n- CURE\n- Hierarchical\n- k-means\n- Fuzzy\n- Expectation–Maximization (EM)\n- DBSCAN\n- OPTICS\n- Mean Shift"},
+		{"id":"f5af8393c643d519","x":-690,"y":-2180,"width":317,"height":260,"type":"text","text":"**Anomaly Detection:**\n\n- RANSAC\n- k-NN (Local Outlier Factor)\n- Isolation Forest"},
+		{"id":"179d736807f83800","x":513,"y":-1543,"width":390,"height":259,"type":"text","text":"**Structured Prediction:**\n\n- Graphical Models\n- Bayes Net\n- Conditional Random Field\n- Hidden Markov Model"},
+		{"id":"3d69c08ebcf04ddf","x":579,"y":-1199,"width":324,"height":309,"type":"text","text":"**Model Diagnostics:**\n\n- Coefficient of Determination\n- Confusion Matrix\n- Learning Curve\n- ROC Curve"},
+		{"id":"92f51ca04ff7a2cb","x":513,"y":-1978,"width":369,"height":356,"type":"text","text":"**Machine-learning Venues:**\n\n- ECML PKDD\n- NeurIPS\n- ICML\n- ICLR\n- IJCAI\n- MLJ\n- JMLR"},
+		{"id":"f8e61785ce6dd109","x":-573,"y":-1684,"width":574,"height":452,"type":"text","text":"**Dimensionality Reduction:**\n\n- Factor Analysis\n- CCA (Canonical Correlation Analysis)\n- ICA (Independent Component Analysis)\n- LDA (Linear Discriminant Analysis)\n- NMF (Non-negative Matrix Factorization)\n- PCA (Principal Component Analysis)\n- PGD (Principal Geodesic Analysis)\n- t-SNE (t-distributed Stochastic Neighbor Embedding)\n- DL (Dictionary Learning)"},
+		{"id":"04856d818246f54f","x":-1062,"y":-384,"width":314,"height":362,"type":"text","text":"**Reinforcement Learning:**\n\n- Q-learning\n- SARSA\n- Temporal Difference (TD)\n- Multi-agent\n- Self-play"},
+		{"id":"1e3808a5f214a805","x":-1452,"y":-239,"width":343,"height":217,"type":"text","text":"**Learning with Humans:**\n\n- Active Learning\n- Crowdsourcing\n- Human-in-the-Loop"},
+		{"id":"4a0a1d959c1f686a","x":-700,"y":-392,"width":518,"height":523,"type":"text","text":"**Supervised Learning (Classification • Regression)**\n\n- Apprenticeship Learning\n- Decision Trees\n- Ensembles (Bagging, Boosting, Random Forest)\n- k-NN (k-Nearest Neighbors)\n- Linear Regression\n- Naive Bayes\n- Artificial Neural Networks (ANN)\n- Logistic Regression\n- Perceptron\n- Relevance Vector Machine (RVM)\n- Support Vector Machine (SVM)"},
+		{"id":"a7fd0f04e54a3903","x":-573,"y":-1077,"width":485,"height":517,"type":"text","text":"**Artificial Neural Network:**\n\n- Autoencoder\n- Cognitive Computing\n- Deep Learning\n- DeepDream\n- Feedforward Neural Network\n- Recurrent Neural Network (RNN)\n- LSTM (Long Short-Term Memory)\n- GRU (Gated Recurrent Unit)\n- ESN (Echo State Network)\n- Restricted Boltzmann Machine (RBM)\n- GAN (Generative Adversarial Network)\n- Diffusion Model\n- SOM (Self-Organizing Map)\n- Convolutional Neural Network (CNN)\n- U-Net\n- Transformer\n- Vision Mamba\n- Spiking Neural Network\n- Memtransistor\n- Electrochemical RAM (ECRAM)"},
+		{"id":"bc5efc0498b60d85","x":1,"y":-1017,"width":397,"height":457,"type":"text","text":"**Mathematical Foundations:**\n\n- Kernel Machines\n- Bias–Variance Tradeoff\n- Computational Learning Theory\n- Empirical Risk Minimization\n- Occam Learning\n- PAC Learning (Probably Approximately Correct)\n- Statistical Learning\n- VC Theory (Vapnik-Chervonenkis Theory)"}
+	],
+	"edges":[
+		{"id":"137624a5d299f6bf","fromNode":"46a681354ed7eba7","fromSide":"left","toNode":"7f268e021d17e7af","toSide":"right"},
+		{"id":"e4eb2d271d1d0a29","fromNode":"7f268e021d17e7af","fromSide":"right","toNode":"46a681354ed7eba7","toSide":"left"},
+		{"id":"7d2032a76cdb4126","fromNode":"46a681354ed7eba7","fromSide":"bottom","toNode":"fbd0798c024ae56a","toSide":"top"},
+		{"id":"9a4fde7c0e747005","fromNode":"0632b935b34b6f04","fromSide":"bottom","toNode":"7f268e021d17e7af","toSide":"top"},
+		{"id":"d396a094bd8fa312","fromNode":"46a681354ed7eba7","fromSide":"top","toNode":"e28e9a5a01902c78","toSide":"bottom"},
+		{"id":"3bcabb02b04fd404","fromNode":"e28e9a5a01902c78","fromSide":"top","toNode":"3692c45e08927862","toSide":"left"},
+		{"id":"6ba541a100bca09b","fromNode":"e28e9a5a01902c78","fromSide":"right","toNode":"def21979c5a9d024","toSide":"left"},
+		{"id":"e32b1a8ad1d2b20c","fromNode":"3692c45e08927862","fromSide":"top","toNode":"3f4c795b77d7a979","toSide":"bottom"},
+		{"id":"08bf76890132e151","fromNode":"3692c45e08927862","fromSide":"top","toNode":"f5af8393c643d519","toSide":"bottom"},
+		{"id":"ef5d16b02a68b3cc","fromNode":"3692c45e08927862","fromSide":"right","toNode":"f8e61785ce6dd109","toSide":"left"},
+		{"id":"42fb921681941416","fromNode":"def21979c5a9d024","fromSide":"right","toNode":"a7fd0f04e54a3903","toSide":"left"},
+		{"id":"6aeea1d9826cf701","fromNode":"def21979c5a9d024","fromSide":"right","toNode":"bc5efc0498b60d85","toSide":"left"},
+		{"id":"3beda23e05b261f1","fromNode":"def21979c5a9d024","fromSide":"bottom","toNode":"1e3808a5f214a805","toSide":"top"},
+		{"id":"ef70127f483cf114","fromNode":"def21979c5a9d024","fromSide":"bottom","toNode":"04856d818246f54f","toSide":"top"},
+		{"id":"c47c39f4b32ca3f2","fromNode":"def21979c5a9d024","fromSide":"bottom","toNode":"4a0a1d959c1f686a","toSide":"top"}
+	]
+}
