@@ -4,446 +4,192 @@ sidebar_position: 1
 
 # Deutsch 
 
-# Nachhilfe
-Deutsch Unterricht
-
-Sprechen
-Silben
-Umlaute
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Grammatik
-du und Sie (informell, formell) (+)
-W-Fragen (+)
-Personalpronomen (+)
-Präsens (+)
-Ja/Nein Fragen (+)
-bestimmter- unbestimmter- negation Artikel (+)
-Pluralformen (+)
-Imperativ (+)
-Adjektiv mit sein (+)
-Nominativ- Akkusativ (+)
-Verben mit Akkusativ (+)
-Positionen im Satz (+)
-Temporale Präpositionen (am, im, um, von, bis, von…bis, ab) (+)
-Possessivartikel (+)
-Modalverben (+)
-Trennbare Verben (+)
-Personalpronomen im Akkusativ (+)
-Präteritum (haben/sein) 
-Negation 
-Doch 
-Perfekt 
-Und, oder, aber 
-Dativ 
-Zuerst- dann 
-Welcher? dieser (Nominativ, Akkusativ, Dativ) 
-Verben ohne Präfix 
-Verben mit Präfix 
-Personalpronomen im Dativ 
-Pronomen man 
-Denn 
-Präpositionen mit Akkusativ 
-Präpositionen mit Dativ 
-Genitiv: Name+s 
-Weil 
-Modalverben im Präteritum 
-Komparativ und Superlativ 
-Vergleiche mit als und wie 
-Dass 
-Wenn 
-Reflexive Verben 
-Adjektive nach dem bestimmten-unbestimmten Artikel 
-Konjunktiv II: könnte (höfliche Bitten) 
-Werden 
-Indirekte Fragesätze: Redewiedergabe, Höflichkeit, Ja-/Nein-Fragen mit ob  
-Ortsangaben: Präpositionen  
-Konjunktiv II: sollte (Ratschläge) 
-Interrogativartikel: Was für ein/e? 
-Deshalb  
-Trotzdem  
-Verben mit Dativ und Akkusativ 
-Wechselpräpositionen 
-Nebensatz mit als und wenn 
--chen und -lein 
-Konjunktiv II  
-Verben mit Präposition  
-W-Fragen mit Präposition  
-Indefinitpronomen 
-Relativsätze im Nominativ 
-Relativsatz im Akkusativ 
-Relativpronomen
- Infinitiv mit zu 
-Nebensatz mit da/weil und obwohl 
-lassen + Infinitiv 
-Deswegen/darum/daher/sodass/so….dass 
-Genitiv 
-Wegen und trozt mit Genitiv 
-Präteritum 
-Präpositionen mit Genitiv 
-Pronomen und Pronominaladverbien 
-Verben mit Präposition und Nebensatz 
-Komparativ und Superlativ vor Nomen 
-Nebensätze mit damit und um….zu 
-Futur I 
-n-Deklination 
-Relativsätze im Dativ  
-Relativsätze mit Präposition  
-Plusquamperfekt  
-Nebensätze mit nachdem  
-Nebensätze mit seit/seitdem, während, bis, bevor  
-nicht/kein oder nur+brauchen + zu + Infinitiv 
-Sowohl…als auch…/nicht nur…, sondern auch/entweder….oder/weder….noch/zwar…., aber…./einerseits..., andererseits… 
-Stellung von nicht im Satz  
-Adjektive ohne Artikel 
-Aktiv-Passiv 
-Passiv in der Vergangenheit 
-Passiv mit Modalverb 
-Artikelwörter als Pronomen
-irgendein/-eine/-welche 
-Adjektive als Nomen 
-Relativsätze mit was und wo 
-Sätze mit je..., desto/umso… 
-Partizip II als Adjektiv
-Partizip I als Adjektiv
-B2
-
-
-
-
-
-
-
-
-
-10. Futur II
-13. Indikativ
-14. Konjunktiv I
-16. Relativsatz
-17. Partizip
-18. Infinitiv
-20. Präpositionaler Ausdruck
-23. Konditional
-25. Artikeldeklination
-26. Satzglieder
-27. Interjektion
-28. Konjunktionaladverb
-29. Adverbiale Bestimmung
-30. Ellipse
-41. Präpositionale Objekte
-42. Modalpartikeln
-43. Indirekte Rede
-44. Konjunktionaladverbien
-45. Attributsatz
-46. Genitivattribut
-47. Konnektoren
-48. Adverbialbestimmungen
-49. Satzklammer
-50. Stilmittel
-
-
-
-
-Vokabeln
-GOETHE-ZERTIFIKAT A1 START DEUTSCH 1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Schreiben
-
-worüber / etwas schlaues am besten
-was schlau / menschen sind 
-
-bekannte deutsche persönlichkeiten
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Musik
-1.Die fantastischen Vier- Zusammen (feat.Clueso)
-
-Hier sind die Lyrics zu "Zusammen" von Die Fantastischen Vier mit türkischer Übersetzung:
-
-[Hook: Clueso]
-Biz birlikte büyüküz, biz birlikte biriz
-Gel biraz daha birlikte kalalım
-Eller yukarı kaldırın, bardakları da
-Bugün sabaha kadar kutlayacağız
-
-[Part 1: Michi Beck & Thomas D & Smudo]
-Ben dersem, tencere ve kapağın gibi
-Ben dersem, sümük ve kaşığın gibi
-Ben yıldırım ve gök gürültüsü gibi dersem
-Neredeyse nokta ve virgülsüz
-Ben dersem, talihsizlik ve kükürt gibi
-Ben dersem, kalp ve ruh gibi
-Ben dersem, ömür boyu
-Herkesin ne hakkında konuştuğu açık
-Evet, adamım, çünkü yalnız olmak eski moda
-Artık kimseye güvenmiyorum zamanı bitti
-Eğer sana "Burada tek misin?" derlerse
-Onlara "Hayır, çünkü burada herkesle birlikteyim!" de
-
-[Pre-Hook: Die Fantastischen Vier]
-Biz, biz ayrılmazız
-Biz, biz ayırt edilemeyiz
-Kendimize bir anı bırakıyoruz
-
-[Hook: Clueso]
-Biz birlikte büyüküz, biz birlikte biriz
-Gel biraz daha birlikte kalalım
-Eller yukarı kaldırın, bardakları da
-Bugün sabaha kadar kutlayacağız
-Çünkü yalnızca birlikte yalnız değilsin
-Gel, her şeyi birlikte paylaşalım
-Çünkü yalnızca birlikte yalnız değilsin
-Gel biraz daha birlikte kalalım
-
-[Part 2: Michi Beck & Thomas D & Smudo & Tümü]
-Ben dersem, erkek ve kadın gibi
-Birlikte, "Evet, tam olarak" gibi
-Birlikte, yaşlı ve gri gibi
-Tersine ve düz gibi, kaçtım
-Birlikte, kovalar gibi
-Birlikte, birlikte yolculuk
-Neredeyse özel olarak yapılmış
-Böyle birlikte hiç kimse olmamıştı
-Birlikte, gerçek dostluk gibi
-Birlikte, Clueso ve Fantas gibi
-Tüm ekibe bir evlenme teklifi
-Bu bizimle geriye gider
-
-[Pre-Hook: Die Fantastischen Vier]
-Biz ayrılmazız
-Biz, biz ayırt edilemeyiz
-Kendimize bir anı bırakıyoruz
-
-[Hook: Clueso]
-Biz birlikte büyüküz, biz birlikte biriz
-Gel biraz daha birlikte kalalım
-Eller yukarı kaldırın, bardakları da
-Bugün sabaha kadar kutlayacağız
-Çünkü yalnızca birlikte yalnız değilsin
-Gel, her şeyi birlikte paylaşalım
-Çünkü yalnızca birlikte yalnız değilsin
-Gel biraz daha birlikte kalalım
-
-[Part 3: Michi Beck & Thomas D & Smudo & Tümü]
-Çünkü burada bizim yerimizde
-Sürekli olarak, ritim ve bas gibi birlikte
-Aptal olmazsınız
-Çünkü araya hiçbir şey sığmaz
-Burada çok derin, çok sığ
-Çok bu, çok şu
-Çok yakın, çok uzun
-Çünkü birlikte kalırız
-Tüm sadık sevgili çiftlere
-Yıllarca iyi dostlar
-Bu bizim "biz"de "ben" yok
-Ama sen kendini bu dört kişide görüyorsun
-La familia, his orada
-Gecenin gündüz yap
-Öğleden sonraya kadar, evet
-Gel, bugün birlikte Cumartesi kutlayalım
-
-[Hook: Clueso]
-Biz birlikte büyüküz, biz birlikte biriz
-Gel biraz daha birlikte kalalım
-Eller yukarı kaldırın, bardakları da
-Bugün sabaha kadar kutlayacağız
-Çünkü yalnızca birlikte yalnız değilsin
-
-Hier sind die Lyrics zu "Zusammen" von Die Fantastischen Vier auf Deutsch:
-
-[Hook: Clueso]
-Wir sind zusammen groß, wir sind zusammen eins
-Komm, lass uns noch ein wenig zusammen bleiben
-Hebt die Flossen hoch und auch die Tassen
-Wir feiern heute bis zum Morgengrauen
-
-
-[Part 1: Michi Beck & Thomas D & Smudo]
-Wenn ich sage, wie Topf und Deckel
-Wenn ich sage, wie Rotz und Löffel
-Wenn ich sage, wie Blitz und Donner
-Sozusagen ohne Punkt und Komma
-Wenn ich sage, wie Pech und Schwefel
-Wenn ich sage, wie Herz und Seele
-Wenn ich sage, für den Rest des Lebens
-Ist jedem klar, worüber wir reden
-Ja, Mann, denn allein sein ist out
-Vorbei ist die Zeit, in der man keinem mehr traut
-Falls sie dich fragen, „Bist du allein hier?“
-Sag ihnen, „Nein, denn ich bin mit allen hier!“
-
-[Pre-Hook: Die Fantastischen Vier]
-Wir sind unzertrennbar
-Wir sind unverkennbar
-Wir setzen uns ein Denkmal
-
-[Hook: Clueso]
-Wir sind zusammen groß, wir sind zusammen eins
-Komm, lass uns noch ein wenig zusammen bleiben
-Hebt die Flossen hoch und auch die Tassen
-Wir feiern heute bis zum Morgengrauen
-Denn nur zusammen ist man nicht allein
-Komm, lass uns alles miteinander teilen
-Denn nur zusammen ist man nicht allein
-Komm, lass uns noch ein wenig zusammen bleiben
-
-[Part 2: Michi Beck & Thomas D & Smudo & Alle]
-Wenn ich sage, wie Mann und Frau
-Zusammen, so wie „Ja, genau“
-Zusammen, so wie alt und grau
-So wie Ups and Downs, bin ich abgehauen
-Zusammen, so wie Arsch auf Eimer
-Zusammen, so wie Fahrgemeinschaft
-Sozusagen maßgeschneidert
-So zusammen war noch keiner
-Zusammen, so wie wahre Freundschaft
-Zusammen, wie Clueso und Fantas
-Der ganzen Mannschaft einen Heiratsantrag
-Das mit uns geht weit zurück
-
-[Pre-Hook: Die Fantastischen Vier]
-Wir sind unzertrennbar
-Wir, wir sind unverkennbar
-Wir setzen uns ein Denkmal
-
-[Hook: Clueso]
-Wir sind zusammen groß, wir sind zusammen eins
-Komm, lass uns noch ein wenig zusammen bleiben
-Hebt die Flossen hoch und auch die Tassen
-Wir feiern heute bis zum Morgengrauen
-Denn nur zusammen ist man nicht allein
-Komm, lass uns alles miteinander teilen
-Denn nur zusammen ist man nicht allein
-Komm, lass uns noch ein wenig zusammen bleiben
-
-[Part 3: Michi Beck & Thomas D & Smudo & Alle]
-Denn wir sind hier im Platz
-Stets zusammen wie Beats und Bass
-Up the shut fuck you must
-Weil nichts dazwischen passt
-Hier gibt's kein zu tief, zu flach
-Zu dies, zu das
-Zu nah, zu lang
-Denn wir bleiben zusammen
-An alle treuen Liebespaare
-Gute Freunde viele Jahre
-Es gibt kein Ich in diesem Wir
-Doch du siehst dich in diesen vier
-La familia, das Gefühl ist da
-Mach die Nacht zum Tag
-Bis zum Nachmittag, yeah
-Komm, wir feiern heute Zusammstag, yeah
-
-[Hook: Clueso]
-Wir sind zusammen groß, wir sind zusammen eins
-Komm, lass uns noch ein wenig zusammen bleiben
-Hebt die Flossen hoch und auch die Tassen
-Wir feiern heute bis zum Morgengrauen
-Denn nur zusammen ist man nicht allein
-
-
-
-
-
-Eryaehlst von alltgeg
-witzige geschihte
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-100 Deutsche Sätze
+# Grammatik
+
+| Kategorie        | Grammatik                                            | Erklärung                                    | Beispiel                                                |
+| ---------------- | ---------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------- |
+| Zeitform         | Präsens, Präteritum, Perfekt, Futur I, Futur II      | Beschreibt die Zeitform des Verbs.           | Er singt (Präsens), Er sang (Präteritum)                |
+| Fragebildung     | W-Fragen, Ja/Nein Fragen, W-Fragen mit Präposition   | Beschreibt die Bildung von Fragen.           | Wann gehst du? (W-Frage), Bist du müde? (Ja/Nein Frage) |
+| Satzstruktur     | Positionen im Satz, Nebensatz, Relativsatz           | Beschreibt die Struktur des Satzes.          | Ich gehe heute ins Kino. (Positionen im Satz)           |
+| Modus            | Indikativ, Konjunktiv I, Konjunktiv II               | Beschreibt den Modus des Verbs.              | Wenn ich Zeit hätte, würde ich kommen. (Konjunktiv II)  |
+| Verbmodifikation | Modalverben, reflexive Verben                        | Beschreibt Verben, die die Bedeutung ändern. | Ich kann schwimmen. (Modalverb)                         |
+| Pronomen         | Personalpronomen, Possessivpronomen                  | Beschreibt die Verwendung von Pronomen.      | Er hat sein Buch verloren. (Possessivpronomen)          |
+| Artikel          | bestimmter, unbestimmter, negation Artikel           | Beschreibt die Artikelformen.                | Das Haus ist groß. (bestimmter Artikel)                 |
+| Negation         | Negation, nicht/kein oder nur+brauchen               | Beschreibt die Verneinung.                   | Ich habe das Buch nicht gelesen. (Negation)             |
+| Präpositionen    | Temporale Präpositionen, Präpositionen mit Akkusativ | Beschreibt die Verwendung von Präpositionen. | Ich gehe um 10 Uhr zur Arbeit. (Temporale Präposition)  |
+| Adjektiv         | Adjektiv mit sein, Adjektive nach Artikel            | Beschreibt die Verwendung von Adjektiven.    | Das Auto ist schnell. (Adjektiv mit sein)               |
+
+| Kategorie                 | Grammatik                                                                        | Erklärung                                      | Beispiel                                                       |
+| ------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------- |
+| Satzverbindung            | Und, oder, aber, denn, wenn                                                      | Beschreibt die Verbindung von Sätzen.          | Ich gehe einkaufen und du bleibst zu Hause. (Und)              |
+| Genus und Numerus         | Pluralformen, n-Deklination                                                      | Beschreibt die Form von Substantiven.          | Die Bücher sind auf dem Tisch. (Pluralformen)                  |
+| Konjunktionen             | Weil, dass, wenn, obwohl, während, bevor                                         | Beschreibt Konjunktionen, die Sätze verbinden. | Ich bleibe zu Hause, weil ich krank bin. (Weil)                |
+| Passiv                    | Aktiv-Passiv, Passiv in der Vergangenheit, Passiv mit Modalverb                  | Beschreibt die Verwendung des Passivs.         | Der Hund wird von ihm gefüttert. (Passiv)                      |
+| Vergleich                 | Komparativ und Superlativ, Vergleiche mit als und wie                            | Beschreibt den Vergleich von Dingen.           | Er ist größer als sein Bruder. (Komparativ)                    |
+| Bedingung und Möglichkeit | Wenn, wenn..., dann, Konjunktiv II (höfliche Bitten), Konjunktiv II (Ratschläge) | Beschreibt Bedingungen und Möglichkeiten.      | Wenn ich Zeit hätte, würde ich kommen. (Wenn)                  |
+| Interrogativ              | Interrogativartikel, W-Fragen mit Präposition, Indirekte Fragesätze              | Beschreibt Fragen und Fragewörter.             | Welches Buch hast du gelesen? (Interrogativartikel)            |
+| Stilfigur                 | Ellipse, Stilmittel                                                              | Beschreibt rhetorische Figuren und Stilmittel. | Je früher, desto besser. (Ellipse)                             |
+| Satzglieder               | Präpositionaler Ausdruck, Satzklammer                                            | Beschreibt die Bestandteile eines Satzes.      | Mit dem Zug fahren wir nach Berlin. (Präpositionaler Ausdruck) |
+| Konjunktionaladverbien    | Deshalb, trotzdem, sowohl… als auch…                                             | Beschreibt Adverbien, die Sätze verbinden.     | Ich bin müde, daher gehe ich schlafen. (Deshalb)               |
+
+| Kategorie             | Grammatik                                                 | Erklärung                                        | Beispiel                                                   |
+| --------------------- | --------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------- |
+| Verbmodi              | Indikativ, Konjunktiv I, Konjunktiv II                    | Beschreibt die verschiedenen Modi von Verben.    | Er sagt (Indikativ), Er sagte (Konjunktiv II)              |
+| Verbprädikation       | Aktiv, Passiv                                             | Beschreibt die Art der Handlungsdarstellung.     | Max liest ein Buch (Aktiv), Das Buch wird gelesen (Passiv) |
+| Satzarten             | Aussagesatz, Fragesatz, Aufforderungssatz, Exklamativsatz | Beschreibt verschiedene Arten von Sätzen.        | Peter geht spazieren. (Aussagesatz)                        |
+| Adverbialbestimmungen | Adverbiale Bestimmung, adverbiale Nebensätze              | Beschreibt die Funktion von Adverbien im Satz.   | Gestern habe ich im Park gespielt. (Adverbiale Bestimmung) |
+| Satzverknüpfungen     | Konnektoren, Konjunktionaladverbien                       | Beschreibt Mittel zur Verknüpfung von Sätzen.    | Er geht, obwohl er müde ist. (Konnektor)                   |
+| Sprecherbeteiligung   | Indirekte Rede, Interjektionen                            | Beschreibt die Einbindung des Sprechers im Satz. | Er sagte, er sei müde. (Indirekte Rede)                    |
+| Sprachstil            | Stilmittel, Partizip als Adjektiv                         | Beschreibt stilistische Elemente in der Sprache. | Das glühende Eisen (Partizip als Adjektiv)                 |
+| Grammatiktypen        | Syntax, Morphologie, Semantik                             | Beschreibt verschiedene Ebenen der Grammatik.    | Die Katze jagt die Maus. (Syntax)                          |
+
+| Kategorie            | Grammatik                                                    | Erklärung                                       | Beispiel                                                              |
+| -------------------- | ------------------------------------------------------------ | ----------------------------------------------- | --------------------------------------------------------------------- |
+| Wortarten            | Nomen, Verben, Adjektive, Adverbien, Pronomen, Konjunktionen | Beschreibt die verschiedenen Arten von Wörtern. | Das Auto (Nomen), Laufen (Verb), Schnell (Adjektiv)                   |
+| Satzstruktur         | Subjekt, Prädikat, Objekt, Attribut                          | Beschreibt die Struktur von Sätzen.             | Max liest ein Buch. (Subjekt: Max, Prädikat: liest, Objekt: ein Buch) |
+| Satzglieder          | Subjekt, Prädikat, Objekt, Adverbiale Bestimmung             | Beschreibt die Elemente innerhalb eines Satzes. | Peter liest ein Buch im Park. (Adverbiale Bestimmung)                 |
+| Satztypen            | Aussagesatz, Fragesatz, Aufforderungssatz                    | Beschreibt verschiedene Arten von Sätzen.       | Sie liest ein Buch. (Aussagesatz)                                     |
+| Satzverbindung       | Koordination, Subordination                                  | Beschreibt die Verbindung von Sätzen.           | Er liest ein Buch, während sie schreibt. (Subordination)              |
+| Satzschlussfolgerung | Konditional, Konsekutivsatz                                  | Beschreibt die Schlussfolgerung von Sätzen.     | Wenn es regnet, bleibe ich drinnen. (Konditional)                     |
+| Wortbildung          | Derivation, Komposition                                      | Beschreibt die Bildung von Wörtern.             | Unfreundlichkeit (Derivation), Sonnenblume (Komposition)              |
+| Zeitaspekte          | Gegenwart, Vergangenheit, Zukunft                            | Beschreibt verschiedene Zeitformen.             | Er liest (Gegenwart), Er las (Vergangenheit)                          |
+| Ortsangaben          | Präpositionale Ausdrücke, Lokaladverbien                     | Beschreibt die Angabe von Orten.                | Er geht ins Kino. (Präpositionaler Ausdruck)                          |
+
+Natürlich, hier sind weitere Kategorien und Grammatiken:
+
+| Kategorie                 | Grammatik                                                   | Erklärung                                             | Beispiel                                             |
+|---------------------------|-------------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
+| Nebensätze                | Temporalsätze, Kausalsätze, Konditionalsätze               | Beschreibt verschiedene Arten von Nebensätzen.     | Als ich nach Hause kam, regnete es. (Temporalsatz) |
+| Satzglieder               | Subjekt, Prädikat, Objekt, Attribut                         | Beschreibt die Hauptglieder eines Satzes.          | Der Hund (Subjekt), bellt laut (Prädikat)          |
+| Wortstellung              | Grundstellung, Inversionsstellung                           | Beschreibt die unterschiedlichen Positionen von Wörtern im Satz. | Ich gehe in den Park. (Grundstellung)              |
+| Verbformen                | Infinitiv, Partizip, Imperativ                             | Beschreibt verschiedene Formen von Verben.        | Essen (Infinitiv), gegessen (Partizip)             |
+| Satztypen                 | Hauptsatz, Nebensatz                                       | Beschreibt die Hauptstruktur von Sätzen.          | Peter liest ein Buch, während er Musik hört. (Hauptsatz) |
+| Wortbildung               | Derivation, Komposition, Konversion                        | Beschreibt verschiedene Prozesse der Wortbildung. | Freundlichkeit (Derivation), Sonnenblume (Komposition) |
+| Grammatische Funktionen   | Subjekt, Objekt, Adverbiale Bestimmung                     | Beschreibt die verschiedenen Funktionen von Satzgliedern. | Max spielt Fußball. (Subjekt)                     |
+| Satzbeziehungen           | Konjunktionen, Konjunktionaladverbien                       | Beschreibt die Verknüpfung von Sätzen.            | Ich gehe ins Kino, weil ich einen Film sehen möchte. (Konjunktion) |
+| Satzverknüpfungen         | Koordination, Subordination                                | Beschreibt die Verbindung von Sätzen.              | Er liest ein Buch, während sie schreibt. (Subordination) |
+| Verbmodi                  | Indikativ, Konjunktiv, Imperativ                           | Beschreibt verschiedene Modi von Verben.          | Max liest (Indikativ), Max lese (Konjunktiv)       |
+
+Diese Kategorien bieten eine weiterführende Analyse der deutschen Grammatik, indem sie spezifische sprachliche Elemente und ihre Funktionen betrachten. Sie sind besonders hilfreich für fortgeschrittene Lerner, die ein tieferes Verständnis der deutschen Sprachstruktur entwickeln möchten.
+1. du und Sie (informell, formell) (+)
+2. W-Fragen (+)
+3. Personalpronomen (+)
+4. Präsens (+)
+5. Ja/Nein Fragen (+)
+6. bestimmter- unbestimmter- negation Artikel (+)
+7. Pluralformen (+)
+8. Imperativ (+)
+9. Adjektiv mit sein (+)
+10. Nominativ- Akkusativ (+)
+11. Verben mit Akkusativ (+)
+12. Positionen im Satz (+)
+13. Temporale Präpositionen (am, im, um, von, bis, von…bis, ab) (+)
+14. Possessivartikel (+)
+15. Modalverben (+)
+16. Trennbare Verben (+)
+17. Personalpronomen im Akkusativ (+)
+18. Präteritum (haben/sein) 
+19. Negation 
+20. Perfekt 
+21. Und, oder, aber 
+22. Dativ 
+23. Zuerst- dann 
+24. Welcher? dieser (Nominativ, Akkusativ, Dativ) 
+25. Verben ohne Präfix 
+26. Verben mit Präfix 
+27. Personalpronomen im Dativ 
+28. Pronomen man 
+29. Denn 
+30. Präpositionen mit Akkusativ 
+31. Präpositionen mit Dativ 
+32. Genitiv: Name+s 
+33. Weil 
+34. Modalverben im Präteritum 
+35. Komparativ und Superlativ 
+36. Vergleiche mit als und wie 
+37. Dass 
+38. Wenn 
+39. Reflexive Verben 
+40. Adjektive nach dem bestimmten-unbestimmten Artikel 
+41. Konjunktiv II: könnte (höfliche Bitten) 
+42. Werden 
+43. Indirekte Fragesätze: Redewiedergabe, Höflichkeit, Ja-/Nein-Fragen mit ob  
+44. Ortsangaben: Präpositionen  
+45. Konjunktiv II: sollte (Ratschläge) 
+46. Interrogativartikel: Was für ein/e? 
+47. deshalb  
+48. Trotzdem  
+49. Verben mit Dativ und Akkusativ 
+50. Wechselpräpositionen 
+51. Nebensatz mit als und wenn -chen und -lein 
+52. Konjunktiv II  
+53. Verben mit Präposition  
+54. W-Fragen mit Präposition  
+55. Indefinitpronomen 
+56. Relativsätze im Nominativ 
+57. Relativsatz im Akkusativ 
+58. Relativpronomen
+59. Infinitiv mit zu 
+60. Nebensatz mit da/weil und obwohl lassen + Infinitiv 
+61. Deswegen/darum/daher/sodass/so….dass 
+62. Genitiv 
+63. Wegen und trozt mit Genitiv 
+64. Präteritum 
+65. Präpositionen mit Genitiv 
+66. Pronomen und Pronominaladverbien 
+67. Verben mit Präposition und Nebensatz 
+68. Komparativ und Superlativ vor Nomen 
+69. Nebensätze mit damit und um….zu 
+70. Futur I 
+71. n-Deklination 
+72. Relativsätze im Dativ  
+73. Relativsätze mit Präposition  
+74. Plusquamperfekt  
+75. Nebensätze mit nachdem  
+76. Nebensätze mit seit/seitdem, während, bis, bevor  
+77. nicht/kein oder nur+brauchen + zu + Infinitiv 
+78. Sowohl…als auch…/nicht nur…, sondern auch/entweder….oder/weder….noch/zwar…., aber…./einerseits..., andererseits… 
+79. Stellung von nicht im Satz  
+80. Adjektive ohne Artikel 
+81. Aktiv-Passiv 
+82. Passiv in der Vergangenheit 
+83. Passiv mit Modalverb 
+84. Artikelwörter als Pronomen irgendein/-eine/-welche 
+85. Adjektive als Nomen 
+86. Relativsätze mit was und wo 
+87. Sätze mit je..., desto/umso… 
+88. Partizip II als Adjektiv
+89. Partizip I als Adjektiv
+91. Futur II
+92. Indikativ
+93. Konjunktiv I
+94. Relativsatz
+95. Partizip
+96. Infinitiv
+97. Präpositionaler Ausdruck
+98. Konditional
+99. Artikeldeklination
+100. Satzglieder
+101. Interjektion
+102. Konjunktionaladverb
+103. Adverbiale Bestimmung
+104. Ellipse
+105. Präpositionale Objekte
+106. Modalpartikeln
+107. Indirekte Rede
+108. Konjunktionaladverbien
+109. Attributsatz
+110. Genitivattribut
+111. Konnektoren
+112. Adverbialbestimmungen
+113. Satzklammer
+114. Stilmittel
+
+# Vokabeln
+## [GOETHE-ZERTIFIKAT A1 START DEUTSCH 1](https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf)
+
+
+# 100 Deutsche Sätze
 Natürlich! Hier sind 100 deutsche Sätze über Haushalt und das Leben mit der Familie, jeweils mit einem Hauptsatz und einem Nebensatz:
 
 1. Wir machen gemeinsam den Haushalt, während die Kinder spielen.
