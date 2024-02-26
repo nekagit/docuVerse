@@ -133,13 +133,4 @@ Lehrer
 Leben 
 Alltag
 
-
-
 ---
-
-![Alt text](/img/pics/Pasted%20image%2020240226191615.png)
-![Alt text](/img/pics/Pasted%20image%2020240226191634.png)
-![Alt text](/img/pics/Pasted%20image%2020240226191645.png)
-![Alt text](/img/pics/Pasted%20image%2020240226191657.png)
-![Alt text](/img/pics/Pasted%20image%2020240226191720.png)
-![Alt text](/img/pics/Pasted%20image%2020240226191731.png)
