@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0552d7c989e65ec6",
+        "id": "91601d1c37f3b77b",
         "type": "tabs",
         "children": [
           {
-            "id": "496633d7901d8ff8",
+            "id": "c367ab36054b2f25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docuVerse - Languages/Deutsch.md",
+                "file": "docuVerse - Philosophie/Hegels Welt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docuVerse - Languages/Deutsch.md",
+                "file": "docuVerse - Philosophie/Hegels Welt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docuVerse - Languages/Deutsch.md",
+                "file": "docuVerse - Philosophie/Hegels Welt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docuVerse - Languages/Deutsch.md"
+                "file": "docuVerse - Philosophie/Hegels Welt.md"
               }
             }
           }
@@ -146,8 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "496633d7901d8ff8",
+  "active": "c367ab36054b2f25",
   "lastOpenFiles": [
+    "Pasted image 20240226191731.png",
+    "Pasted image 20240226191720.png",
+    "Pasted image 20240226191657.png",
+    "Pasted image 20240226191645.png",
+    "Pasted image 20240226191634.png",
+    "Pasted image 20240226191615.png",
+    "docuVerse - Philosophie/image.png",
     "docuVerse - Languages/Deutsch.md",
     "docuVerse - Languages/_category_.json",
     "docuVerse - Languages",
