@@ -32,8 +32,7 @@ Die Welt 1770
 	2. Natur
 		1. Kleine Eiszeit - 1770 ab da 3 Europaweite Missernten 
 	3. Hegel
-		1. 23 August 1770 in Stuttgart geboren
-		2. 
+		1. 27 August 1770 in Stuttgart geboren
 	4. Sitten 
 		1. Hexenprozesse
 		2. Romanproduktion 50 auf 500
@@ -137,7 +136,8 @@ Alltag
 
 
 ---
-
+You write a link like this: [Hegel](/pics/Pasted image 20240226191615.png)
+![[Pasted image 20240226191615.png]]
 ![[Pasted image 20240226191615.png]]
 
 ![[Pasted image 20240226191634.png]]
