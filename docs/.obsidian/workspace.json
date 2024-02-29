@@ -11,8 +11,12 @@
             "id": "c367ab36054b2f25",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software Development/How To Create a Project.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ff1df0033ce4b748",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Development/How To Create a Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Development/How To Create a Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docuVerse - Software Development/C Sharp.md"
+                "file": "Software Development/How To Create a Project.md"
               }
             }
           }
@@ -140,8 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ba762082691b934",
+  "active": "c367ab36054b2f25",
   "lastOpenFiles": [
+    "Software Development/How To Start Programing.md",
+    "Software Development/How To Create a Project.md",
+    "docuVerse - Software Development/C Sharp.md",
     "Basic Knowledge/Computer Science/Bachelorarbeit/FrageGPT.md",
     "Software Development/qmBase.md",
     "Software Development/_category_.json",
@@ -175,9 +185,6 @@
     "Basic Knowledge/Serbia/serbian legends/sport.md",
     "Basic Knowledge/Serbia/serbian legends/pisci.md",
     "Basic Knowledge/Serbia/rand/How many countries in the world.md",
-    "Basic Knowledge/Serbia/rand/Google Notes.md",
-    "Basic Knowledge/Serbia/Language/srpski online resursi za prosiravanje fond reci.md",
-    "Basic Knowledge/Serbia/Language/pisci srpsi.md",
     "Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
     "Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
     "docuVerse - Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
