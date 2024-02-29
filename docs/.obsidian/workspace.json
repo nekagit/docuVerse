@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development/How To Create a Project.md",
+                "file": "Software Development/How to program a Profile Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff1df0033ce4b748",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development/How To Create a Project.md",
+                "file": "Software Development/How to program a Profile Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Development/How To Create a Project.md",
+                "file": "Software Development/How to program a Profile Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Development/How To Create a Project.md"
+                "file": "Software Development/How to program a Profile Page.md"
               }
             }
           }
@@ -149,8 +148,9 @@
   },
   "active": "c367ab36054b2f25",
   "lastOpenFiles": [
-    "Software Development/How To Start Programing.md",
     "Software Development/How To Create a Project.md",
+    "Software Development/How to program a Profile Page.md",
+    "Software Development/How To Start Programing.md",
     "docuVerse - Software Development/C Sharp.md",
     "Basic Knowledge/Computer Science/Bachelorarbeit/FrageGPT.md",
     "Software Development/qmBase.md",
@@ -184,7 +184,6 @@
     "Basic Knowledge/Serbia/rand/Europa/List.md",
     "Basic Knowledge/Serbia/serbian legends/sport.md",
     "Basic Knowledge/Serbia/serbian legends/pisci.md",
-    "Basic Knowledge/Serbia/rand/How many countries in the world.md",
     "Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
     "Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
     "docuVerse - Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
