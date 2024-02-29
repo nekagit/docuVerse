@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "91601d1c37f3b77b",
+        "id": "ecf38f51fb455ecb",
         "type": "tabs",
         "children": [
           {
-            "id": "c367ab36054b2f25",
+            "id": "a11b01ac315bd616",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development/Programming/How To/How to implement Font Family.md",
+                "file": "Software Development/Programming/How To/How To Choose a Color Pallete.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development/Programming/How To/How to implement Font Family.md",
+                "file": "Software Development/Programming/How To/How To Choose a Color Pallete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Development/Programming/How To/How to implement Font Family.md",
+                "file": "Software Development/Programming/How To/How To Choose a Color Pallete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Development/Programming/How To/How to implement Font Family.md"
+                "file": "Software Development/Programming/How To/How To Choose a Color Pallete.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c367ab36054b2f25",
+  "active": "a11b01ac315bd616",
   "lastOpenFiles": [
-    "Software Development/Programming/How To/Untitled.md",
+    "Languages/Deutsch.md",
     "Software Development/Programming/How To/How to implement Font Family.md",
+    "Software Development/Programming/How To/Untitled.md",
     "Software Development/Untitled.md",
     "Software Development/Programming/ReactJs.md",
     "Software Development/Programming/DevOPs.md",
@@ -178,7 +179,6 @@
     "Gewohnheiten",
     "Languages/_category_.json",
     "Languages/Spanisch.md",
-    "Languages/Deutsch.md",
     "Languages",
     "Buch/inhaltsverzeichniss.md",
     "Buch/Brainstorm.md",

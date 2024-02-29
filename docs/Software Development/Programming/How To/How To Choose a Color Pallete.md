@@ -73,13 +73,7 @@ Colors not only enhance aesthetics but also convey meaning and functionality in 
 Explore these tools and resources for color selection and management in web design:
 
 - **Choosing Colors:**
-    - [FlatColorsUI](link)
-    - [ColorSupplyyy](link)
-    - [Adobe Color Wheel](link)
-    - [Coolors](link)
-    - [ColorDrop](link)
-    - [Oto255](link)
-- **Custom CSS Builder**
+   - **Custom CSS Builder**
 - **Contrast Checkers**
 - **Color-blindness Simulators**
 
