@@ -3,7 +3,7 @@ import type { Config } from "@docusaurus/types";
 import { themes as prismThemes } from "prism-react-renderer";
 
 const config: Config = {
-  title: "DocuVerse",
+  title: "Docs",
   // tagline: "Knowlfedge spread",
   favicon: "img/favicon.ico",
 
