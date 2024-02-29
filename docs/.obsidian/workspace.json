@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development/Programming/How To/How To Choose a Color Pallete.md",
+                "file": "Software Development/Programming/How To/How to implement Font Family.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development/Programming/How To/How To Choose a Color Pallete.md",
+                "file": "Software Development/Programming/How To/How to implement Font Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Development/Programming/How To/How To Choose a Color Pallete.md",
+                "file": "Software Development/Programming/How To/How to implement Font Family.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Development/Programming/How To/How To Choose a Color Pallete.md"
+                "file": "Software Development/Programming/How To/How to implement Font Family.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "a11b01ac315bd616",
   "lastOpenFiles": [
+    "Software Development/Programming/How To/How To Setup CSS.md",
+    "Software Development/Programming/How To/How To Choose a Color Pallete.md",
     "Languages/Deutsch.md",
     "Software Development/Programming/How To/How to implement Font Family.md",
     "Software Development/Programming/How To/Untitled.md",
@@ -155,7 +157,6 @@
     "Software Development/Programming/ReactJs.md",
     "Software Development/Programming/DevOPs.md",
     "Software Development/Programming/C Sharp.md",
-    "Software Development/Programming/How To/How To Choose a Color Pallete.md",
     "Software Development/BachelorArbeit.md",
     "Software Development/Programming/How To",
     "Software Development/qmBase.md",
@@ -163,7 +164,6 @@
     "Software Development/Programming/How To/How to program a Profile Page.md",
     "Software Development/Programming",
     "Software Development/Programming/How To/How To Start Programing.md",
-    "Software Development/Programming/How To/How To Setup CSS.md",
     "Software Development/Programming/How To/How To Create a Project.md",
     "docuVerse - Software Development/C Sharp.md",
     "Basic Knowledge/Computer Science/Bachelorarbeit/FrageGPT.md",

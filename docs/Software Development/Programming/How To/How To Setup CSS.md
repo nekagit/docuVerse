@@ -1,9 +1,9 @@
-# Links
+## Links
 https://kinsta.com/blog/css-best-practices/
 CSS / 14 Best Practices /
 
 ---
-# CSS Best Practices for Beginners
+## CSS Best Practices for Beginners
 
 When you’re just starting out with web design, understanding CSS (Cascading Style Sheets) and following best practices is essential. CSS allows you to style HTML elements to create visually appealing and functional websites. Here are some CSS best practices specifically aimed at beginners:
 
