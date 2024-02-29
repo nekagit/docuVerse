@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development/How to program a Profile Page.md",
+                "file": "Software Development/How To Setup CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development/How to program a Profile Page.md",
+                "file": "Software Development/How To Setup CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Development/How to program a Profile Page.md",
+                "file": "Software Development/How To Setup CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Development/How to program a Profile Page.md"
+                "file": "Software Development/How To Setup CSS.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "c367ab36054b2f25",
   "lastOpenFiles": [
-    "Software Development/How To Create a Project.md",
+    "Software Development/How To Choose a Color Pallete.md",
+    "Software Development/How To Setup CSS.md",
     "Software Development/How to program a Profile Page.md",
+    "Software Development/How To Create a Project.md",
     "Software Development/How To Start Programing.md",
     "docuVerse - Software Development/C Sharp.md",
     "Basic Knowledge/Computer Science/Bachelorarbeit/FrageGPT.md",
@@ -182,8 +184,6 @@
     "Basic Knowledge/Serbia/rand/Europa/List/Andorra.md",
     "Basic Knowledge/Serbia/rand/Europa/List/Albanien.md",
     "Basic Knowledge/Serbia/rand/Europa/List.md",
-    "Basic Knowledge/Serbia/serbian legends/sport.md",
-    "Basic Knowledge/Serbia/serbian legends/pisci.md",
     "Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
     "Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
     "docuVerse - Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
