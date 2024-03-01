@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development/Programming/How To/How to implement Font Family.md",
+                "file": "Philosophie/Hegels Welt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development/Programming/How To/How to implement Font Family.md",
+                "file": "Philosophie/Hegels Welt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Development/Programming/How To/How to implement Font Family.md",
+                "file": "Philosophie/Hegels Welt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Development/Programming/How To/How to implement Font Family.md"
+                "file": "Philosophie/Hegels Welt.md"
               }
             }
           }
@@ -148,10 +148,15 @@
   },
   "active": "a11b01ac315bd616",
   "lastOpenFiles": [
+    "Philosophie/Untitled.md",
+    "Philosophie/Hegels Welt.md",
+    "Philosophie/Ueberblick.md",
+    "Philosophie/Hegels Welt.mdx",
+    "Pasted image 20240301133246.png",
+    "Software Development/Programming/How To/How to implement Font Family.md",
     "Software Development/Programming/How To/How To Setup CSS.md",
     "Software Development/Programming/How To/How To Choose a Color Pallete.md",
     "Languages/Deutsch.md",
-    "Software Development/Programming/How To/How to implement Font Family.md",
     "Software Development/Programming/How To/Untitled.md",
     "Software Development/Untitled.md",
     "Software Development/Programming/ReactJs.md",
@@ -172,18 +177,14 @@
     "Software Development/ASPDOTNET.mdx",
     "Software Development",
     "Philosophie/_category_.json",
-    "Philosophie/Ueberblick.md",
-    "Philosophie/Hegels Welt.md",
     "Philosophie",
     "Gewohnheiten/Untitled.md",
     "Gewohnheiten",
     "Languages/_category_.json",
     "Languages/Spanisch.md",
-    "Languages",
     "Buch/inhaltsverzeichniss.md",
     "Buch/Brainstorm.md",
     "Basic Knowledge/Serbia/rand/Europa/List/Serbia.md",
-    "Basic Knowledge/Serbia/rand/Europa/List/Oesterreich.md",
     "Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
     "Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
     "docuVerse - Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",

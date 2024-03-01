@@ -3,7 +3,10 @@ sidebar_position: 2
 ---
 # Juergen Kaube
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MJK62582_J%C3%BCrgen_Kaube_%28Frankfurter_Buchmesse_2018%29.jpg/800px-MJK62582_J%C3%BCrgen_Kaube_%28Frankfurter_Buchmesse_2018%29.jpg)
+
 # Hegels Welt
+
 Georg Willhelm Friedrich Hegel geboren 27.August 1770
 
 ### Inhaltsverzeichniss
@@ -19,7 +22,7 @@ Georg Willhelm Friedrich Hegel geboren 27.August 1770
 10. Schule, Logik, Ehe 
 11. Das schwierigste Buch 
 12. Heidelberg
-# Einleitung
+# Einleitung 
 
 
 Die Welt 1770

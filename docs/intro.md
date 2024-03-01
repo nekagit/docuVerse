@@ -10,6 +10,8 @@ Also ist es von gutem Start sich mit Markdown auszukennen um auch effizient Text
 
 [Markdown Hauptseite](https://markdown.de/)
 
+[Welcome to Theodore Chu's Docs](https://theochu.com/)
+
 # Inhaltsverzeichniss
 
 1. Software Development

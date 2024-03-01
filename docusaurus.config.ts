@@ -97,8 +97,8 @@ const config: Config = {
       copyright: `Copyright © ${new Date().getFullYear()} DocuVerse, Inc. Built with Docusaurus.`,
     },
     prism: {
-      theme: prismThemes.github,
-      darkTheme: prismThemes.dracula,
+      theme: prismThemes.dracula,
+      darkTheme: prismThemes.ultramin,
     },
   } satisfies Preset.ThemeConfig,
 };
