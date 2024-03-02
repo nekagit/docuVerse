@@ -57,3 +57,4 @@ By following these steps, you can effectively leverage LangChain for a wide rang
 
 
 krompir
+salata
