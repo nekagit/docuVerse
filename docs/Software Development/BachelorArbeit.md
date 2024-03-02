@@ -37,3 +37,38 @@ ChatGPT besteht aus einem tiefen neuronalen Netzwerk, das auf der GPT-3.5-Archit
 
 Es ist wichtig zu beachten, dass ChatGPT auf bereits vorhandenem Texttraining basiert und keine echte Verständnis- oder Bewusstseinsfähigkeit hat. Es zieht lediglich Schlüsse aus Mustern in den Daten, auf denen es trainiert wurde. Daher kann es in manchen Fällen fehlerhaft sein oder nicht vollständig den Kontext erfassen.
 
+---
+# Bachelor Thesis
+
+Prof. Dr. Frank Weichert
+
+Preboarding ChatBot for TU Dortmund Website
+
+# ChatGPT
+
+Generative Pretrained Transformer
+GPT-3.5
+175 billion parameters
+96 layers input layer
+
+1. Model Evaluation and Deployment
+2. Training Techniques and Optimizations
+3. Language Generation and Understanding
+4. Machine Learning Infrastructure and Operations
+5. Neural Network Architecture and Components
+
+### How it Goes from Question to Answer
+
+ChatGPT consists of a deep neural network based on the GPT-3.5 architecture by OpenAI. The model has been trained on vast amounts of text data to understand and respond to a wide range of natural language. Here are the basic steps involved in generating a response by ChatGPT:
+
+1. **Tokenization:** The input is divided into smaller units called tokens. A token could be a single character or a group of characters. This allows the model to break down the text into manageable pieces.
+
+2. **Embedding:** Each token is converted into a numerical vector representing the semantic understanding of the token. These vectors are called embeddings and help the model understand the context of the words.
+
+3. **Processing by the Model:** The embedded tokens are fed into the deep neural network of GPT-3.5. During training, the model has learned to capture complex patterns and dependencies in the data. It uses these abilities to understand the context of the input.
+
+4. **Generation of the Response:** Based on the learned context, the model generates a response, attempting to form coherent and meaningful sentences relevant to the input.
+
+5. **Decoding:** The generated response is converted back into natural language and presented as text output.
+
+It's important to note that ChatGPT is based on pre-existing text training and does not have genuine understanding or consciousness. It merely draws inferences from patterns in the data it was trained on. Therefore, it may be erroneous or not fully grasp the context in some cases.

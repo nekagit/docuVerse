@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ecf38f51fb455ecb",
+        "id": "88c976a66a53c0ab",
         "type": "tabs",
         "children": [
           {
-            "id": "a11b01ac315bd616",
+            "id": "52a2bfc249f956dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Hegels Welt.md",
+                "file": "Software Development/BachelorArbeit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Hegels Welt.md",
+                "file": "Software Development/BachelorArbeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Hegels Welt.md",
+                "file": "Software Development/BachelorArbeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Hegels Welt.md"
+                "file": "Software Development/BachelorArbeit.md"
               }
             }
           }
@@ -146,45 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a11b01ac315bd616",
+  "active": "52a2bfc249f956dc",
   "lastOpenFiles": [
-    "Philosophie/Untitled.md",
-    "Philosophie/Hegels Welt.md",
-    "Philosophie/Ueberblick.md",
-    "Philosophie/Hegels Welt.mdx",
-    "Pasted image 20240301133246.png",
-    "Software Development/Programming/How To/How to implement Font Family.md",
-    "Software Development/Programming/How To/How To Setup CSS.md",
-    "Software Development/Programming/How To/How To Choose a Color Pallete.md",
-    "Languages/Deutsch.md",
-    "Software Development/Programming/How To/Untitled.md",
-    "Software Development/Untitled.md",
-    "Software Development/Programming/ReactJs.md",
-    "Software Development/Programming/DevOPs.md",
-    "Software Development/Programming/C Sharp.md",
-    "Software Development/BachelorArbeit.md",
-    "Software Development/Programming/How To",
-    "Software Development/qmBase.md",
-    "Software Development/General.md",
-    "Software Development/Programming/How To/How to program a Profile Page.md",
-    "Software Development/Programming",
     "Software Development/Programming/How To/How To Start Programing.md",
-    "Software Development/Programming/How To/How To Create a Project.md",
-    "docuVerse - Software Development/C Sharp.md",
-    "Basic Knowledge/Computer Science/Bachelorarbeit/FrageGPT.md",
-    "Software Development/_category_.json",
-    "Software Development/Programming/VueJs.md",
-    "Software Development/ASPDOTNET.mdx",
-    "Software Development",
-    "Philosophie/_category_.json",
-    "Philosophie",
+    "Untitled.md",
+    "Software Development/Programming/How To/Linux Server aufsetzen.md",
+    "Philosophie/Bücher/Hegels Welt.md",
+    "Philosophie/Bücher/Wichtige Werke.md",
+    "Philosophie/Allgemein/Wieso Philosophie.md",
+    "Philosophie/Allgemein/Philosophische Traditionen.md",
+    "Philosophie/Allgemein/Philosophische Fragen.md",
+    "Philosophie/Allgemein/Beginn der Philosophie in der Welt.md",
+    "Philosophie/Allgemein/Abbild der Philosophie.md",
     "Gewohnheiten/Untitled.md",
-    "Gewohnheiten",
-    "Languages/_category_.json",
-    "Languages/Spanisch.md",
-    "Buch/inhaltsverzeichniss.md",
-    "Buch/Brainstorm.md",
-    "Basic Knowledge/Serbia/rand/Europa/List/Serbia.md",
+    "Software Development/Programming/TechStack/C Sharp.md",
+    "Software Development/Programming/TechStack",
+    "Philosophie/Bewegungen und Bereiche/Bewegungen und Bereiche.md",
+    "Philosophie/Allgemein/Persoehnlichkeiten/Sokrates.md",
+    "Philosophie/Allgemein/Persoehnlichkeiten",
+    "Philosophie/Allgemein/fragen.md",
+    "Philosophie/Bewegungen und Bereiche",
+    "Philosophie/Allgemein",
+    "Philosophie/Bücher/7 Recommendations.md",
+    "Philosophie/Bücher",
+    "Philosophie/Allgemein/Persoehnlichkeiten/Philosophische Persoehnlichkeiten.md",
+    "Philosophie/Ueberblick.md",
+    "Philosophie/Pregled.md",
+    "Philosophie/Infamous Folks/Philosophers.md",
+    "Philosophie/Theoretische Philosophie/Wissenschaftstheorie.md",
+    "Philosophie/Theoretische Philosophie/Theoretische Philosophie.md",
+    "Philosophie/Theoretische Philosophie/Sprachphilosophie.md",
+    "Philosophie/Theoretische Philosophie/Semiotik.md",
+    "Philosophie/Theoretische Philosophie/Philosophie der Mathematik.md",
+    "Philosophie/Theoretische Philosophie/Naturphilosophie.md",
+    "Philosophie/Theoretische Philosophie",
+    "Philosophie/Praktische Philosophie",
+    "Philosophie/Infamous Folks",
+    "Pasted image 20240301133246.png",
+    "Philosophie/Hegels Welt.mdx",
+    "Software Development/Programming/How To",
     "Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
     "Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
     "docuVerse - Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",

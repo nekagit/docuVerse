@@ -41,3 +41,42 @@ Code
 5. BackEnd
 	1. C#
 
+
+---
+
+Here's the information organized into a table with 5 columns: 
+
+| Category   | Subcategory      | Item                          | Description            | Importance                               |
+|------------|------------------|-------------------------------|------------------------|-------------------------------------------|
+| Business   | Individuals      |                               |                        | Programming code that runs on computers to create software helping businesses |
+|            | Shops            |                               |                        |                                           |
+|            |                  | Kiosk                         |                        |                                           |
+|            |                  | Bakery                        |                        |                                           |
+|            |                  | Online                        |                        |                                           |
+|            | Companies        |                               |                        |                                           |
+|            |                  | Producer                      |                        |                                           |
+|            |                  | Mediator                      |                        |                                           |
+|            | University       |                               |                        |                                           |
+|            | State            |                               |                        |                                           |
+| Software   | Creating Software|                               |                        |                                           |
+|            |                  | Frameworks for creating Software |                     |                                           |
+|            |                  |                               | Vue.js                 |                                           |
+|            |                  |                               | C#                     |                                           |
+|            | Created Software |                               |                        |                                           |
+|            |                  | Games                         |                        |                                           |
+| Computer   | RAM              |                               |                        |                                           |
+|            |                  |                               | 8GB minimum            |                                           |
+|            | CPU              |                               |                        |                                           |
+|            |                  |                               | i5 6000 minimum        |                                           |
+|            | SSD              |                               |                        |                                           |
+| Code       | VSCode           |                               |                        |                                           |
+|            |                  | Extensions                    |                        |                                           |
+|            | Node.js          |                               |                        |                                           |
+|            |                  | pnpm                          |                        |                                           |
+|            |                  | Vite.js                       |                        |                                           |
+|            |                  | TypeScript                   |                        |                                           |
+|            | Git              |                               |                        |                                           |
+|            | Frontend         |                               |                        |                                           |
+|            |                  | Vue.js                        |                        |                                           |
+|            | Backend          |                               |                        |                                           |
+|            |                  | C#                            |                        |                                           |

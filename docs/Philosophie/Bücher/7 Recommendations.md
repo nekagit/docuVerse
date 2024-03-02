@@ -1,0 +1,11 @@
+
+|Title|Author|Description|Key Aspects|Key Dates|Key Figures|
+|---|---|---|---|---|---|
+|Problems of Philosophy|Bertrand Russell|Written for non-philosophers, it offers clear and interesting discussions on various philosophical topics. Includes a chapter on the value of studying philosophy and its impact on personal growth.|Logic, language, metaphysics, ethics, epistemology|Published in 1912|Bertrand Russell|
+|Think|Simon Blackburn|Written by a contemporary philosopher, it covers essential topics like free will, knowledge, ethics, and more. Provides a gentle introduction to a wide range of philosophical subjects.|Free will, knowledge, ethics, philosophy of mind, philosophy of language|Published in 1999|Simon Blackburn|
+|Complete Works of Plato|Plato|Plato's dialogues cover ethics, metaphysics, political philosophy, and more. Offers a sample of various philosophical topics discussed by a renowned thinker.|Ethics, metaphysics, political philosophy, theory of Forms, epistemology|427–347 BCE (Plato's lifetime)|Plato|
+|Meditations|Marcus Aurelius|Demonstrates philosophy as a way of life. Reflects on lessons learned from great philosophers and orators. Explores stoicism, a philosophy appealing to many in the present day.|Stoicism, philosophy as a way of life, self-reflection, ethics|Written in the 2nd century AD|Marcus Aurelius|
+|Confessions|Saint Augustine|Blends poetry, theology, and philosophy. Discusses topics such as time, motivation, existence of God, and metaphysics of evil. Provides insights into the history of Western Christian thought.|Theology, philosophy, introspection, sin, time, existence of God|Written between 397 and 400 AD|Saint Augustine|
+|Meditations|René Descartes|Focuses on epistemology and skepticism. Introduces the famous phrase "I think, therefore I am." Explores the foundation of knowledge and reasoning.|Epistemology, skepticism, Cartesian dualism, cogito ergo sum|First published in 1641|René Descartes|
+|On Liberty|John Stuart Mill|An influential work on contemporary political ideas of freedom and liberty. Traces the origins of popular notions and offers insights into the formation of political thought.|Freedom, liberty, individual rights, utilitarianism, harm principle|Published in 1859|John Stuart Mill|
+

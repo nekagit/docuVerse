@@ -1,0 +1,1 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Systematik-Philosophie.svg/800px-Systematik-Philosophie.svg.png)
