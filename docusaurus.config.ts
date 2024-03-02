@@ -60,7 +60,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "DocuVerseSidebar",
           position: "left",
-          label: "DocuVerse",
+          label: "Menu",
         },
         {
           href: "https://github.com/nekagit/docuVerse.git",

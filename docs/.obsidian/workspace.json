@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development/BachelorArbeit.md",
+                "file": "Software Development/Programming/How To/How To Data Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development/BachelorArbeit.md",
+                "file": "Software Development/Programming/How To/How To Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Development/BachelorArbeit.md",
+                "file": "Software Development/Programming/How To/How To Data Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Development/BachelorArbeit.md"
+                "file": "Software Development/Programming/How To/How To Data Science.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "52a2bfc249f956dc",
   "lastOpenFiles": [
+    "Software Development/Programming/How To/How To Implement Customized ChatBot.md",
+    "Software Development/Programming/How To/How To Data Science.md",
+    "Software Development/Programming/How To/How to program a Profile Page.md",
+    "Software Development/BachelorArbeit.md",
     "Software Development/Programming/How To/How To Start Programing.md",
     "Untitled.md",
     "Software Development/Programming/How To/Linux Server aufsetzen.md",
@@ -175,10 +179,6 @@
     "Philosophie/Infamous Folks/Philosophers.md",
     "Philosophie/Theoretische Philosophie/Wissenschaftstheorie.md",
     "Philosophie/Theoretische Philosophie/Theoretische Philosophie.md",
-    "Philosophie/Theoretische Philosophie/Sprachphilosophie.md",
-    "Philosophie/Theoretische Philosophie/Semiotik.md",
-    "Philosophie/Theoretische Philosophie/Philosophie der Mathematik.md",
-    "Philosophie/Theoretische Philosophie/Naturphilosophie.md",
     "Philosophie/Theoretische Philosophie",
     "Philosophie/Praktische Philosophie",
     "Philosophie/Infamous Folks",
