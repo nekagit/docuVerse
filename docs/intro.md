@@ -2,7 +2,15 @@
 sidebar_position: 1
 ---
 
-# DocuVerse - Verzeichniss
+# Weekly Reminder
+
+Further improvements in following Skills
+[Deutsch](https://docuverse.netlify.app/docs/Languages/Deutsch)
+1. 100 Word Definition of Music
+
+---
+
+## Was ist DocuVerse
 
 DocuVerse wird mit Markdown-Datein, mithilfe von React in diese Seiten hier umgewandelt.
 
