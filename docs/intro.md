@@ -1,29 +1,41 @@
 ---
 sidebar_position: 1
 ---
+# Docs
+<div style={{ float: 'right', textAlign: 'right', maxWidth: '50%' }}>
+  # Weekly Reminder
 
-# Weekly Reminder
+  Further improvements in following Skills
+  [German](https://docuverse.netlify.app/docs/Languages/Deutsch)
 
-Further improvements in following Skills
-[Deutsch](https://docuverse.netlify.app/docs/Languages/Deutsch)
-1. 100 Word Definition of Music
+  1. Do a dictation for german writing improvement [YT Diktat](https://www.youtube.com/watch?v=6fM4xJK3g3U)
 
----
+  2. Summarize a german text over 100 words
+  3. Read same difficult text slowly out loud
+  4. [German Podcast Episode](https://open.spotify.com/episode/171aR0iNZEcVA0i8R7lk0b?go=1&sp_cid=0ef0c0c7ad5cf26e55d24da17f76804a&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=1acd37cf75c949e7)
 
-## Was ist DocuVerse
+</div>
+<div style={{}}>
+# Table of Contents
 
-DocuVerse wird mit Markdown-Datein, mithilfe von React in diese Seiten hier umgewandelt.
+1. Software Development
+2. Book - Fear
+3. Philosophy
+4. History
+5. Card Game
 
-Also ist es von gutem Start sich mit Markdown auszukennen um auch effizient Texte zu generieren.
+</div>
+<div>
+# What is DocuVerse
 
-[Markdown Hauptseite](https://markdown.de/)
+DocuVerse converts Markdown files into these pages using React.
+
+So, it's a good start to be familiar with Markdown in order to generate text efficiently.
+
+[Markdown Main Page](https://markdown.de/)
 
 [Welcome to Theodore Chu's Docs](https://theochu.com/)
 
-# Inhaltsverzeichniss
+</div>
 
-1. Software Development
-2. Buch - Angst
-3. Philosophie
-4. Geschichte
-5. Card Game
+

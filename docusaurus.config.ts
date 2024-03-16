@@ -48,6 +48,11 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+    colorMode: {
+      defaultMode: "dark",
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "DocuVerse",
@@ -69,36 +74,35 @@ const config: Config = {
         },
       ],
     },
-    footer: {
-      style: "dark",
-      links: [
-        {
-          title: "Docs",
-          items: [
-            {
-              label: "DocuVerse",
-              to: "/docs/intro",
-            },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Discord",
-              href: "https://discord.gg/ugVyjfnp",
-            },
-          ],
-        },
-        {
-          title: "More",
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} DocuVerse, Inc. Built with Docusaurus.`,
-    },
+    // footer: {
+    //   style: "dark",
+    //   links: [
+    //     {
+    //       title: "Docs",
+    //       items: [
+    //         {
+    //           label: "DocuVerse",
+    //           to: "/docs/intro",
+    //         },
+    //       ],
+    //     },
+    //     {
+    //       title: "Community",
+    //       items: [
+    //         {
+    //           label: "Discord",
+    //           href: "https://discord.gg/ugVyjfnp",
+    //         },
+    //       ],
+    //     },
+    //     {
+    //       title: "More",
+    //     },
+    //   ],
+    //   copyright: `Copyright © ${new Date().getFullYear()} DocuVerse, Inc. Built with Docusaurus.`,
+    // },
     prism: {
-      theme: prismThemes.dracula,
-      darkTheme: prismThemes.ultramin,
+      darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
 };
