@@ -1,16 +1,14 @@
-"use client"
+"use client";
 
-import * as React from "react"
-import Link from "next/link"
-import { usePathname } from "next/navigation"
+import Link from "next/link";
+import { usePathname } from "next/navigation";
 
-import { siteConfig } from "@/config/site"
-import { cn } from "@/lib/utils"
-import { Icons } from "@/components/icons"
-import { Badge } from "@/registry/new-york/ui/badge"
+import { Icons } from "@/components/icons";
+import { siteConfig } from "@/config/site";
+import { cn } from "../../../src/lib/utils";
 
 export function MainNav() {
-  const pathname = usePathname()
+  const pathname = usePathname();
 
   return (
     <div className="mr-4 hidden md:flex">
@@ -73,5 +71,5 @@ export function MainNav() {
         </Link>
       </nav>
     </div>
-  )
+  );
 }

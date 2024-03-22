@@ -1,35 +1,35 @@
-"use client"
+"use client";
 
-import * as React from "react"
-import { useRouter } from "next/navigation"
-import { CaretSortIcon, CheckIcon } from "@radix-ui/react-icons"
-import { PopoverProps } from "@radix-ui/react-popover"
+import { CaretSortIcon, CheckIcon } from "@radix-ui/react-icons";
+import { PopoverProps } from "@radix-ui/react-popover";
+import { useRouter } from "next/navigation";
+import * as React from "react";
 
-import { cn } from "@/lib/utils"
-import { Button } from "@/registry/new-york/ui/button"
+import { Button } from "@/registry/new-york/ui/button";
 import {
   Command,
   CommandEmpty,
   CommandGroup,
   CommandInput,
   CommandItem,
-} from "@/registry/new-york/ui/command"
+} from "@/registry/new-york/ui/command";
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "@/registry/new-york/ui/popover"
+} from "@/registry/new-york/ui/popover";
+import { cn } from "../../../src/lib/utils";
 
-import { Preset } from "../data/presets"
+import { Preset } from "../data/presets";
 
 interface PresetSelectorProps extends PopoverProps {
-  presets: Preset[]
+  presets: Preset[];
 }
 
 export function PresetSelector({ presets, ...props }: PresetSelectorProps) {
-  const [open, setOpen] = React.useState(false)
-  const [selectedPreset, setSelectedPreset] = React.useState<Preset>()
-  const router = useRouter()
+  const [open, setOpen] = React.useState(false);
+  const [selectedPreset, setSelectedPreset] = React.useState<Preset>();
+  const router = useRouter();
 
   return (
     <Popover open={open} onOpenChange={setOpen} {...props}>
@@ -54,8 +54,8 @@ export function PresetSelector({ presets, ...props }: PresetSelectorProps) {
               <CommandItem
                 key={preset.id}
                 onSelect={() => {
-                  setSelectedPreset(preset)
-                  setOpen(false)
+                  setSelectedPreset(preset);
+                  setOpen(false);
                 }}
               >
                 {preset.name}
@@ -78,5 +78,5 @@ export function PresetSelector({ presets, ...props }: PresetSelectorProps) {
         </Command>
       </PopoverContent>
     </Popover>
-  )
+  );
 }

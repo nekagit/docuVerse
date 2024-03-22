@@ -1,19 +1,18 @@
-import { ComponentProps } from "react"
-import formatDistanceToNow from "date-fns/formatDistanceToNow"
+import formatDistanceToNow from "date-fns/formatDistanceToNow";
+import { ComponentProps } from "react";
 
-import { cn } from "@/lib/utils"
-import { Badge } from "@/registry/new-york/ui/badge"
-import { ScrollArea } from "@/registry/new-york/ui/scroll-area"
-import { Separator } from "@/registry/new-york/ui/separator"
-import { Mail } from "@/app/examples/mail/data"
-import { useMail } from "@/app/examples/mail/use-mail"
+import { Mail } from "@/app/examples/mail/data";
+import { useMail } from "@/app/examples/mail/use-mail";
+import { Badge } from "@/registry/new-york/ui/badge";
+import { ScrollArea } from "@/registry/new-york/ui/scroll-area";
+import { cn } from "../../../src/lib/utils";
 
 interface MailListProps {
-  items: Mail[]
+  items: Mail[];
 }
 
 export function MailList({ items }: MailListProps) {
-  const [mail, setMail] = useMail()
+  const [mail, setMail] = useMail();
 
   return (
     <ScrollArea className="h-screen">
@@ -71,19 +70,19 @@ export function MailList({ items }: MailListProps) {
         ))}
       </div>
     </ScrollArea>
-  )
+  );
 }
 
 function getBadgeVariantFromLabel(
   label: string
 ): ComponentProps<typeof Badge>["variant"] {
   if (["work"].includes(label.toLowerCase())) {
-    return "default"
+    return "default";
   }
 
   if (["personal"].includes(label.toLowerCase())) {
-    return "outline"
+    return "outline";
   }
 
-  return "secondary"
+  return "secondary";
 }

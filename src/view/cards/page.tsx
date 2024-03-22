@@ -1,22 +1,22 @@
-import { Metadata } from "next"
-import Image from "next/image"
+import { Metadata } from "next";
+import Image from "next/image";
 
-import { cn } from "@/lib/utils"
+import { cn } from "../../../src/lib/utils";
 
-import { DemoCookieSettings } from "./components/cookie-settings"
-import { DemoCreateAccount } from "./components/create-account"
-import { DemoDatePicker } from "./components/date-picker"
-import { DemoGithub } from "./components/github-card"
-import { DemoNotifications } from "./components/notifications"
-import { DemoPaymentMethod } from "./components/payment-method"
-import { DemoReportAnIssue } from "./components/report-an-issue"
-import { DemoShareDocument } from "./components/share-document"
-import { DemoTeamMembers } from "./components/team-members"
+import { DemoCookieSettings } from "./components/cookie-settings";
+import { DemoCreateAccount } from "./components/create-account";
+import { DemoDatePicker } from "./components/date-picker";
+import { DemoGithub } from "./components/github-card";
+import { DemoNotifications } from "./components/notifications";
+import { DemoPaymentMethod } from "./components/payment-method";
+import { DemoReportAnIssue } from "./components/report-an-issue";
+import { DemoShareDocument } from "./components/share-document";
+import { DemoTeamMembers } from "./components/team-members";
 
 export const metadata: Metadata = {
   title: "Cards",
   description: "Examples of cards built using the components.",
-}
+};
 
 function DemoContainer({
   className,
@@ -30,7 +30,7 @@ function DemoContainer({
       )}
       {...props}
     />
-  )
+  );
 }
 
 export default function CardsPage() {
@@ -88,5 +88,5 @@ export default function CardsPage() {
         </div>
       </div>
     </>
-  )
+  );
 }

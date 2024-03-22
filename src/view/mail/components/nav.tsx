@@ -1,24 +1,24 @@
-"use client"
+"use client";
 
-import Link from "next/link"
-import { LucideIcon } from "lucide-react"
+import { LucideIcon } from "lucide-react";
+import Link from "next/link";
 
-import { cn } from "@/lib/utils"
-import { buttonVariants } from "@/registry/default/ui/button"
+import { buttonVariants } from "@/registry/default/ui/button";
 import {
   Tooltip,
   TooltipContent,
   TooltipTrigger,
-} from "@/registry/new-york/ui/tooltip"
+} from "@/registry/new-york/ui/tooltip";
+import { cn } from "../../../src/lib/utils";
 
 interface NavProps {
-  isCollapsed: boolean
+  isCollapsed: boolean;
   links: {
-    title: string
-    label?: string
-    icon: LucideIcon
-    variant: "default" | "ghost"
-  }[]
+    title: string;
+    label?: string;
+    icon: LucideIcon;
+    variant: "default" | "ghost";
+  }[];
 }
 
 export function Nav({ links, isCollapsed }: NavProps) {
@@ -83,5 +83,5 @@ export function Nav({ links, isCollapsed }: NavProps) {
         )}
       </nav>
     </div>
-  )
+  );
 }

@@ -1,17 +1,23 @@
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import Heading from "@theme/Heading";
 import Layout from "@theme/Layout";
 import clsx from "clsx";
 
+import IndexComponent from "../components/index";
 import styles from "./index.module.css";
+
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero hero--primary", styles.heroBanner)}>
+    <header
+      className={clsx(
+        "hero hero--primary animate-slide-down",
+        styles.heroBanner
+      )}
+    >
       <div className="container">
-        <Heading as="h1" className="hero__title">
+        <Heading as="h1" className="hero__title  animate-slide-down">
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
@@ -29,7 +35,11 @@ export default function Home(): JSX.Element {
     >
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <div
+          className=" animate-slide-down"
+          style={{ marginBottom: "3rem!important", height: "3rem" }}
+        ></div>
+        <IndexComponent />
       </main>
     </Layout>
   );

@@ -1,15 +1,15 @@
-import { Metadata } from "next"
-import Image from "next/image"
-import Link from "next/link"
+import { Metadata } from "next";
+import Image from "next/image";
+import Link from "next/link";
 
-import { cn } from "@/lib/utils"
-import { buttonVariants } from "@/registry/new-york/ui/button"
-import { UserAuthForm } from "@/app/examples/authentication/components/user-auth-form"
+import { UserAuthForm } from "@/app/examples/authentication/components/user-auth-form";
+import { buttonVariants } from "@/registry/new-york/ui/button";
+import { cn } from "../../../src/lib/utils";
 
 export const metadata: Metadata = {
   title: "Authentication",
   description: "Authentication forms built using the components.",
-}
+};
 
 export default function AuthenticationPage() {
   return (
@@ -100,5 +100,5 @@ export default function AuthenticationPage() {
         </div>
       </div>
     </>
-  )
+  );
 }
