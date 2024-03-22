@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 # Docs
-<div style={{ float: 'right', textAlign: 'right', maxWidth: '50%' }}>
+<div style={{ float: 'right', textAlign: 'right' }}>
   # Weekly Reminder
 
   Further improvements in following Skills
