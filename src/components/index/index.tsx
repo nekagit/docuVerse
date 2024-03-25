@@ -1,3 +1,6 @@
+import { useGSAP } from "@gsap/react";
+import gsap from "gsap";
+import { useRef } from "react";
 import {
   Card,
   CardContent,
@@ -6,25 +9,141 @@ import {
   CardHeader,
   CardTitle,
 } from "../../components/ui/card";
+
 export default function IndexComponent() {
+  gsap.registerPlugin(useGSAP);
+
+  const container = useRef();
+
+ useGSAP(
+   () => {
+     gsap.to("span", { x: 10, yoyo: true, repeat: 21, duration: 0.05 });
+   },
+   { scope: container }
+ );
+
+
+  // JSON-Daten mit den Angeboten
+  const data = {
+    offerings: [
+      {
+        category: "Software Development",
+        links: [
+          "https://docuverse.netlify.app/docs/category/software-development",
+        ],
+      },
+      {
+        category: "Cheap Contracts for Household-Electricity",
+        links: [
+          "https://docuverse.netlify.app/docs/category/software-development",
+        ],
+      },
+      {
+        category: "Collaboration on writing a book",
+        links: ["https://docuverse.netlify.app/docs/category/docuverse---buch"],
+      },
+      {
+        category: "German Classes",
+        links: ["https://docuverse.netlify.app/docs/category/languages"],
+      },
+      {
+        category: "English Classes",
+        links: ["https://docuverse.netlify.app/docs/category/languages"],
+      },
+      {
+        category: "Coding Classes",
+        links: [
+          "https://docuverse.netlify.app/docs/category/software-development",
+        ],
+      },
+      {
+        category: "Weekly Meeting regarding Spanish",
+        links: ["https://docuverse.netlify.app/docs/category/languages"],
+      },
+      {
+        category: "Monthly Meeting regarding Philosophy",
+        links: ["https://docuverse.netlify.app/docs/category/philosophie"],
+      },
+      {
+        category: "University Knowledgebase regarding Computer Science",
+        links: [
+          "https://docuverse.netlify.app/docs/category/software-development",
+        ],
+      },
+      {
+        category: "Coding Projects",
+        links: ["https://github.com/nekagit?tab=repositories"],
+      },
+      {
+        category: "Soon Functioning simple Apps here available!",
+        links: ["https://github.com/nekagit?tab=repositories"],
+      },
+    ],
+    contacts: [
+      {
+        platform: "Discord",
+        username: "nenad6546",
+        link: "https://discord.com/nenad6546",
+      },
+      {
+        platform: "Instagram",
+        username: "nenadkal",
+        link: "https://instagram.com/nenadkal",
+      },
+      {
+        platform: "Meta-Facebook",
+        username: "Nenad Kalicanin",
+        link: "https://www.facebook.com/nenad.kalicanin.3/",
+      },
+      {
+        platform: "Telegram",
+        username: "nenadkal",
+        link: "https://t.me/nenadkal",
+      },
+    ],
+  };
+
+  const renderOfferings = () => {
+    return data.offerings.map((offering, index) => (
+      <span  key={index}>
+        <a className="box" href={offering.links[0]} target="_blank" rel="noopener noreferrer">
+          {offering.category}
+        </a>
+        <br />
+      </span>
+    ));
+  };
+
+  // Funktion zur Erstellung von JSX-Elementen für die Kontakte
+  const renderContacts = () => {
+    return data.contacts.map((contact, index) => (
+      <span key={index}>
+        <a className="box" href={contact.link} target="_blank" rel="noopener noreferrer">
+          {contact.platform} - {contact.username}
+        </a>
+        <br />
+      </span>
+    ));
+  };
   return (
     <div
-      className="bg-white w-full grid"
-      style={{
-        width: "fit-content",
-        margin: "auto",
-        padding: "3rem",
-      }}
+      className="box bg-white w-full grid"
+      style={{ width: "fit-content", margin: "auto", padding: "3rem" }}
+      ref={container}
     >
-      <Card className="w-[650px] ">
+      <Card className="w-[650px]">
         <CardHeader>
           <CardTitle>
             <u>
-              <h1 style={{ textAlign: "center", color: "red" }}>Free Offering</h1>
+              <h1 style={{ textAlign: "center", color: "red" }}>
+                Free Offering
+              </h1>
             </u>
           </CardTitle>
           <CardDescription>
-            <div
+            <span
+              ref={container}
+              className="container"
               style={{
                 display: "flex",
                 flexDirection: "row",
@@ -34,153 +153,9 @@ export default function IndexComponent() {
                 gap: "3rem",
               }}
             >
-              <div>
-                <h2>
-                  <a
-                    href="/spanish/weekly"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Software Development
-                  </a>
-                </h2>
-                <h2>
-                  <a
-                    href="/contracts/household-electricity"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Cheap Contracts for Household-Electricity
-                  </a>
-                </h2>
-                <h3>
-                  <a
-                    href="/writing/collaboration"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Collaboration on writing a book
-                  </a>
-                </h3>
-                <h3>
-                  <a
-                    href="/classes/german"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    German Classes
-                  </a>
-                </h3>
-                <h3>
-                  <a
-                    href="/classes/english"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    English Classes
-                  </a>
-                </h3>
-                <h2>
-                  <a
-                    href="/classes/coding"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Coding Classes
-                  </a>
-                </h2>
-                <h5>
-                  <a
-                    href="/meetings/spanish-weekly"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Weekly Meeting regarding Spanish
-                  </a>
-                </h5>
-                <h3>
-                  <a
-                    href="/meetings/philosophy-monthly"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Monthly Meeting regarding Philosophy
-                  </a>
-                </h3>
-              </div>
-              <div>
-                <h4>
-                  <a
-                    href="/knowledgebase/computer-science"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    University Knowledgebase regarding Computer Science
-                  </a>
-                </h4>
-                <h4>
-                  <a
-                    href="/blogs/history-philosophy-coding"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Personal History, Philosophy, Coding Blogs
-                  </a>
-                </h4>
-                <h4>
-                  <a
-                    href="/projects/coding"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Coding Projects
-                  </a>
-                </h4>
-                <h2>
-                  <a href="/apps" target="_blank" rel="noopener noreferrer">
-                    Soon Functioning simple Apps here available!
-                  </a>
-                </h2>
-              </div>
-              <div>
-                <div>
-                  <a
-                    href="https://discord.com/nenad6546"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Discord - Server - CodeBoat - nenad6546
-                  </a>
-                </div>
-                <div>
-                  <a
-                    href="https://instagram.com/nenadkal"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Instagram - nenadkal
-                  </a>
-                </div>
-                <div>
-                  <a
-                    href="https://facebook.com/NenadKalicanin"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Meta-Facebook - Nenad Kalicanin
-                  </a>
-                </div>
-                <div>
-                  <a
-                    href="https://t.me/nenadkal"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Telegram - nenadkal
-                  </a>
-                </div>
-              </div>
-            </div>
+              <span>{renderOfferings()}</span>
+              <span>{renderContacts()}</span>
+            </span>
           </CardDescription>
         </CardHeader>
         <CardContent></CardContent>
