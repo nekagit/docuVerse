@@ -11,7 +11,6 @@ export default function IndexComponent() {
     <div
       className="bg-white w-full grid"
       style={{
-        border: "1px solid white",
         width: "fit-content",
         margin: "auto",
         padding: "3rem",
