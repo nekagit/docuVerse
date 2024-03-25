@@ -31,17 +31,15 @@ html, body {
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #0073ff;
+  --ifm-color-primary-dark: #00306b;
+  --ifm-color-primary-darker: #001b3c;
+  --ifm-color-primary-darkest: #003d88;
+  --ifm-color-primary-light: #2989ff;
+  --ifm-color-primary-lighter: #7ab6ff;
+  --ifm-color-primary-lightest: #c1ddff;
   --ifm-code-font-size: 90%; /*95%;*/
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-}
-body {
 }
 li {
   float: center;
@@ -51,9 +49,23 @@ li {
 }
 
 h1, h2, h3, h4, h5 {
-  color: #86fce2;
+  color: #003d88;
+}
+p{
+  font-size:21px;
+  color: #7f7f7f;
+}
+a {
+  color: rgb(98, 171, 255);
 }
 
-a {
-  color: rgb(255, 238, 0);
+body article {
+  text-align: center; 
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0;
+  padding: 0;
+}
+strong {
+  color: rgb(255, 194, 88);
 }

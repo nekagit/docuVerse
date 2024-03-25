@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "88c976a66a53c0ab",
+        "id": "d94a257091606c68",
         "type": "tabs",
         "children": [
           {
-            "id": "52a2bfc249f956dc",
+            "id": "e79188af92e31d52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/DocuVerse Philosophie.md",
+                "file": "Philosophie/Ausarbeit/Platon/Menon/Platon - Menon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/DocuVerse Philosophie.md",
+                "file": "Philosophie/Ausarbeit/Platon/Menon/Platon - Menon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/DocuVerse Philosophie.md",
+                "file": "Philosophie/Ausarbeit/Platon/Menon/Platon - Menon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/DocuVerse Philosophie.md"
+                "file": "Philosophie/Ausarbeit/Platon/Menon/Platon - Menon.md"
               }
             }
           }
@@ -146,19 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ba762082691b934",
+  "active": "e79188af92e31d52",
   "lastOpenFiles": [
+    "Philosophie/Ausarbeit/Platon/Menon/Internet.md",
+    "Philosophie/Ausarbeit/Platon/Menon/Platon - Menon.md",
+    "Philosophie/Ausarbeit/Platon/Menon",
+    "Philosophie/Ausarbeit/Platon",
+    "Philosophie/Geschichte/Vorchristliche Zeit/Sokratiker.md",
+    "Philosophie/Geschichte/Vorchristliche Zeit",
+    "Philosophie/Bücher/11 Platon Menon.pdf",
+    "Philosophie/DocuVerse Philosophie.md",
+    "Philosophie/Ausarbeit",
     "Languages/Deutsch/Allgemeinbildung",
     "Languages/Deutsch/Schreiben",
     "Languages/Deutsch/Sprechen",
     "Languages/Deutsch/Grammatik",
     "Languages/Deutsch/Vokabeln",
-    "Languages/Deutsch",
-    "Philosophie/Persönlichkeiten",
-    "Philosophie/Geschichte",
-    "Philosophie/Struktur",
     "Languages/Deutsch/Allgemeinbildung/Deutsch.md",
-    "Philosophie/DocuVerse Philosophie.md",
     "Gewohnheiten/Untitled.md",
     "Untitled.md",
     "Philosophie/Universität/Platon.md",
@@ -176,14 +180,9 @@
     "Philosophie/Allgemein/Beginn der Philosophie in der Welt.md",
     "Philosophie/Allgemein/Abbild der Philosophie.md",
     "Software Development/Programming/TechStack/C Sharp.md",
-    "Software Development/Programming/TechStack",
     "Philosophie/Geschichte/Bewegungen und Bereiche/Bewegungen und Bereiche.md",
     "Philosophie/Allgemein/Persoehnlichkeiten/Sokrates.md",
-    "Philosophie/Allgemein/Persoehnlichkeiten",
     "Philosophie/Allgemein/fragen.md",
-    "Philosophie/Bücher/7 Recommendations.md",
-    "Philosophie/Allgemein/Persoehnlichkeiten/Philosophische Persoehnlichkeiten.md",
-    "Philosophie/Ueberblick.md",
     "Pasted image 20240301133246.png",
     "Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
     "Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
