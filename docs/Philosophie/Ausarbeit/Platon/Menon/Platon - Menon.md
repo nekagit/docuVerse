@@ -38,7 +38,7 @@ Die Meinungen von Philosophen über Tugend und ihre Lehrbarkeit variieren je nac
 - Tugendethik und ihre Position zur Lehrbarkeit von Tugend
 - Deontologie und ihre Sicht auf die Lehrbarkeit von Tugend
 - Utilitarismus und seine Perspektive auf die Lehrbarkeit von Tugend
-- Die Tugendtheorie in Platons "Menon"
-- Diskussion und Bewertung der verschiedenen Ansichten
+- Die Tugend in Platons Menon
+- Bewertung der verschiedenen Ansichten
 - Schlussfolgerung
 - Referenzen
