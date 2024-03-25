@@ -15,13 +15,23 @@ export default function IndexComponent() {
 
   const container = useRef();
 
- useGSAP(
-   () => {
-     gsap.to("span", { x: 10, yoyo: true, repeat: 21, duration: 0.05 });
-   },
-   { scope: container }
- );
-
+  useGSAP(
+    () => {
+      gsap.fromTo(
+        "header",
+        { width: "0%" },
+        {
+          width: "100%",
+          duration: 2,
+          onComplete: () => {
+            gsap.fromTo("h1", { opacity: 0 }, { opacity: 1, duration: 1 });
+            gsap.fromTo("span", { opacity: 0 }, { opacity: 1, duration: 1 });
+          },
+        }
+      );
+    },
+    { scope: container }
+  );
 
   // JSON-Daten mit den Angeboten
   const data = {
@@ -105,8 +115,13 @@ export default function IndexComponent() {
 
   const renderOfferings = () => {
     return data.offerings.map((offering, index) => (
-      <span  key={index}>
-        <a className="box" href={offering.links[0]} target="_blank" rel="noopener noreferrer">
+      <span key={index}>
+        <a
+          className="box"
+          href={offering.links[0]}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           {offering.category}
         </a>
         <br />
@@ -118,7 +133,12 @@ export default function IndexComponent() {
   const renderContacts = () => {
     return data.contacts.map((contact, index) => (
       <span key={index}>
-        <a className="box" href={contact.link} target="_blank" rel="noopener noreferrer">
+        <a
+          className="box"
+          href={contact.link}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           {contact.platform} - {contact.username}
         </a>
         <br />
