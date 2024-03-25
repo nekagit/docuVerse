@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development/Programming/How To/How To Data Science.md",
+                "file": "Philosophie/DocuVerse Philosophie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development/Programming/How To/How To Data Science.md",
+                "file": "Philosophie/DocuVerse Philosophie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Development/Programming/How To/How To Data Science.md",
+                "file": "Philosophie/DocuVerse Philosophie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Development/Programming/How To/How To Data Science.md"
+                "file": "Philosophie/DocuVerse Philosophie.md"
               }
             }
           }
@@ -146,14 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52a2bfc249f956dc",
+  "active": "3ba762082691b934",
   "lastOpenFiles": [
-    "Software Development/Programming/How To/How To Implement Customized ChatBot.md",
+    "Languages/Deutsch/Allgemeinbildung",
+    "Languages/Deutsch/Schreiben",
+    "Languages/Deutsch/Sprechen",
+    "Languages/Deutsch/Grammatik",
+    "Languages/Deutsch/Vokabeln",
+    "Languages/Deutsch",
+    "Philosophie/Persönlichkeiten",
+    "Philosophie/Geschichte",
+    "Philosophie/Struktur",
+    "Languages/Deutsch/Allgemeinbildung/Deutsch.md",
+    "Philosophie/DocuVerse Philosophie.md",
+    "Gewohnheiten/Untitled.md",
+    "Untitled.md",
+    "Philosophie/Universität/Platon.md",
     "Software Development/Programming/How To/How To Data Science.md",
+    "Software Development/Programming/How To/How To Implement Customized ChatBot.md",
     "Software Development/Programming/How To/How to program a Profile Page.md",
     "Software Development/BachelorArbeit.md",
     "Software Development/Programming/How To/How To Start Programing.md",
-    "Untitled.md",
     "Software Development/Programming/How To/Linux Server aufsetzen.md",
     "Philosophie/Bücher/Hegels Welt.md",
     "Philosophie/Bücher/Wichtige Werke.md",
@@ -162,29 +175,16 @@
     "Philosophie/Allgemein/Philosophische Fragen.md",
     "Philosophie/Allgemein/Beginn der Philosophie in der Welt.md",
     "Philosophie/Allgemein/Abbild der Philosophie.md",
-    "Gewohnheiten/Untitled.md",
     "Software Development/Programming/TechStack/C Sharp.md",
     "Software Development/Programming/TechStack",
-    "Philosophie/Bewegungen und Bereiche/Bewegungen und Bereiche.md",
+    "Philosophie/Geschichte/Bewegungen und Bereiche/Bewegungen und Bereiche.md",
     "Philosophie/Allgemein/Persoehnlichkeiten/Sokrates.md",
     "Philosophie/Allgemein/Persoehnlichkeiten",
     "Philosophie/Allgemein/fragen.md",
-    "Philosophie/Bewegungen und Bereiche",
-    "Philosophie/Allgemein",
     "Philosophie/Bücher/7 Recommendations.md",
-    "Philosophie/Bücher",
     "Philosophie/Allgemein/Persoehnlichkeiten/Philosophische Persoehnlichkeiten.md",
     "Philosophie/Ueberblick.md",
-    "Philosophie/Pregled.md",
-    "Philosophie/Infamous Folks/Philosophers.md",
-    "Philosophie/Theoretische Philosophie/Wissenschaftstheorie.md",
-    "Philosophie/Theoretische Philosophie/Theoretische Philosophie.md",
-    "Philosophie/Theoretische Philosophie",
-    "Philosophie/Praktische Philosophie",
-    "Philosophie/Infamous Folks",
     "Pasted image 20240301133246.png",
-    "Philosophie/Hegels Welt.mdx",
-    "Software Development/Programming/How To",
     "Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
     "Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
     "docuVerse - Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
