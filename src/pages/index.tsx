@@ -18,7 +18,7 @@ useGSAP(
   () => {
     gsap.fromTo(
       "header",
-      { width: "70%" },
+      { width: "70%", margin:"auto" },
       { width: "100%", duration: 2 } 
     );
   },

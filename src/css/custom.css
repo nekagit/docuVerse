@@ -32,9 +32,9 @@ html, body {
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #0073ff;
-  --ifm-color-primary-dark: #00306b;
-  --ifm-color-primary-darker: #001b3c;
-  --ifm-color-primary-darkest: #003d88;
+  --ifm-color-primary-dark: #0250b0;
+  --ifm-color-primary-darker: #00408f;
+  --ifm-color-primary-darkest: #002b60;
   --ifm-color-primary-light: #2989ff;
   --ifm-color-primary-lighter: #7ab6ff;
   --ifm-color-primary-lightest: #c1ddff;
@@ -48,12 +48,9 @@ li {
   color:#ff8585!important;
 }
 
-h1, h2, h3, h4, h5 {
-  color: #003d88;
-}
 p{
   font-size:21px;
-  color: #7f7f7f;
+  color: #a0a0a0;
 }
 a {
   color: rgb(98, 171, 255);

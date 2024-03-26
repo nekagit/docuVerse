@@ -11,12 +11,8 @@
             "id": "e79188af92e31d52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/Ausarbeit/Platon/Menon/Platon - Menon.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Ausarbeit/Platon/Menon/Platon - Menon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Ausarbeit/Platon/Menon/Platon - Menon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Ausarbeit/Platon/Menon/Platon - Menon.md"
+                "file": "qmBase/Allgemein.md"
               }
             }
           }
@@ -146,10 +140,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e79188af92e31d52",
+  "active": "3ba762082691b934",
   "lastOpenFiles": [
-    "Philosophie/Ausarbeit/Platon/Menon/Internet.md",
     "Philosophie/Ausarbeit/Platon/Menon/Platon - Menon.md",
+    "qmBase/Allgemein.md",
+    "qmBase",
+    "Philosophie/Ausarbeit/Platon/Menon/Internet.md",
     "Philosophie/Ausarbeit/Platon/Menon",
     "Philosophie/Ausarbeit/Platon",
     "Philosophie/Geschichte/Vorchristliche Zeit/Sokratiker.md",
@@ -161,7 +157,6 @@
     "Languages/Deutsch/Schreiben",
     "Languages/Deutsch/Sprechen",
     "Languages/Deutsch/Grammatik",
-    "Languages/Deutsch/Vokabeln",
     "Languages/Deutsch/Allgemeinbildung/Deutsch.md",
     "Gewohnheiten/Untitled.md",
     "Untitled.md",

@@ -17,6 +17,9 @@ export default function IndexComponent() {
 
   useGSAP(
     () => {
+       gsap.from("h1", { opacity: 0, duration: 3 });
+       gsap.from("span", { opacity: 0, duration: 3 });
+         
       gsap.fromTo(
         "header",
         { width: "0%" },
@@ -24,7 +27,7 @@ export default function IndexComponent() {
           width: "100%",
           duration: 2,
           onComplete: () => {
-            gsap.fromTo("h1", { opacity: 0 }, { opacity: 1, duration: 1 });
+            gsap.fromTo("h1", { opacity: 0 }, { opacity: 1, duration: 3 });
             gsap.fromTo("span", { opacity: 0 }, { opacity: 1, duration: 1 });
           },
         }
