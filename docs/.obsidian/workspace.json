@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d94a257091606c68",
+        "id": "880817d73e58c56c",
         "type": "tabs",
         "children": [
           {
-            "id": "e79188af92e31d52",
+            "id": "dd548fd1060cfe63",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "qmBase/Allgemein.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,8 +138,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ba762082691b934",
+  "active": "dd548fd1060cfe63",
   "lastOpenFiles": [
+    "Example.md",
+    "Computer Science/Hardware",
+    "Computer Science",
+    "Basic Knowledge/Serbia/Books/Serbian.md",
+    "intro.md",
+    "Basic Knowledge/Serbia/serbian legends/sport.md",
+    "Basic Knowledge/Serbia/serbian legends/pisci.md",
+    "Basic Knowledge/Geography of the Earth.md",
+    "Computer Science/Software Development/Programming/How To/Java/How To Start Java.md",
+    "Computer Science/Software Development/Programming/How To/Java/PDF/OOP-KLK1-2022-G3.pdf",
+    "Computer Science/Software Development/Programming/How To/Java/PDF",
+    "Computer Science/Software Development/BachelorArbeit.md",
+    "Computer Science/Software Development/General.md",
+    "Computer Science/Software Development/Programming/General Coding Installation.md",
+    "Computer Science/Software Development/Programming/How To/JavaScript/ColorPallet.pdf",
+    "Computer Science/Software Development/Programming/How To/Java",
+    "Software Development/Programming/How To/Untitled.md",
+    "Software Development/qmBase.md",
+    "Computer Science/Software Development/Programming/How To/JavaScript",
     "Philosophie/Ausarbeit/Platon/Menon/Platon - Menon.md",
     "qmBase/Allgemein.md",
     "qmBase",
@@ -149,35 +166,15 @@
     "Philosophie/Ausarbeit/Platon/Menon",
     "Philosophie/Ausarbeit/Platon",
     "Philosophie/Geschichte/Vorchristliche Zeit/Sokratiker.md",
-    "Philosophie/Geschichte/Vorchristliche Zeit",
-    "Philosophie/Bücher/11 Platon Menon.pdf",
     "Philosophie/DocuVerse Philosophie.md",
-    "Philosophie/Ausarbeit",
-    "Languages/Deutsch/Allgemeinbildung",
-    "Languages/Deutsch/Schreiben",
-    "Languages/Deutsch/Sprechen",
-    "Languages/Deutsch/Grammatik",
     "Languages/Deutsch/Allgemeinbildung/Deutsch.md",
     "Gewohnheiten/Untitled.md",
-    "Untitled.md",
     "Philosophie/Universität/Platon.md",
-    "Software Development/Programming/How To/How To Data Science.md",
-    "Software Development/Programming/How To/How To Implement Customized ChatBot.md",
-    "Software Development/Programming/How To/How to program a Profile Page.md",
-    "Software Development/BachelorArbeit.md",
-    "Software Development/Programming/How To/How To Start Programing.md",
+    "Computer Science/Software Development/Programming/How To/JavaScript/How To Data Science.md",
+    "Computer Science/Software Development/Programming/How To/JavaScript/How To Implement Customized ChatBot.md",
+    "Computer Science/Software Development/Programming/How To/JavaScript/How to program a Profile Page.md",
+    "Computer Science/Software Development/Programming/How To/JavaScript/How To Start Programing.md",
     "Software Development/Programming/How To/Linux Server aufsetzen.md",
-    "Philosophie/Bücher/Hegels Welt.md",
-    "Philosophie/Bücher/Wichtige Werke.md",
-    "Philosophie/Allgemein/Wieso Philosophie.md",
-    "Philosophie/Allgemein/Philosophische Traditionen.md",
-    "Philosophie/Allgemein/Philosophische Fragen.md",
-    "Philosophie/Allgemein/Beginn der Philosophie in der Welt.md",
-    "Philosophie/Allgemein/Abbild der Philosophie.md",
-    "Software Development/Programming/TechStack/C Sharp.md",
-    "Philosophie/Geschichte/Bewegungen und Bereiche/Bewegungen und Bereiche.md",
-    "Philosophie/Allgemein/Persoehnlichkeiten/Sokrates.md",
-    "Philosophie/Allgemein/fragen.md",
     "Pasted image 20240301133246.png",
     "Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
     "Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
