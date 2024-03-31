@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb87cc62fcfd5133",
+        "id": "260a44b64a460bd0",
         "type": "tabs",
         "children": [
           {
-            "id": "2394fe48f560dc31",
+            "id": "27abba6d8ab03d15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Deutsch/Grammatik/Tabellen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cf14890ed691ed09",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4b374dd012bb6eb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/Deutsch/Grammatik/Ueberblick.md",
+                "file": "Computer Science/Hardware/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Deutsch/Grammatik/Tabellen.md",
+                "file": "Computer Science/Hardware/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Deutsch/Grammatik/Tabellen.md",
+                "file": "Computer Science/Hardware/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Deutsch/Grammatik/Tabellen.md"
+                "file": "Computer Science/Hardware/Overview.md"
               }
             }
           }
@@ -166,12 +148,30 @@
   },
   "active": "3ba762082691b934",
   "lastOpenFiles": [
-    "Languages/Deutsch/Sprechen/Ueberblick.md",
+    "Philosophie/Bücher/Wichtige Werke.md",
+    "Philosophie/Bücher/Universitaetsmateriel.md",
+    "Philosophie/Bücher/7 Recommendations.md",
+    "Philosophie/Bücher/11 Platon Menon.pdf",
+    "Philosophie/Bücher/Hegels Welt.md",
+    "Example.md",
+    "Philosophie/DocuVerse Philosophie.md",
+    "Philosophie/Struktur/Praktische Philosophie/Geschichtsphilosophie.md",
+    "Philosophie/Struktur/Praktische Philosophie/Ethik.md",
+    "Philosophie/Struktur/Praktische Philosophie/Aesthetik.md",
+    "Philosophie/Geschichte/Vorchristliche Zeit/Sokratiker.md",
+    "Philosophie/Geschichte/Bewegungen und Bereiche/Bewegungen und Bereiche.md",
+    "Philosophie/Allgemein/Wieso Philosophie.md",
+    "Philosophie/Allgemein/Philosophische Traditionen.md",
+    "Philosophie/Allgemein/Philosophische Fragen.md",
+    "Philosophie/Allgemein/Beginn der Philosophie in der Welt.md",
+    "Philosophie/Allgemein/Abbild der Philosophie.md",
+    "intro.md",
+    "Languages/Deutsch/Grammatik/Ueberblick.md",
     "Languages/Deutsch/Grammatik/Tabellen.md",
+    "Languages/Deutsch/Sprechen/Ueberblick.md",
     "Languages/Deutsch/Vokabeln/Ueberblick.md",
     "Languages/Deutsch/Rechtschreibung/Ueberblick.md",
     "Languages/Deutsch/Vokabeln",
-    "Languages/Deutsch/Grammatik/Ueberblick.md",
     "Languages/Deutsch/Hoeren/Ueberblick.md",
     "Languages/Deutsch/Lesen/Deutsche Maerchen.md",
     "Languages/Deutsch/Uebungen/Ueberblick.md",
@@ -182,26 +182,8 @@
     "Languages/Deutsch/Rechtschreibung",
     "Languages/Deutsch/Grammatik",
     "Computer Science/Software Development/General.md",
-    "Computer Science/Software Development/BachelorArbeit.md",
-    "intro.md",
     "Computer Science/University/Logik",
     "Computer Science/University/Webtechnologien",
-    "Computer Science/University/Software Technik",
-    "Philosophie/Bücher/Universitaetsmateriel.md",
-    "Philosophie/Bücher/Wichtige Werke.md",
-    "Philosophie/Bücher/Hegels Welt.md",
-    "Philosophie/Bücher/7 Recommendations.md",
-    "Philosophie/DocuVerse Philosophie.md",
-    "Computer Science/Hardware/Overview.md",
-    "Example.md",
-    "Basic Knowledge/Serbia/Books/Serbian.md",
-    "Basic Knowledge/Serbia/serbian legends/sport.md",
-    "Basic Knowledge/Serbia/serbian legends/pisci.md",
-    "Basic Knowledge/Geography of the Earth.md",
-    "Computer Science/Software Development/Programming/How To/Java/How To Start Java.md",
-    "Computer Science/Software Development/Programming/General Coding Installation.md",
-    "Software Development/Programming/How To/Untitled.md",
-    "Software Development/qmBase.md",
     "Pasted image 20240301133246.png",
     "Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
     "Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",

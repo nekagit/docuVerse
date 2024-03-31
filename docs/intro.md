@@ -9,8 +9,10 @@ sidebar_position: 1
 ### Profile Pages
 1. Jamal Projects
 2. Ghasemi Architecture
-3. Can Karoo
-4. RYSport
+3. stichtingsoprotterdam
+4. Can Karoo
+5. RYSport
+6. Pocucaa
 
 ### E-Commerce Shops
 1. Ahmed Shop
@@ -22,9 +24,12 @@ sidebar_position: 1
 2. Cat Card Game
 
 ### Web Apps
-1. Low Price Appointment Website
-2. TimeCard
-3. DevHelps
+1. CodeBoat
+	1. CRM
+	2. Teaching Tools
+2. Low Price Appointment Website
+3. TimeCard
+4. DevHelps
 
 ---
 ## Philosophy

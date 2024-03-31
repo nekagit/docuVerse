@@ -1,4 +1,5 @@
 
+https://www.grammatikdeutsch.de/
 
 ►[Substantive/Nomen](https://www.grammatikdeutsch.de/html/nomen-substantive.html)  
 

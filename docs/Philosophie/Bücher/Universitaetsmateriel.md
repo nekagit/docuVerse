@@ -39,4 +39,3 @@
 ## Nicholas Mollberg
 - **Werk:** "Evangelical Christianity and the Sámi"
 - **Weitere Literatur:** Outi Tuomi-Nikula: "Identität zwischen Lokalität und Globalität: Die finnischen Sami"
-w
