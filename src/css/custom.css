@@ -42,11 +42,12 @@ html, body {
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 li {
-  font-size: 21px!important;
+  font-size: 25px!important;
   font-weight: bold;
   color:#ff8585!important;
 }
 li li {
+  font-size: 21px!important;
   color:#b3a5a5!important;
  text-align: left;
 }
