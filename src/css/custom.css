@@ -42,10 +42,13 @@ html, body {
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 li {
-  float: center;
   font-size: 21px!important;
   font-weight: bold;
   color:#ff8585!important;
+}
+li li {
+  color:#b3a5a5!important;
+ text-align: left;
 }
 
 p{
@@ -55,12 +58,15 @@ p{
 a {
   color: rgb(98, 171, 255);
 }
+h1,h2,h3{
+ margin-left: 4rem;
 
+}
 body article {
   text-align: center; 
   width: 100% !important;
   max-width: 100% !important;
-  margin: 0;
+  margin: auto;
   padding: 0;
 }
 strong {
