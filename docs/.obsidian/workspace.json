@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Hardware/Overview.md",
+                "file": "Buch/Brainstorm-Universum.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Hardware/Overview.md",
+                "file": "Buch/Brainstorm-Universum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Hardware/Overview.md",
+                "file": "Buch/Brainstorm-Universum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Hardware/Overview.md"
+                "file": "Buch/Brainstorm-Universum.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ba762082691b934",
+  "active": "27abba6d8ab03d15",
   "lastOpenFiles": [
+    "Buch/Brainstrom-Angst.md",
+    "Buch/Brainstorm-Universum.md",
+    "Computer Science/Hardware/Overview.md",
     "Philosophie/Bücher/Wichtige Werke.md",
     "Philosophie/Bücher/Universitaetsmateriel.md",
     "Philosophie/Bücher/7 Recommendations.md",
@@ -173,15 +176,12 @@
     "Languages/Deutsch/Rechtschreibung/Ueberblick.md",
     "Languages/Deutsch/Vokabeln",
     "Languages/Deutsch/Hoeren/Ueberblick.md",
-    "Languages/Deutsch/Lesen/Deutsche Maerchen.md",
-    "Languages/Deutsch/Uebungen/Ueberblick.md",
     "Languages/Deutsch/Uebungen",
     "Languages/Deutsch/Hoeren",
     "Languages/Deutsch/Lesen",
     "Languages/Deutsch/Sprechen",
     "Languages/Deutsch/Rechtschreibung",
     "Languages/Deutsch/Grammatik",
-    "Computer Science/Software Development/General.md",
     "Computer Science/University/Logik",
     "Computer Science/University/Webtechnologien",
     "Pasted image 20240301133246.png",
