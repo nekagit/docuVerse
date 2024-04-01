@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buch/Brainstorm-Universum.md",
+                "file": "Computer Science/Software Development/BachelorArbeit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buch/Brainstorm-Universum.md",
+                "file": "Computer Science/Software Development/BachelorArbeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buch/Brainstorm-Universum.md",
+                "file": "Computer Science/Software Development/BachelorArbeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Buch/Brainstorm-Universum.md"
+                "file": "Computer Science/Software Development/BachelorArbeit.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "27abba6d8ab03d15",
   "lastOpenFiles": [
-    "Buch/Brainstrom-Angst.md",
+    "Computer Science/Software Development/General.md",
+    "Computer Science/Software Development/BachelorArbeit.md",
     "Buch/Brainstorm-Universum.md",
+    "Weekly Reminder/Overview.md",
+    "Weekly Reminder",
+    "Buch/Brainstrom-Angst.md",
     "Computer Science/Hardware/Overview.md",
     "Philosophie/Bücher/Wichtige Werke.md",
     "Philosophie/Bücher/Universitaetsmateriel.md",
@@ -172,10 +176,7 @@
     "Languages/Deutsch/Grammatik/Ueberblick.md",
     "Languages/Deutsch/Grammatik/Tabellen.md",
     "Languages/Deutsch/Sprechen/Ueberblick.md",
-    "Languages/Deutsch/Vokabeln/Ueberblick.md",
-    "Languages/Deutsch/Rechtschreibung/Ueberblick.md",
     "Languages/Deutsch/Vokabeln",
-    "Languages/Deutsch/Hoeren/Ueberblick.md",
     "Languages/Deutsch/Uebungen",
     "Languages/Deutsch/Hoeren",
     "Languages/Deutsch/Lesen",
@@ -183,7 +184,6 @@
     "Languages/Deutsch/Rechtschreibung",
     "Languages/Deutsch/Grammatik",
     "Computer Science/University/Logik",
-    "Computer Science/University/Webtechnologien",
     "Pasted image 20240301133246.png",
     "Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
     "Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
