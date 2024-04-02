@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "260a44b64a460bd0",
+        "id": "7ea254e3826605fb",
         "type": "tabs",
         "children": [
           {
-            "id": "27abba6d8ab03d15",
+            "id": "1f330c2ebc7c8cef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Software Development/BachelorArbeit.md",
+                "file": "Computer Science/Software Development/Friends Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Software Development/BachelorArbeit.md",
+                "file": "Computer Science/Software Development/Friends Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Software Development/BachelorArbeit.md",
+                "file": "Computer Science/Software Development/Friends Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Software Development/BachelorArbeit.md"
+                "file": "Computer Science/Software Development/Friends Projects.md"
               }
             }
           }
@@ -146,10 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27abba6d8ab03d15",
+  "active": "1f330c2ebc7c8cef",
   "lastOpenFiles": [
-    "Computer Science/Software Development/General.md",
+    "Computer Science/Software Development/Friends Projects.md",
+    "Computer Science/Software Development/Programming/How To/HTML/Divs.md",
+    "Computer Science/Software Development/Programming/How To/HTML/Gamification.md",
+    "Computer Science/Software Development/Programming/How To/CSS/Overview.md",
+    "Computer Science/Software Development/Programming/How To/HTML",
     "Computer Science/Software Development/BachelorArbeit.md",
+    "Computer Science/Software Development/Programming/How To/CSS",
+    "Computer Science/Software Development/General.md",
     "Buch/Brainstorm-Universum.md",
     "Weekly Reminder/Overview.md",
     "Weekly Reminder",
@@ -172,18 +178,12 @@
     "Philosophie/Allgemein/Philosophische Fragen.md",
     "Philosophie/Allgemein/Beginn der Philosophie in der Welt.md",
     "Philosophie/Allgemein/Abbild der Philosophie.md",
-    "intro.md",
-    "Languages/Deutsch/Grammatik/Ueberblick.md",
-    "Languages/Deutsch/Grammatik/Tabellen.md",
-    "Languages/Deutsch/Sprechen/Ueberblick.md",
     "Languages/Deutsch/Vokabeln",
     "Languages/Deutsch/Uebungen",
     "Languages/Deutsch/Hoeren",
     "Languages/Deutsch/Lesen",
     "Languages/Deutsch/Sprechen",
     "Languages/Deutsch/Rechtschreibung",
-    "Languages/Deutsch/Grammatik",
-    "Computer Science/University/Logik",
     "Pasted image 20240301133246.png",
     "Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
     "Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
