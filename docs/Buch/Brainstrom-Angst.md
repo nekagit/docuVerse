@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Inhaltsverzeichniss
+# Brainstrom-Angst
 
 1. Einleitung
 	1. Was ist Angst

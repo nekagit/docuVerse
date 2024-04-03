@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Brainstorm
+# Brainstorm-Universum
 
 fiktives Universum,
 Buchreihe,
@@ -16,7 +16,43 @@ Sprichwoerte,
 Witze,
 Zitate
 
---- 
+### Erde
+-Historical Fiction
+-Utopian
+-Magical Realism
+-Humor
+-Satire
+-Food Cooking
+-Psychology
+-Philosphie
+-Music
+
+
+-Self Help
+Kindheit
+vom Weg abgekommen
+ADHS
+over stimulated
+Dopamin Detox
+Ancient Karma
+Frau
+Wenn Kinder sich gegen Mutter stellt
+auf kritische Momente reagieren
+
+-Crime - Mr Robot
+
+-Technology
+
+-Travel
+
+-Diaries
+-
+
+
+
+---
+# Nenad
+kimi no na wa 2 ppl
 ### Motive
 1. Liebe
 2. Hass
@@ -43,3 +79,21 @@ Es gibt den Staat nicht?
 
 
 
+---
+
+# Malaika
+
+Universum?
+
+## Der Froschkönig - Märchen der Brüder Grimm
+### Der Froschkönig oder der eiserne Heinrich
+
+
+---
+
+Philosophie Stammtisch ruft!
+https://www.google.com/maps/place//data=!4m2!3m1!1s0x47b919e88578b067:0xa3c2d40a5a5c3d42?sa=X&ved=1t:8290&ictx=111
+Kraftstoff Bar am Dortmunder U 
+21 Uhr
+kannst du am 05.04?
+kannst du am 06.04?

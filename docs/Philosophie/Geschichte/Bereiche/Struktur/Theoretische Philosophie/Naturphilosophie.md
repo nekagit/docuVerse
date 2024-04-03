@@ -1,0 +1,17 @@
+
+
+| Autor                   | Wichtige Werke                                       | Erscheinungsjahr | Kurzbeschreibung                                                                                                              |
+|-------------------------|-----------------------------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Thales                  | -                                                   | ca. 624–546 v. Chr. | Thales gilt als einer der ersten Naturphilosophen und versuchte, die Welt durch natürliche Prinzipien und nicht durch Götter zu erklären. |
+| Anaximander             | -                                                   | ca. 610–546 v. Chr. | Anaximander prägte den Begriff des "Unbestimmten" als Ursprung aller Dinge und versuchte, eine umfassendere kosmologische Theorie zu entwickeln. |
+| Empedokles             | "Über die Natur"                                    | ca. 494–434 v. Chr. | Empedokles postulierte die Existenz von vier Grundelementen (Feuer, Erde, Wasser, Luft) und prägte die Vorstellung von Liebe und Hass als kosmische Kräfte. |
+| Demokrit                | -                                                   | ca. 460–370 v. Chr. | Demokrit entwickelte die Atomtheorie, die besagt, dass alles aus unteilbaren Atomen besteht, und trug damit zur Entwicklung der modernen Atomkonzeption bei. |
+| Aristoteles             | "Nikomachische Ethik," "Physik," "Metaphysik"       | 384–322 v. Chr.  | Aristoteles befasste sich mit Ethik, Physik und Metaphysik und prägte die mittelalterliche Scholastik mit seinen umfassenden Untersuchungen. |
+| Giordano Bruno         | "De la causa, principio e uno" (Über Ursache, Prinzip und Einheit) | 1548–1600        | Bruno vertrat die Idee eines unendlichen Universums, in dem die Sonne nur ein von vielen belebten Himmelskörpern ist, und wurde wegen seiner Ansichten verfolgt. |
+| Johannes Kepler         | "Astronomia nova," "Harmonices Mundi"              | 1571–1630        | Kepler leistete bedeutende Beiträge zur Himmelsmechanik und entdeckte die Gesetze der Planetenbewegung, die später als Keplersche Gesetze bekannt wurden. |
+| René Descartes          | "Meditationen über die Erste Philosophie," "Principia Philosophiae" | 1596–1650   | Descartes trug zur Entwicklung des wissenschaftlichen Denkens bei und formulierte den berühmten Ausspruch "Cogito, ergo sum" (Ich denke, also bin ich). |
+| Baruch Spinoza          | "Ethik," "Tractatus Theologico-Politicus"          | 1632–1677        | Spinoza entwickelte eine pantheistische Metaphysik, in der Gott und Natur als ein und dasselbe betrachtet werden, und trat für religiöse Toleranz ein. |
+| Gottfried Wilhelm Leibniz | "Monadologie," "Discours de métaphysique"         | 1646–1716        | Leibniz prägte den Begriff der Monaden und entwickelte die Idee der bestmöglichen Welt, wobei er Fragen der Metaphysik, Logik und Theodizee behandelte. |
+| Immanuel Kant           | "Kritik der reinen Vernunft," "Kritik der Urteilskraft" | 1724–1804   | Kant prägte die deutsche Idealismusbewegung und entwickelte die Transzendentalphilosophie, die die Grenzen menschlichen Wissens erforscht. |
+| Johann Wolfgang von Goethe | "Zur Farbenlehre," "Die Metamorphose der Pflanzen" | 1749–1832   | Goethe leistete Beiträge zur Farbenlehre und verfolgte eine holistische Herangehensweise an Naturphänomene, die über bloße mechanistische Erklärungen hinausging. |
+

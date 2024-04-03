@@ -1,0 +1,15 @@
+
+| Autor                   | Wichtige Werke                                             | Erscheinungsjahr | Kurzbeschreibung                                                                                                            |
+|-------------------------|------------------------------------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Augustinus von Hippo    | "Bekenntnisse"                                           | um 400           | Augustinus beschreibt seine spirituelle Reise und reflektiert über Themen wie Zeit, Erkenntnis und Gottesgnade.              |
+| Thomas von Aquin        | "Summa Theologica"                                        | 1265-1273        | Aquin integriert theologische Prinzipien mit philosophischer Argumentation und behandelt Themen wie Gottesexistenz und göttliche Attribute. |
+| Immanuel Kant           | "Die Religion innerhalb der Grenzen der bloßen Vernunft"   | 1793             | Kant untersucht die Rolle der Religion in der Vernunft und setzt sich kritisch mit theologischen Konzepten auseinander.       |
+| Søren Kierkegaard       | "Furcht und Zittern"                                      | 1843             | Kierkegaard erforscht das Verhältnis zwischen Glauben und Vernunft und betont die individuelle Existenz im Glauben.          |
+| Friedrich Schleiermacher | "Reden über die Religion"                                  | 1799-1821        | Schleiermacher betont das religiöse Gefühl und die individuelle Erfahrung als Grundlage für das Verständnis von Religion.     |
+| Karl Barth              | "Die kirchliche Dogmatik"                                  | 1932-1967        | Barth entwickelt eine neo-orthodoxe Theologie, die die Offenbarung Gottes in Jesus Christus betont.                          |
+| Paul Tillich            | "Systematische Theologie"                                  | 1951-1963        | Tillich integriert existenzielle Philosophie mit Theologie und erforscht die Bedeutung von "Gott als das Sein selbst".       |
+| Rudolf Bultmann         | "Entmythologisierung des Neuen Testaments"                 | 1941             | Bultmann wendet existenzielle Interpretation auf das Neue Testament an und betont die Notwendigkeit der Entmythologisierung. |
+| Mircea Eliade           | "The Sacred and the Profane"                               | 1957             | Eliade untersucht religiöse Symbole und Rituale und deren Bedeutung für das Verständnis von Heiligkeit und Profanität.      |
+| Huston Smith            | "The World's Religions"                                   | 1958             | Smith bietet eine umfassende Einführung in die wichtigsten Weltreligionen und analysiert ihre gemeinsamen Themen.            |
+| Karen Armstrong          | "A History of God"                                        | 1993             | Armstrong verfolgt die Entwicklung des Gottesbildes in Judentum, Christentum und Islam und betont die mystische Dimension der Religion. |
+
