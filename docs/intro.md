@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Weekly Reminder
+	# Weekly Reminder
 
 ## Software Development
 ---
@@ -15,6 +15,7 @@ sidebar_position: 1
 6. Pocucaa
 
 ### E-Commerce Shops
+Vanilla Js OpenAPI 
 1. Ahmed Shop
 2. Hackmann Tatoos
 3. Dropshipping Shopify Clone
