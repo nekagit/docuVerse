@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/Bücher/Hegels Welt/Was ist Idealismus?.md",
+                "file": "Philosophie/DocuVerse Philosophie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Bücher/Hegels Welt/Was ist Idealismus?.md",
+                "file": "Philosophie/DocuVerse Philosophie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Bücher/Hegels Welt/Was ist Idealismus?.md",
+                "file": "Philosophie/DocuVerse Philosophie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Bücher/Hegels Welt/Was ist Idealismus?.md"
+                "file": "Philosophie/DocuVerse Philosophie.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "1f330c2ebc7c8cef",
   "lastOpenFiles": [
-    "Philosophie/Bücher/Hegels Welt/Hegels Welt.md",
+    "Philosophie/Geschichte/Bereiche/Struktur/Praktische Philosophie/Aesthetik.md",
+    "Philosophie/Bücher/Notizen Hegles Welt.md",
+    "Philosophie/Bücher/Hegels Welt/Hegels Einfluss.md",
     "Philosophie/Bücher/Hegels Welt/Was ist Idealismus?.md",
+    "Philosophie/Bücher/Hegels Welt/Idealismus ein Fehlschlag.md",
+    "Philosophie/Bücher/Hegels Welt/Hegels Welt.md",
     "Philosophie/Bücher/Hegels Welt",
     "Philosophie/Allgemein/Wieso Philosophie.md",
     "Philosophie/Allgemein/Philosophische Traditionen.md",
@@ -161,7 +165,6 @@
     "Pasted image 20240403223801.png",
     "Philosophie/Bücher/Wichtige Werke.md",
     "Philosophie/Bücher/Universitaet/Universitaetsmateriel.md",
-    "Philosophie/Bücher/Notizen Hegles Welt.md",
     "Philosophie/Geschichte/Bereiche/Deutscher Idealismus/Deutscher Idealismus.md",
     "Philosophie/Bücher/image.png",
     "Philosophie/Bücher/Universitaet",
@@ -179,10 +182,7 @@
     "Computer Science/Software Development/BachelorArbeit.md",
     "Computer Science/Software Development/Programming/How To/CSS",
     "Computer Science/Software Development/General.md",
-    "Weekly Reminder/Overview.md",
     "Weekly Reminder",
-    "Computer Science/Hardware/Overview.md",
-    "Philosophie/Bücher/7 Recommendations.md",
     "Philosophie/Bücher/Universitaet/11 Platon Menon.pdf",
     "Languages/Deutsch/Vokabeln",
     "Languages/Deutsch/Uebungen",
