@@ -1,20 +1,47 @@
-Die Welt besteht aus Wasser, Bergen, Baeumen, Uns und den Tieren 
+Success is simple. 
+Do what’s right, the right way, at the right time.
 
-Die Erde setzt sich zusammen aus einer eliptischen Kugel Erde mit einem Kern, auf der aeussersten Schicht befindet sich Wasser, auf diesem liegt Festland, besiedelt von Homo Sapiens und anderen Lebewesen.
+Stille im Monolog des Ich
+
+Wir stellen uns Fragen, die Welt Sie dreht sich weiter.
+Wir stellen uns vor
+Reichtum Macht und Ruhm, 
+und wir stellen uns vor,
+Veni vidi vici, 
+und zuguterletzt
+wie komm ich zu dem, was erfragte Ich.
+
+Cut
+
+wie soll man bitte das Leben schultern wenn man nichtmal weiss was Leben ist. 
+Habt ihr all eurer Definitionen auch Prinzipien? 
+Oder sind all eure Prinzipien, die Definition.
+Was hat er gesagt?
+das ist Philosophie meine Damen und Herren
+,die Liebe zu Weisheit.
+
+Auch wenn sie schwacher Natur ueberdauert und euch Sicherheit 
 
 Philosophie 
  ([altgriechisch](https://de.wikipedia.org/wiki/Altgriechische_Sprache "Altgriechische Sprache") φιλοσοφία _philosophía_, [latinisiert](https://de.wikipedia.org/wiki/Latinisierung "Latinisierung") _philosophia_, wörtlich „Liebe zur Weisheit“)
 wird versucht, die [Welt](https://de.wikipedia.org/wiki/Welt "Welt") und die menschliche [Existenz](https://de.wikipedia.org/wiki/Existenz "Existenz") zu ergründen, zu deuten und zu verstehen.
 
-Da es sie schon mehr als 2500 jahre fast schriftlich existiert,
+Da sie schon mehr als 2500 jahre fast schriftlich existiert,
 Sind wir gluecklich uns an all den Gedanken zu bereichern, die jede einzelne Person verfasste oder mitteilte
 
-Fuer unsere taegliches ueberleben brauchen wir sowohl Wissenschaftler, IT Experten und Ausgebildete Arbeiter. 
-All ihr wissen befoerdert uns weiter jeden tag und wir Ruhen uns mit der Musik die wir wuenschen, mit der koestlichsten Nahrung an den schoensten Orten zu jeder Zeit dank der Arbeit unsere Vorfahren.
+Fuer unsere taegliches ueberleben brauchen wir sowohl Wissenschaftlerinnen, IT Experten und Ausgebildete Arbeiter.
+
+All ihr wissen befoerdert uns weiter jeden tag und wir Ruhen uns aus mit der Musik die wir wuenschen, mit der koestlichsten Nahrung an den schoensten Orten
+zu jeder Zeit zu jeder Stunde, 
+dank der Arbeit unsere Vorfahren.
 
 Jeder von uns ist ein Philosoph ob er zugibt oder nicht.
+
 Die liebe ist stark geehrt und praezise, oder sie ist es nicht.
-Man selbst muss sich nichtmal als Philsophe sehen. Sobald man das wenigste Interesse zeigt wieso etwas ist versucht man Die Welt und die Existenz zu ergruenden zu deuten und zu vesterhen.
+
+Man selbst muss sich nichtmal als Philsophe sehen. Sobald man das wenigste Interesse zeigt wieso etwas ist 
+versucht man Die Welt und die Existenz zu ergruenden zu deuten und zu vesterhen.
+- Abgeleitete Definiton Wikipedia
 
 Jedoch ist nicht jedem Bekannt in welchem Gebiet der Philosophie man am weitesten in seinen Gedanken gekommen ist.
 
@@ -39,3 +66,5 @@ Jedoch ist nicht jedem Bekannt in welchem Gebiet der Philosophie man am weiteste
 9. **Analyse von Sprache und Kommunikation:** Philosophie betrachtet die Struktur und Bedeutung von Sprache sowie die Rolle von Sprache in der Kommunikation und im Denken.
 
 10. **Kritische Reflexion und Denkmethoden:** Philosophie fördert kritisches Denken, logische Argumentation und systematische Analyse als Methoden zur Annäherung an komplexe Fragen des Lebens und des Wissens.
+
+1. Kommunikation / Menschliches Verhalten / Drama Rama
