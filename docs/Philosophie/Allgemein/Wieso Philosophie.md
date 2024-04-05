@@ -16,11 +16,8 @@ Cut
 wie soll man bitte das Leben schultern wenn man nichtmal weiss was Leben ist. 
 Habt ihr all eurer Definitionen auch Prinzipien? 
 Oder sind all eure Prinzipien, die Definition.
-Was hat er gesagt?
 das ist Philosophie meine Damen und Herren
 ,die Liebe zu Weisheit.
-
-Auch wenn sie schwacher Natur ueberdauert und euch Sicherheit 
 
 Philosophie 
  ([altgriechisch](https://de.wikipedia.org/wiki/Altgriechische_Sprache "Altgriechische Sprache") φιλοσοφία _philosophía_, [latinisiert](https://de.wikipedia.org/wiki/Latinisierung "Latinisierung") _philosophia_, wörtlich „Liebe zur Weisheit“)

@@ -206,3 +206,4 @@
 - Ohne wen kann ich mir das Leben nicht mehr vorstellen?
 
 
+20. **Liebe und Freiheit:** Inwiefern beeinflusst die Liebe unsere Freiheit, und können wir wirklich frei lieben?
