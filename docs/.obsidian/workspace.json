@@ -11,8 +11,12 @@
             "id": "d35599cd232822f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Software Development/Programming/How To/CSS/Overview.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Allgemein/Philosophische Fragen.md",
+                "file": "Computer Science/Software Development/Programming/How To/CSS/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Allgemein/Philosophische Fragen.md",
+                "file": "Computer Science/Software Development/Programming/How To/CSS/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/Allgemein/Philosophische Fragen.md"
+                "file": "Computer Science/Software Development/Programming/How To/CSS/Overview.md"
               }
             }
           }
@@ -142,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ba762082691b934",
+  "active": "d35599cd232822f7",
   "lastOpenFiles": [
+    "Computer Science/Software Development/Bachelor/BachelorArbeit.md",
+    "Computer Science/Software Development/Bachelor/ChatGPT/ChatGPT.md",
+    "Computer Science/Software Development/Bachelor/ChatGPT",
+    "Computer Science/Software Development/Bachelor",
     "Philosophie/Allgemein/Wieso Philosophie.md",
     "Philosophie/Bücher/Hegels Welt/Hegels Welt.md",
     "Philosophie/Allgemein/Philosophische Traditionen.md",
@@ -177,11 +185,7 @@
     "Buch/Brainstrom-Angst.md",
     "intro.md",
     "Computer Science/Software Development/Friends Projects.md",
-    "Computer Science/Software Development/Programming/How To/HTML/Divs.md",
-    "Computer Science/Software Development/Programming/How To/HTML/Gamification.md",
     "Computer Science/Software Development/Programming/How To/HTML",
-    "Computer Science/Software Development/Programming/How To/CSS",
-    "Weekly Reminder",
     "Pasted image 20240301133246.png",
     "Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
     "Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
