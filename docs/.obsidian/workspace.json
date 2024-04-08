@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Software Development/Programming/How To/CSS/Overview.md",
+                "file": "intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Software Development/Programming/How To/CSS/Overview.md",
+                "file": "intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Software Development/Programming/How To/CSS/Overview.md",
+                "file": "intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Software Development/Programming/How To/CSS/Overview.md"
+                "file": "intro.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "d35599cd232822f7",
   "lastOpenFiles": [
+    "Example.md",
+    "Computer Science/Software Development/Friends Projects.md",
+    "Computer Science/Software Development/Programming/General Coding Installation.md",
+    "intro.md",
+    "Computer Science/Software Development/Programming/How To/CSS/Overview.md",
     "Computer Science/Software Development/Bachelor/BachelorArbeit.md",
     "Computer Science/Software Development/Bachelor/ChatGPT/ChatGPT.md",
     "Computer Science/Software Development/Bachelor/ChatGPT",
@@ -178,13 +183,8 @@
     "Philosophie/Geschichte/Bereiche/Deutscher Idealismus/Deutscher Idealismus.md",
     "Philosophie/Bücher/image.png",
     "Philosophie/Bücher/Universitaet",
-    "Philosophie/Geschichte/Bereiche/Bewegungen und Bereiche/Erste Beispiele.md",
     "Philosophie/Geschichte/Bereiche/Deutscher Idealismus",
     "Philosophie/Geschichte/Bereiche",
-    "Buch/Brainstorm-Universum.md",
-    "Buch/Brainstrom-Angst.md",
-    "intro.md",
-    "Computer Science/Software Development/Friends Projects.md",
     "Computer Science/Software Development/Programming/How To/HTML",
     "Pasted image 20240301133246.png",
     "Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
