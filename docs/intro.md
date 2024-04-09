@@ -5,7 +5,6 @@ sidebar_position: 1
 
 ## Software Development
 ---
-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
 ### Profile Pages
 1. Jamal Projects
 2. Ghasemi Architecture
