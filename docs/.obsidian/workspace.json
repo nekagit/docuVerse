@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro.md",
+                "file": "How To/Start Company in Germany.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intro.md",
+                "file": "How To/Start Company in Germany.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intro.md",
+                "file": "How To/Start Company in Germany.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intro.md"
+                "file": "How To/Start Company in Germany.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "b022cd13642eb3b9",
   "lastOpenFiles": [
-    "Example.md",
     "intro.md",
+    "How To/Start Company in Germany.md",
+    "How To",
+    "Example.md",
     "Languages/ivo-andric-na-drini-cuprija.pdf",
     "Languages/Harry Potter, saga completa - J. K. Rowling.pdf",
     "Computer Science/Software Development/Friends Projects.md",
@@ -184,7 +186,6 @@
     "Philosophie/Bücher/Universitaet/Universitaetsmateriel.md",
     "Philosophie/Bücher/image.png",
     "Philosophie/Bücher/Universitaet",
-    "Philosophie/Geschichte/Bereiche/Deutscher Idealismus",
     "Pasted image 20240301133246.png",
     "Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
     "Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
