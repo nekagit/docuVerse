@@ -3,6 +3,11 @@ sidebar_position: 1
 ---
 	# Weekly Reminder
 
+
+There are more like this Docuverse <br/> 
+[Welcome to Theodore Chu's Docs](https://theochu.com/)
+
+
 ## Software Development
 ---
 ### Profile Pages
@@ -68,9 +73,5 @@ Ausarbeiten des ersten Entwurfs
 3. Lesen und zusammenfassen 10 Saetzen folgendes Maerchen [Maerchen](http://maerchen-welt.eu/deutschland/grimm/der_froschkoenig_oder_der_eiserne_heinrich.htm)
 
 ---
-
-There are more like this Docuverse <br/> 
-[Welcome to Theodore Chu's Docs](https://theochu.com/)
-
 
  

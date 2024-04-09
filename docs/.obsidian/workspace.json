@@ -11,8 +11,12 @@
             "id": "b022cd13642eb3b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "intro.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -142,14 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ba762082691b934",
+  "active": "b022cd13642eb3b9",
   "lastOpenFiles": [
+    "Example.md",
+    "intro.md",
     "Languages/ivo-andric-na-drini-cuprija.pdf",
     "Languages/Harry Potter, saga completa - J. K. Rowling.pdf",
-    "Example.md",
     "Computer Science/Software Development/Friends Projects.md",
     "Computer Science/Software Development/Programming/General Coding Installation.md",
-    "intro.md",
     "Computer Science/Software Development/Programming/How To/CSS/Overview.md",
     "Computer Science/Software Development/Bachelor/BachelorArbeit.md",
     "Computer Science/Software Development/Bachelor/ChatGPT/ChatGPT.md",
@@ -181,7 +185,6 @@
     "Philosophie/Bücher/image.png",
     "Philosophie/Bücher/Universitaet",
     "Philosophie/Geschichte/Bereiche/Deutscher Idealismus",
-    "Philosophie/Geschichte/Bereiche",
     "Pasted image 20240301133246.png",
     "Basic Knowledge/Computer Science/MindMaps/Untitled.canvas",
     "Basic Knowledge/Computer Science/MindMaps/CHATGPT.canvas",
