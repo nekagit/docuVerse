@@ -23,7 +23,10 @@ ChatGPT / Gets Questions asked
 
 ---
 
-ChatGPT / Model / Trained on PDF and TXT
+ChatGPT / Model / Trained on PDF and TX	
+Initial commit
+8 months ago
+chainlit.mdT
 
 
 
