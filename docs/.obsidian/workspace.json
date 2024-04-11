@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "560deb6a75d2fd1f",
+        "id": "13326685927733a8",
         "type": "tabs",
         "children": [
           {
-            "id": "abbc515c3ab98821",
+            "id": "113535526ae65649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Software Development/Bachelor/Table of Contents.md",
+                "file": "Computer Science/Hardware/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0e45f4375f7a43c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Hardware/Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Software Development/Bachelor/Table of Contents.md",
+                "file": "Computer Science/Hardware/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Software Development/Bachelor/Table of Contents.md",
+                "file": "Computer Science/Hardware/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Software Development/Bachelor/Table of Contents.md"
+                "file": "Computer Science/Hardware/Overview.md"
               }
             }
           }
@@ -146,10 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abbc515c3ab98821",
+  "active": "c0e45f4375f7a43c",
   "lastOpenFiles": [
-    "Computer Science/Software Development/Bachelor/Entwurf.md",
+    "Computer Science/Hardware/Hardware.md",
+    "Computer Science/Hardware/Overview.md",
+    "Computer Science/Hardware/Peripherals.md",
     "Computer Science/Software Development/Bachelor/Table of Contents.md",
+    "Computer Science/Software Development/Bachelor/Entwurf.md",
     "Computer Science/Software Development/Bachelor/BachelorArbeit.md",
     "Computer Science/Software Development/Bachelor/ChatGPT/ChatGPT.md",
     "How To/Apps/Docker.md",
@@ -180,10 +196,7 @@
     "Philosophie/Geschichte/Bereiche/Struktur/Praktische Philosophie/Aesthetik.md",
     "Philosophie/Bücher/Notizen Hegles Welt.md",
     "Philosophie/Bücher/Hegels Welt/Hegels Einfluss.md",
-    "Philosophie/Bücher/Hegels Welt/Was ist Idealismus?.md",
-    "Philosophie/Bücher/Hegels Welt/Idealismus ein Fehlschlag.md",
     "Philosophie/Bücher/Hegels Welt",
-    "Philosophie/Allgemein/Philosophische Fragen.md",
     "Pasted image 20240403223801.png",
     "Philosophie/Bücher/image.png",
     "Pasted image 20240301133246.png",
