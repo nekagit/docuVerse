@@ -7,7 +7,7 @@ sidebar_position: 1
 There are more like this Docuverse <br/> 
 [Welcome to Theodore Chu's Docs](https://theochu.com/)
 
-
+<!-- 
 ## Software Development
 ---
 ### Profile Pages
@@ -34,7 +34,7 @@ Vanilla Js OpenAPI
 	2. Teaching Tools
 2. Low Price Appointment Website
 3. TimeCard
-4. DevHelps
+4. DevHelps -->
 
 ---
 ## Philosophy
@@ -65,12 +65,6 @@ Ausarbeiten des ersten Entwurfs
 
   Further improvements in following Skills
   [German](https://docuverse.netlify.app/docs/Languages/Deutsch)
-
-1. Berichtigung zu Diktat Erkin Koray
-	1. 10x jeden Fehlsatz aufschreiben
-
-2. Hoerbuch mit Kafkas Kurzgeschichten anhoeren [Hoerbuch](https://www.youtube.com/watch?v=S7qvbOzg-pc[)
-3. Lesen und zusammenfassen 10 Saetzen folgendes Maerchen [Maerchen](http://maerchen-welt.eu/deutschland/grimm/der_froschkoenig_oder_der_eiserne_heinrich.htm)
 
 ---
 
