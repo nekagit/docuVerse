@@ -1,9 +1,5 @@
-Links to Obsidian File:
-[[Peripherals]]
-
----
 # Basics
-#Hardware refers to the physical components of a computer system that you can touch and manipulate.
+**Hardware** refers to the physical components of a computer system that you can touch and manipulate.
 
 1. CPU / Central Processing Unit
 2. RAM / Random Access Memory
@@ -11,7 +7,7 @@ Links to Obsidian File:
 4. Input / Keyboards...
 5. #Peripherals / Graphic Card, Sound Card, Network Adapter
 
-Hardware is what enables a computer system to function and execute tasks, and it contrasts with software, which refers to the programs and instructions that tell the hardware what to do.
+**Hardware** is what enables a computer system to function and execute tasks, and it contrasts with software, which refers to the programs and instructions that tell the hardware what to do.
 
 ---
 
