@@ -1,4 +1,3 @@
-So geht’s jetzt weiter:  
   
   ✓ Bitte **drucke** die PDF aus,  
   ✓ **überprüfe** noch einmal in Ruhe  

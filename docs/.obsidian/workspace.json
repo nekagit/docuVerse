@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Hardware/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0e45f4375f7a43c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Hardware/Overview.md",
+                "file": "Computer Science/Hardware/Basics/Electricity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Hardware/Overview.md",
+                "file": "Computer Science/Hardware/Basics/Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Hardware/Overview.md",
+                "file": "Computer Science/Hardware/Basics/Electricity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Hardware/Overview.md"
+                "file": "Computer Science/Hardware/Basics/Electricity.md"
               }
             }
           }
@@ -159,25 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0e45f4375f7a43c",
+  "active": "113535526ae65649",
   "lastOpenFiles": [
-    "Computer Science/Hardware/Hardware.md",
+    "pics/Pasted image 20240415111847.png",
     "Computer Science/Hardware/Overview.md",
+    "pics/Screenshot from 2024-04-15 11-04-38.png",
+    "Example.md",
+    "Computer Science/Hardware/Basics/Electricity.md",
+    "pics",
+    "Computer Science/Hardware/Basics/Klausur.md",
+    "Computer Science/Hardware/Basics",
+    "How To/General Coding Installation.md",
+    "How To/PrivateGPT Installation.md",
+    "How To/Start Company in Germany.md",
+    "Untitled",
+    "Computer Science/Hardware/Hardware.md",
     "Computer Science/Hardware/Peripherals.md",
     "Computer Science/Software Development/Bachelor/Table of Contents.md",
     "Computer Science/Software Development/Bachelor/Entwurf.md",
     "Computer Science/Software Development/Bachelor/BachelorArbeit.md",
     "Computer Science/Software Development/Bachelor/ChatGPT/ChatGPT.md",
     "How To/Apps/Docker.md",
-    "How To/PrivateGPT.md",
     "Computer Science/University/BachelorArbeit.md",
     "How To/General Accounts.md",
-    "How To/General Coding Installation.md",
     "How To/Untitled",
-    "How To/Start Company in Germany.md",
     "intro.md",
     "How To",
-    "Example.md",
     "Languages/ivo-andric-na-drini-cuprija.pdf",
     "Languages/Harry Potter, saga completa - J. K. Rowling.pdf",
     "Computer Science/Software Development/Friends Projects.md",
@@ -191,12 +185,6 @@
     "Biology/Overview.md",
     "How To/Apps/Vue/Todo.md",
     "Biology",
-    "How To/Apps/Vue",
-    "How To/Apps",
-    "Philosophie/Geschichte/Bereiche/Struktur/Praktische Philosophie/Aesthetik.md",
-    "Philosophie/Bücher/Notizen Hegles Welt.md",
-    "Philosophie/Bücher/Hegels Welt/Hegels Einfluss.md",
-    "Philosophie/Bücher/Hegels Welt",
     "Pasted image 20240403223801.png",
     "Philosophie/Bücher/image.png",
     "Pasted image 20240301133246.png",
@@ -209,7 +197,6 @@
     "pics/Pasted image 20240226191720.png",
     "pics/Pasted image 20240226191657.png",
     "pics/Pasted image 20240226191645.png",
-    "pics/Pasted image 20240226191634.png",
-    "docuVerse - Philosophie/image.png"
+    "pics/Pasted image 20240226191634.png"
   ]
 }
