@@ -92,3 +92,15 @@ strong {
 .chapter li {
   margin-bottom: 5px;
 }
+
+.box li {
+  margin-bottom:1rem; 
+  background-color:rgba(255, 255, 255, 0.183);
+  padding:1rem;
+  
+}
+
+.box li:hover {
+  background-color:rgba(0, 0, 0, 0.183);
+  
+}

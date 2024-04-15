@@ -17,9 +17,9 @@ export default function IndexComponent() {
 
   useGSAP(
     () => {
-       gsap.from("h1", { opacity: 0, duration: 3 });
-       gsap.from("span", { opacity: 0, duration: 3 });
-         
+      gsap.from("h1", { opacity: 0, duration: 3 });
+      gsap.from("span", { opacity: 0, duration: 3 });
+
       gsap.fromTo(
         "header",
         { width: "0%" },
@@ -118,7 +118,7 @@ export default function IndexComponent() {
 
   const renderOfferings = () => {
     return data.offerings.map((offering, index) => (
-      <span key={index}>
+      <li key={index}>
         <a
           className="box"
           href={offering.links[0]}
@@ -128,14 +128,14 @@ export default function IndexComponent() {
           {offering.category}
         </a>
         <br />
-      </span>
+      </li>
     ));
   };
 
   // Funktion zur Erstellung von JSX-Elementen für die Kontakte
   const renderContacts = () => {
     return data.contacts.map((contact, index) => (
-      <span key={index}>
+      <li key={index}>
         <a
           className="box"
           href={contact.link}
@@ -145,7 +145,7 @@ export default function IndexComponent() {
           {contact.platform} - {contact.username}
         </a>
         <br />
-      </span>
+      </li>
     ));
   };
   return (
@@ -169,14 +169,14 @@ export default function IndexComponent() {
               className="container"
               style={{
                 display: "flex",
-                flexDirection: "row",
+                flexDirection: "column",
                 alignContent: "center",
                 alignItems: "center",
                 justifyContent: "space-between",
                 gap: "3rem",
               }}
             >
-              <span>{renderOfferings()}</span>
+              <span >{renderOfferings()}</span>
               <span>{renderContacts()}</span>
             </span>
           </CardDescription>
