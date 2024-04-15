@@ -1,4 +1,4 @@
-# Basics
+# Overview
 **Hardware** refers to the physical components of a computer system that you can touch and manipulate.
 
 1. CPU / Central Processing Unit
