@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Serbian/Pregled.md",
+                "file": "History/Serbian/Drugi svetski rat.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Serbian/Pregled.md",
+                "file": "History/Serbian/Drugi svetski rat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Serbian/Pregled.md",
+                "file": "History/Serbian/Drugi svetski rat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Serbian/Pregled.md"
+                "file": "History/Serbian/Drugi svetski rat.md"
               }
             }
           }
@@ -146,9 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba30804d1dc9f455",
+  "active": "3ba762082691b934",
   "lastOpenFiles": [
+    "Languages/English",
+    "History/Serbian/Knezevina srbija i srpska vojvodina.md",
+    "History/Serbian/Kraljevina Jugoslavija.md",
+    "History/Serbian/Krljevina Srbija.md",
+    "History/Serbian/Praistorija Srbije.md",
+    "History/Serbian/Pregled.md",
+    "History/Serbian/Propast srpske drzavnosti.md",
+    "History/Serbian/Republika Srbija.md",
+    "History/Serbian/Savezna republika jugoslavija.md",
+    "History/Serbian/Socijalna federacija republika jugoslavija.md",
+    "History/Serbian/Srbija i Crna Gora.md",
+    "History/Serbian/Srbija izmedju osmanskog carstva i harbsburga.md",
+    "History/Serbian/Srbija u srednjem veku.md",
+    "History/Serbian/Srpska Revolucija.md",
+    "History/Serbian/Youtube.md",
+    "History/Serbian/Drugi svetski rat.md",
     "Languages/Espanol/Vista.md",
+    "History/Serbian",
+    "History",
+    "Languages/Espanol/Ejercicios",
+    "Languages/Espanol/Gramatica",
+    "Languages/Espanol/Palabras",
     "Languages/Serbian/Pregled.md",
     "Languages/Serbian",
     "Computer Science/Hardware/Basics/Electricity.md",
@@ -162,30 +183,9 @@
     "Computer Science/Hardware/Peripherals.md",
     "Book/Brainstorm-Universum.md",
     "Computer Science/University/Bachelor Thesis/6. Evaluation",
-    "Computer Science/University/Bachelor Thesis/5. Results",
-    "Computer Science/University/Bachelor Thesis/4. Proof of Concept",
-    "Computer Science/University/Bachelor Thesis/3. Requirements",
-    "Computer Science/University/Bachelor Thesis/2. Basics",
-    "Computer Science/University/Bachelor Thesis/1. Introduction",
     "pics/Pasted image 20240415111847.png",
     "pics/Screenshot from 2024-04-15 11-04-38.png",
     "Example.md",
-    "Computer Science/Hardware/Basics/Klausur.md",
-    "How To/General Coding Installation.md",
-    "How To/PrivateGPT Installation.md",
-    "How To/Start Company in Germany.md",
-    "Computer Science/Hardware/Hardware.md",
-    "Computer Science/Software Development/Bachelor/ChatGPT/ChatGPT.md",
-    "How To/Apps/Docker.md",
-    "Computer Science/University/Bachelor Thesis/Table of Contents.md",
-    "How To/General Accounts.md",
-    "intro.md",
-    "Computer Science/Software Development/Friends Projects.md",
-    "How To/CSS/Overview.md",
-    "Philosophie/Allgemein/Wieso Philosophie.md",
-    "Philosophie/Bücher/Hegels Welt/Hegels Welt.md",
-    "Philosophie/Allgemein/Philosophische Traditionen.md",
-    "Philosophie/DocuVerse Philosophie.md",
     "Pasted image 20240403223801.png",
     "Philosophie/Bücher/image.png",
     "Pasted image 20240301133246.png",
