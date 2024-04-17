@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Serbian/Drugi svetski rat.md",
+                "file": "Computer Science/Hardware/Basics/Electricity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Serbian/Drugi svetski rat.md",
+                "file": "Computer Science/Hardware/Basics/Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Serbian/Drugi svetski rat.md",
+                "file": "Computer Science/Hardware/Basics/Electricity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Serbian/Drugi svetski rat.md"
+                "file": "Computer Science/Hardware/Basics/Electricity.md"
               }
             }
           }
@@ -146,8 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ba762082691b934",
+  "active": "ba30804d1dc9f455",
   "lastOpenFiles": [
+    "Computer Science/Hardware/Basics/Klausur.md",
+    "Computer Science/Hardware/Basics/Electricity.md",
+    "Computer Science/University/Bachelor Thesis/2. Basics/Extension.md",
+    "Computer Science/University/Bachelor Thesis/2. Basics/WebApp.md",
+    "Computer Science/University/Bachelor Thesis/2. Basics/Untitled",
+    "Computer Science/University/Bachelor Thesis/2. Basics/GPT.md",
+    "Computer Science/University/Bachelor Thesis/1. Introduction/Structure of Thesis.md",
+    "Computer Science/University/Bachelor Thesis/1. Introduction/Motivation and Current State of Art.md",
+    "Computer Science/University/Bachelor Thesis/Table of Contents.md",
+    "Computer Science/Hardware/Anki.md",
+    "Computer Science/Hardware/Overview.md",
+    "Computer Science/Hardware/Peripherals.md",
+    "Philosophie/Anki.md",
+    "Biology/Anki.md",
+    "Languages/Espanol/Anki.md",
+    "History/Serbian/Anki.md",
+    "Biology/Overview.md",
+    "History/Serbian/Drugi svetski rat.md",
     "Languages/English",
     "History/Serbian/Knezevina srbija i srpska vojvodina.md",
     "History/Serbian/Kraljevina Jugoslavija.md",
@@ -158,34 +176,16 @@
     "History/Serbian/Republika Srbija.md",
     "History/Serbian/Savezna republika jugoslavija.md",
     "History/Serbian/Socijalna federacija republika jugoslavija.md",
-    "History/Serbian/Srbija i Crna Gora.md",
-    "History/Serbian/Srbija izmedju osmanskog carstva i harbsburga.md",
-    "History/Serbian/Srbija u srednjem veku.md",
-    "History/Serbian/Srpska Revolucija.md",
-    "History/Serbian/Youtube.md",
-    "History/Serbian/Drugi svetski rat.md",
-    "Languages/Espanol/Vista.md",
     "History/Serbian",
     "History",
     "Languages/Espanol/Ejercicios",
     "Languages/Espanol/Gramatica",
     "Languages/Espanol/Palabras",
-    "Languages/Serbian/Pregled.md",
     "Languages/Serbian",
-    "Computer Science/Hardware/Basics/Electricity.md",
-    "Computer Science/Hardware/Overview.md",
-    "Computer Science/Software Development/Bachelor/Table of Contents.md",
-    "Computer Science/Software Development/Bachelor/Entwurf.md",
-    "Computer Science/Software Development/Bachelor/BachelorArbeit.md",
     "pdfs/Harry Potter, saga completa - J. K. Rowling.pdf",
     "pdfs",
-    "Languages/Espanol",
-    "Computer Science/Hardware/Peripherals.md",
-    "Book/Brainstorm-Universum.md",
-    "Computer Science/University/Bachelor Thesis/6. Evaluation",
     "pics/Pasted image 20240415111847.png",
     "pics/Screenshot from 2024-04-15 11-04-38.png",
-    "Example.md",
     "Pasted image 20240403223801.png",
     "Philosophie/Bücher/image.png",
     "Pasted image 20240301133246.png",

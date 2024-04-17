@@ -24,6 +24,19 @@ There are also **universal particles**, each carrying a specific charge. The **e
 In summary, the charge of an atom is determined by the number of protons present in its nucleus. The **electrical properties** of an element depend on the arrangement and number of electrons in the outer shells.
 
 
+---
+Atom, Atomkern, Elektronenhuelle
+Proton, Neutron, Kation(+), Anion(-)
+Ionen
+Elektrische Feldlinien
+Ladungstrennung 
+Ladungskonzentration
+Rekombination
+
+Strom
+1. Stromdichte
+2. Geschwindigkeit
+
 - Electrostatic field
 - Electric force
 - Electric current
