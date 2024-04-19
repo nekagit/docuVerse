@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro.md",
+                "file": "Online Business/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intro.md",
+                "file": "Online Business/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intro.md",
+                "file": "Online Business/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intro.md"
+                "file": "Online Business/Overview.md"
               }
             }
           }
@@ -146,23 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0608fe110be596f4",
+  "active": "3ba762082691b934",
   "lastOpenFiles": [
+    "World",
+    "Animals",
+    "Beauty",
+    "Gardening",
+    "Health",
+    "Food",
+    "Finance",
+    "Work",
+    "Technik",
+    "Cars",
+    "Art",
+    "intro.md",
+    "Online Business/Overview.md",
     "Computer Science/Hardware/Basics/Electricity.md",
     "Computer Science/Hardware/Basics/Klausur.md",
     "Computer Science/Hardware/Overview.md",
     "Computer Science/Hardware/Anki.md",
     "Computer Science/How To/JavaScript/Overview.md",
-    "pdfs/11 Platon Menon.pdf",
-    "pdfs/14 Lukrez, Von der Natur.pdf",
-    "pdfs/14 Lukrez, Von der Natur.pdf.crdownload",
-    "pdfs/13 Epikur.pdf",
-    "pdfs/13 Epikur.pdf.crdownload",
-    "pdfs/12 Aristoteles, Nikomachische Ethik, Buch 6.pdf",
-    "pdfs/12 Aristoteles, Nikomachische Ethik, Buch 6.pdf.crdownload",
-    "pdfs/11 Platon Menon.pdf.crdownload",
-    "pdfs/10 Cicero, Vom Wesen der Götter.pdf",
-    "pdfs/10 Cicero, Vom Wesen der Götter.pdf.crdownload",
     "Computer Science/How To/Other/How To Style Website.md",
     "Computer Science/How To/HTML/Divs.md",
     "Computer Science/How To/CSS/Overview.md",
@@ -173,7 +176,7 @@
     "Computer Science/University/Bachelor Thesis/1. Introduction/Motivation and Current State of Art.md",
     "Computer Science/University/Bachelor Thesis/Table of Contents.md",
     "Computer Science/Hardware/Peripherals.md",
-    "Philosophie/Anki.md",
+    "Philosophy/Anki.md",
     "Biology/Anki.md",
     "Languages/Espanol/Anki.md",
     "History/Serbian/Anki.md",
@@ -181,8 +184,6 @@
     "History/Serbian/Drugi svetski rat.md",
     "History/Serbian/Knezevina srbija i srpska vojvodina.md",
     "History/Serbian/Kraljevina Jugoslavija.md",
-    "History/Serbian/Krljevina Srbija.md",
-    "History/Serbian/Praistorija Srbije.md",
     "pics/Pasted image 20240415111847.png",
     "pics/Screenshot from 2024-04-15 11-04-38.png",
     "Pasted image 20240403223801.png",
