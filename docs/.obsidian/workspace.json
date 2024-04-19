@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46b4ebb248925bce",
+        "id": "cb1348ceee63233e",
         "type": "tabs",
         "children": [
           {
-            "id": "7a67f1d0d5841b38",
+            "id": "0608fe110be596f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/How To/JavaScript/Overview.md",
+                "file": "intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/How To/JavaScript/Overview.md",
+                "file": "intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/How To/JavaScript/Overview.md",
+                "file": "intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/How To/JavaScript/Overview.md"
+                "file": "intro.md"
               }
             }
           }
@@ -146,25 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a67f1d0d5841b38",
+  "active": "0608fe110be596f4",
   "lastOpenFiles": [
-    "Computer Science/How To/Other/ColorPallet.pdf",
-    "Computer Science/How To/JavaScript/Overview.md",
-    "Computer Science/How To/Other/How To Style Website.md",
-    "Computer Science/How To/Other",
-    "Computer Science/How To/HTML/Divs.md",
-    "Computer Science/How To/CSS/Overview.md",
     "Computer Science/Hardware/Basics/Electricity.md",
     "Computer Science/Hardware/Basics/Klausur.md",
+    "Computer Science/Hardware/Overview.md",
+    "Computer Science/Hardware/Anki.md",
+    "Computer Science/How To/JavaScript/Overview.md",
+    "pdfs/11 Platon Menon.pdf",
+    "pdfs/14 Lukrez, Von der Natur.pdf",
+    "pdfs/14 Lukrez, Von der Natur.pdf.crdownload",
+    "pdfs/13 Epikur.pdf",
+    "pdfs/13 Epikur.pdf.crdownload",
+    "pdfs/12 Aristoteles, Nikomachische Ethik, Buch 6.pdf",
+    "pdfs/12 Aristoteles, Nikomachische Ethik, Buch 6.pdf.crdownload",
+    "pdfs/11 Platon Menon.pdf.crdownload",
+    "pdfs/10 Cicero, Vom Wesen der Götter.pdf",
+    "pdfs/10 Cicero, Vom Wesen der Götter.pdf.crdownload",
+    "Computer Science/How To/Other/How To Style Website.md",
+    "Computer Science/How To/HTML/Divs.md",
+    "Computer Science/How To/CSS/Overview.md",
     "Computer Science/University/Bachelor Thesis/2. Basics/Extension.md",
     "Computer Science/University/Bachelor Thesis/2. Basics/WebApp.md",
-    "Computer Science/University/Bachelor Thesis/2. Basics/Untitled",
     "Computer Science/University/Bachelor Thesis/2. Basics/GPT.md",
     "Computer Science/University/Bachelor Thesis/1. Introduction/Structure of Thesis.md",
     "Computer Science/University/Bachelor Thesis/1. Introduction/Motivation and Current State of Art.md",
     "Computer Science/University/Bachelor Thesis/Table of Contents.md",
-    "Computer Science/Hardware/Anki.md",
-    "Computer Science/Hardware/Overview.md",
     "Computer Science/Hardware/Peripherals.md",
     "Philosophie/Anki.md",
     "Biology/Anki.md",
@@ -172,18 +179,10 @@
     "History/Serbian/Anki.md",
     "Biology/Overview.md",
     "History/Serbian/Drugi svetski rat.md",
-    "Languages/English",
     "History/Serbian/Knezevina srbija i srpska vojvodina.md",
     "History/Serbian/Kraljevina Jugoslavija.md",
     "History/Serbian/Krljevina Srbija.md",
     "History/Serbian/Praistorija Srbije.md",
-    "History/Serbian",
-    "History",
-    "Languages/Espanol/Ejercicios",
-    "Languages/Espanol/Gramatica",
-    "Languages/Espanol/Palabras",
-    "Languages/Serbian",
-    "pdfs/Harry Potter, saga completa - J. K. Rowling.pdf",
     "pics/Pasted image 20240415111847.png",
     "pics/Screenshot from 2024-04-15 11-04-38.png",
     "Pasted image 20240403223801.png",

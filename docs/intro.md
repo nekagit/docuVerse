@@ -1,13 +1,18 @@
 ---
 sidebar_position: 1
 ---
-	# Weekly Reminder
 
+# Weekly Reminder
 
-There are more like this Docuverse <br/> 
+1. Discord ->
+   [nenad6546](https://discord.com/nenad6546)
+2. Instagram ->
+   [nenadkal](https://instagram.com/nenadkal)
+
+There are more like this Docuverse <br/>
 [Welcome to Theodore Chu's Docs](https://theochu.com/)
 
-<!-- 
+<!--
 ## Software Development
 ---
 ### Profile Pages
@@ -19,7 +24,7 @@ There are more like this Docuverse <br/>
 6. Pocucaa
 
 ### E-Commerce Shops
-Vanilla Js OpenAPI 
+Vanilla Js OpenAPI
 1. Ahmed Shop
 2. Hackmann Tatoos
 3. Dropshipping Shopify Clone
@@ -35,37 +40,3 @@ Vanilla Js OpenAPI
 2. Low Price Appointment Website
 3. TimeCard
 4. DevHelps -->
-
----
-## Philosophy
----
-
-  Further improvements in following Skills
-  [Philosophy](https://docuverse.netlify.app/docs/Philosophie)
-
-1. Juergen Kaube, Hegels Welt
-2. Struktur 
-
----
-
-### Hardware
----
-
-Elektrotechnik und Nachrichtentechnik
-
----
-### Buch
----
-
-Ausarbeiten des ersten Entwurfs
-
----
-## German Classes
----
-
-  Further improvements in following Skills
-  [German](https://docuverse.netlify.app/docs/Languages/Deutsch)
-
----
-
- 
