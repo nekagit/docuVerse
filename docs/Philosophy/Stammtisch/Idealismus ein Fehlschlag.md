@@ -43,6 +43,15 @@ alles subjektiv
 
 Fichte / Alles im erkennen subjekt sein / Ich  sich selbst setzten 
 
+---
+
+
+phase 3 
+deutscher idealismus
+denkende wesen , verwert sein andere. 
+physische ist mental , raum und zeit subjektive anschaungsformen, kausalitaet, ursachen wirkung, denkformeln verfuegen , welt wird mentales konstrukt, 
+
+trugschluss
 Hegel 
 Ich aus sich herause die realitaet gibt
 reine Seine

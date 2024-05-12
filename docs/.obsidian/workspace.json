@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b1046664cb6c836a",
+        "id": "9b3a9118fa3a97fe",
         "type": "tabs",
         "children": [
           {
-            "id": "8155673e8b984c68",
+            "id": "3697bfcee8a7a1be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Anki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30e7efc382d611ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Hegel.md",
+                "file": "Languages/Turkey/Lessons/Second Lesson/A1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.5
   },
   "right": {
     "id": "ff1df0033ce4b748",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Hegel.md",
+                "file": "Languages/Turkey/Lessons/Second Lesson/A1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Hegel.md",
+                "file": "Languages/Turkey/Lessons/Second Lesson/A1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Hegel.md"
+                "file": "Languages/Turkey/Lessons/Second Lesson/A1.md"
               }
             }
           }
@@ -159,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ba762082691b934",
+  "active": "3697bfcee8a7a1be",
   "lastOpenFiles": [
-    "pdfs/978-3-14-221315-6_01.pdf",
-    "pdfs/978-3-14-221315-6_01.pdf.crdownload",
-    "History/1700.md",
-    "History/Hegel.md",
+    "Languages/Turkey/Vokablen/Vokab.md",
+    "Languages/Turkey/Lessons/Second Lesson/A1.md",
+    "Languages/Turkey/Lessons/First Lesson/A1.md",
+    "Languages/Deutsch/Überblick.md",
+    "Languages/Turkey/Vokablen",
+    "Languages/Turkey/Hören",
+    "Languages/Turkey/Lesen",
+    "Languages/Turkey/Grammatik",
+    "Languages/Turkey/Lessons",
+    "Languages/Turkey/Lessons/Second Lesson",
+    "Languages/Turkey/Lessons/First Lesson",
+    "Languages/Espanol/Overview.md",
+    "Languages/Overview.md",
+    "Languages/Espanol/Vista.md",
+    "Languages/Turkey/Overview.md",
+    "Online Business/Overview.md",
+    "Languages/Turkey",
+    "Philosophy/Stammtisch/Themen.md",
+    "Philosophy/Allgemein/Abbild der Philosophie.md",
     "Philosophy/Anki.md",
+    "Philosophy/Allgemein/Philosophische Fragen.md",
+    "Philosophy/Stammtisch/Idealismus ein Fehlschlag.md",
+    "Philosophy/Stammtisch/Was ist Idealismus.md",
+    "Philosophy/Stammtisch/Hegels Welt.md",
+    "Philosophy/Bücher/Hegels Welt/Hegels Einfluss.md",
+    "Philosophy/Allgemein/Persoehnlichkeiten/Sokrates.md",
+    "Philosophy/Allgemein/Persoehnlichkeiten/Philosophische Persoehnlichkeiten.md",
+    "Philosophy/Allgemein/Beginn der Philosophie in der Welt.md",
+    "Philosophy/Allgemein/Philosophische Traditionen.md",
+    "History/Hegel.md",
+    "Philosophy/Stammtisch",
+    "pdfs/978-3-14-221315-6_01.pdf",
+    "History/1700.md",
     "Philosophy/Bücher/Notizen Hegles Welt.md",
     "Philosophy/Bücher/Wichtige Werke.md",
-    "Philosophy/Bücher/Hegels Welt/Hegels Welt.md",
-    "Philosophy/Bücher/Hegels Welt/Was ist Idealismus.md",
-    "Philosophy/Bücher/Hegels Welt/Idealismus ein Fehlschlag.md",
-    "Philosophy/Bücher/Hegels Welt/Hegels Einfluss.md",
     "Book/Brainstorm-Universum.md",
-    "pdfs/Harry Potter, saga completa - J. K. Rowling.pdf",
-    "Philosophy/Bücher/Emile.md",
-    "Computer Science/University/Bachelor Thesis/Table of Contents.md",
-    "Computer Science/University/Bachelor Thesis/1. Introduction/Structure of Thesis.md",
-    "Computer Science/University/Bachelor Thesis/1. Introduction/Motivation and Current State of Art.md",
-    "Online Business/Overview.md",
-    "World",
-    "Animals",
-    "Beauty",
-    "Gardening",
-    "Health",
-    "Food",
-    "Finance",
-    "Work",
-    "intro.md",
-    "Computer Science/Hardware/Basics/Electricity.md",
-    "Computer Science/Hardware/Basics/Klausur.md",
-    "Computer Science/Hardware/Overview.md",
-    "Computer Science/Hardware/Anki.md",
-    "Computer Science/How To/JavaScript/Overview.md",
-    "Computer Science/How To/Other/How To Style Website.md",
-    "Computer Science/How To/HTML/Divs.md",
-    "Computer Science/How To/CSS/Overview.md",
-    "Computer Science/University/Bachelor Thesis/2. Basics/Extension.md",
     "pics/Pasted image 20240415111847.png",
     "pics/Screenshot from 2024-04-15 11-04-38.png",
     "Pasted image 20240403223801.png",
