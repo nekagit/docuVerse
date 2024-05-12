@@ -4,22 +4,383 @@
     "type": "split",
     "children": [
       {
-        "id": "9b3a9118fa3a97fe",
+        "id": "bc7428a72fe2a90e",
         "type": "tabs",
         "children": [
           {
-            "id": "3697bfcee8a7a1be",
+            "id": "c573bc8053348d1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Turkey/Lessons/Second Lesson/A1.md",
+                "file": "Bibel/Alte Testament/Propheten/14. Haggai.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d6a7c31b6c4a65e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Alte Testament/Propheten/15. Sacharja.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed9ff7ab7d7bf4d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Alte Testament/Propheten/16. Maleachi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00e2da3e7bbe5718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/1. Evangelium Matthäus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3963b70c37664d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/2. Evangelium Markus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b3b416ab03aa13a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/3. Evangelium Lukas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d400b37bca8678ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/4. Evangelium Johannes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a0f57a2b1d4529c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/5. Apostelgeschichte Lukas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f415342631dcef05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/6. Römer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20747e3df554a5a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "134e3a6be2a863bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/7. Korinther 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05745846984806ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/8. Korinther 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "055b51ca88340d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/9. Galater.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fe5d86b59d4ee30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/10. Epheser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8521c4913317fcfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/11. Philliper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fd4e962573be92e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/12. Kollosser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8afc51489a56abc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/13. Thessaloniker 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "356b93ee62471d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/14. Thessaloniker 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e0853e9877c12e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/15. Timotheus 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5729558c93e008ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/16. Timotheus 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c928e0f593202cd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/17. Titus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05ea795a72919a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/18. Philemon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a2a9c6fc8e35d56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/19. Petrus 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1288c1595b1b769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/20. Petrus 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4343e61b216486e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/21. Johannes 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fc3b00aee08f0ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/22. Johannes 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8757c396f3357e10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/23. Johannes 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb9f84ad3d0380f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/24. Hebräer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f51576928debb5a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/25. Jakobus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a19ed925b519ab43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/26. Judas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12c0571d90e2fa2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibel/Neue Testament/7. Korinther 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -85,7 +446,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Turkey/Lessons/Second Lesson/A1.md",
+                "file": "Bibel/Neue Testament/7. Korinther 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +463,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Turkey/Lessons/Second Lesson/A1.md",
+                "file": "Bibel/Neue Testament/7. Korinther 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +486,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Turkey/Lessons/Second Lesson/A1.md"
+                "file": "Bibel/Neue Testament/7. Korinther 1.md"
               }
             }
           }
@@ -146,44 +507,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3697bfcee8a7a1be",
+  "active": "12c0571d90e2fa2a",
   "lastOpenFiles": [
-    "Languages/Turkey/Vokablen/Vokab.md",
-    "Languages/Turkey/Lessons/Second Lesson/A1.md",
-    "Languages/Turkey/Lessons/First Lesson/A1.md",
-    "Languages/Deutsch/Überblick.md",
+    "Bibel/Neue Testament/1. Evangelium Matthäus.md",
+    "Bibel/Neue Testament/27. Offenbarung nach Johannes.md",
+    "Bibel/Neue Testament/26. Judas.md",
+    "Bibel/Neue Testament/25. Jakobus.md",
+    "Bibel/Neue Testament/24. Hebräer.md",
+    "Bibel/Neue Testament/23. Johannes 3.md",
+    "Bibel/Neue Testament/22. Johannes 2.md",
+    "Bibel/Neue Testament/21. Johannes 1.md",
+    "Bibel/Neue Testament/20. Petrus 2.md",
+    "Bibel/Neue Testament/19. Petrus 1.md",
+    "Bibel/Neue Testament/18. Philemon.md",
+    "Bibel/Neue Testament/17. Titus.md",
+    "Bibel/Neue Testament/16. Timotheus 2.md",
+    "Bibel/Neue Testament/15. Timotheus 1.md",
+    "Bibel/Neue Testament/14. Thessaloniker 2.md",
+    "Bibel/Neue Testament/13. Thessaloniker 1.md",
+    "Bibel/Neue Testament/12. Kollosser.md",
+    "Bibel/Neue Testament/11. Philliper.md",
+    "Bibel/Neue Testament/10. Epheser.md",
+    "Bibel/Neue Testament/9. Galater.md",
+    "Bibel/Neue Testament/8. Korinther 2.md",
+    "Bibel/Neue Testament/7. Korinther 1.md",
+    "Untitled 1.md",
+    "Bibel/Neue Testament/6. Römer.md",
+    "Bibel/Neue Testament/5. Apostelgeschichte Lukas.md",
+    "Bibel/Neue Testament/4. Evangelium Johannes.md",
+    "Bibel/Alte Testament/Bücher",
+    "Bibel/Alte Testament/Propheten",
+    "Bibel/Neue Testament",
+    "Bibel/Alte Testament",
+    "Bibel",
     "Languages/Turkey/Vokablen",
     "Languages/Turkey/Hören",
     "Languages/Turkey/Lesen",
     "Languages/Turkey/Grammatik",
     "Languages/Turkey/Lessons",
-    "Languages/Turkey/Lessons/Second Lesson",
-    "Languages/Turkey/Lessons/First Lesson",
-    "Languages/Espanol/Overview.md",
-    "Languages/Overview.md",
-    "Languages/Espanol/Vista.md",
-    "Languages/Turkey/Overview.md",
-    "Online Business/Overview.md",
-    "Languages/Turkey",
-    "Philosophy/Stammtisch/Themen.md",
-    "Philosophy/Allgemein/Abbild der Philosophie.md",
-    "Philosophy/Anki.md",
-    "Philosophy/Allgemein/Philosophische Fragen.md",
-    "Philosophy/Stammtisch/Idealismus ein Fehlschlag.md",
-    "Philosophy/Stammtisch/Was ist Idealismus.md",
-    "Philosophy/Stammtisch/Hegels Welt.md",
-    "Philosophy/Bücher/Hegels Welt/Hegels Einfluss.md",
-    "Philosophy/Allgemein/Persoehnlichkeiten/Sokrates.md",
-    "Philosophy/Allgemein/Persoehnlichkeiten/Philosophische Persoehnlichkeiten.md",
-    "Philosophy/Allgemein/Beginn der Philosophie in der Welt.md",
-    "Philosophy/Allgemein/Philosophische Traditionen.md",
-    "History/Hegel.md",
-    "Philosophy/Stammtisch",
-    "pdfs/978-3-14-221315-6_01.pdf",
-    "History/1700.md",
-    "Philosophy/Bücher/Notizen Hegles Welt.md",
-    "Philosophy/Bücher/Wichtige Werke.md",
-    "Book/Brainstorm-Universum.md",
     "pics/Pasted image 20240415111847.png",
     "pics/Screenshot from 2024-04-15 11-04-38.png",
     "Pasted image 20240403223801.png",
