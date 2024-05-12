@@ -1,6 +1,19 @@
-Als **Deutscher Idealismus** wird die Epoche der [deutschen Philosophie](https://de.wikipedia.org/wiki/Deutsche_Philosophie "Deutsche Philosophie") von [Immanuel Kant](https://de.wikipedia.org/wiki/Immanuel_Kant) bis zu [Georg Wilhelm Friedrich Hegel](https://de.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel "Georg Wilhelm Friedrich Hegel") und zum Spätwerk [Friedrich Wilhelm Joseph Schellings](https://de.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling "Friedrich Wilhelm Joseph Schelling") bezeichnet. Als zeitliche Rahmendaten gelten meist das Erscheinen von Kants _[Kritik der reinen Vernunft](https://de.wikipedia.org/wiki/Kritik_der_reinen_Vernunft "Kritik der reinen Vernunft")_ (1781) und der Tod Hegels (1831). Der Deutsche Idealismus gilt vielfach als Blütezeit der deutschen Philosophie und wird hinsichtlich seiner philosophiegeschichtlichen Bedeutung mit der klassischen griechischen Philosophie verglichen. Alternativ zur Bezeichnung „Deutscher Idealismus“ wird daher diese Epoche oft auch als **Klassische deutsche Philosophie** bezeichnet.[[1]](https://de.wikipedia.org/wiki/Deutscher_Idealismus#cite_note-1)
+**Deutscher Idealismus: Karteikarten Zusammenfassung**
 
-Der Deutsche Idealismus war um die Wende des 18. zum 19. Jahrhundert in Deutschland die vorherrschende philosophische Strömung, die sich zur Aufgabe gesetzt hatte, in einem die verschiedenen philosophischen Sparten ([Erkenntnistheorie](https://de.wikipedia.org/wiki/Erkenntnistheorie "Erkenntnistheorie"), [Logik](https://de.wikipedia.org/wiki/Logik "Logik"), [Naturphilosophie](https://de.wikipedia.org/wiki/Naturphilosophie "Naturphilosophie"), [Ethik](https://de.wikipedia.org/wiki/Ethik "Ethik"), [Staatslehre](https://de.wikipedia.org/wiki/Staatslehre "Staatslehre") und [Metaphysik](https://de.wikipedia.org/wiki/Metaphysik "Metaphysik")) umfassenden Gesamtentwurf („[System](https://de.wikipedia.org/wiki/System "System")“) das Ganze der Welt auf „wissenschaftliche“ Weise erschöpfend zu erkennen und darzustellen.
+**Definition und Zeitrahmen:**
+- Zeitraum: Von Immanuel Kant bis zum Spätwerk von Friedrich Wilhelm Joseph Schelling, mit dem Erscheinen von Kants "Kritik der reinen Vernunft" (1781) bis zum Tod Hegels (1831).
+- Auch bekannt als Klassische deutsche Philosophie.
 
-In Auseinandersetzung mit den von Kant in der _Kritik der reinen Vernunft_ aufgeworfenen Problemen entstand eine Fülle sich abwechselnder Systementwürfe, wobei die Werke von [Johann Gottlieb Fichte](https://de.wikipedia.org/wiki/Johann_Gottlieb_Fichte "Johann Gottlieb Fichte"), Hegel und Schelling eine zentrale Stellung einnehmen. Der Deutsche Idealismus stand mit der Dichtung der [Weimarer Klassik](https://de.wikipedia.org/wiki/Weimarer_Klassik "Weimarer Klassik") und der [Romantik](https://de.wikipedia.org/wiki/Romantik "Romantik") in vielfältiger Wechselwirkung.
+**Merkmale und Ziele:**
+- Hauptströmung der deutschen Philosophie um die Wende des 18. zum 19. Jahrhundert.
+- Ziel: Erschöpfende wissenschaftliche Erkenntnis und Darstellung der Welt in verschiedenen philosophischen Bereichen wie Erkenntnistheorie, Logik, Naturphilosophie, Ethik, Staatslehre und Metaphysik.
 
+**Bedeutung und Einflüsse:**
+- Vergleichbar mit der Blütezeit der griechischen Philosophie.
+- Entstand als Reaktion und Auseinandersetzung mit Kants Problemen in der "Kritik der reinen Vernunft".
+- Zentrale Denker: Johann Gottlieb Fichte, Hegel, Schelling.
+- Interaktion mit der Weimarer Klassik und der Romantik.
+
+**Beziehungen und Entwicklungen:**
+- Wechselnde Systementwürfe als Antwort auf Kants Herausforderungen.
+- Vielfältige Verbindung mit Literaturströmungen wie der Weimarer Klassik und der Romantik.

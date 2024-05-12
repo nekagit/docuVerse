@@ -1,3 +1,48 @@
+**Die Welt 1770: Karteikarten Zusammenfassung**
+
+**Monarchien:**
+1. Habsburger
+2. Briten
+3. Preußen
+4. Frankreich
+5. Russland
+
+**Natur:**
+- Kleine Eiszeit ab 1770 mit europaweiten Missernten.
+
+**Hegel:**
+- Geburt: 27. August 1770 in Stuttgart.
+
+**Sitten:**
+- Anhaltende Hexenprozesse.
+- Rapid gestiegene Romanproduktion.
+
+**Entdeckungen:**
+1. James Cook:
+   - Royal Navy.
+   - Entdeckung des Südens mit Wissenschaftlern.
+   - Venusdurchgang.
+2. James Watt:
+   - Entwicklung der Dampfmaschine.
+   - Umgehung des Patents durch eigene Modifikation.
+3. Entdeckung von chemischen Elementen wie Wasserstoff, Sauerstoff, Kohlenstoff, Schwermetalle.
+
+**Philosophien:**
+- Idealismus als dominante Denkweise.
+- Zentrale Werke wie Kritik der reinen Vernunft, Wissenschaft der Logik.
+- Betonung des Handelns und des Könnensbewusstseins.
+
+**Globalisierung:**
+1. Kriege um Kolonien.
+2. Revolutionen in verschiedenen Bereichen wie Ökonomie, Wissenschaft, Politik und Bildung.
+3. Bildungswesen transformiert sich durch öffentliche Schulsysteme und den Wegfall von Standeszugehörigkeiten.
+
+**Hegel geht zur Schule:**
+- Hegels Bildungsweg von der Grundschule bis zum Stuttgarter Stift.
+- Erfahrungen mit Krankheit, Bildung und persönlicher Entwicklung.
+- Wichtige Einflüsse durch Lehrer, Bücher und Freundschaften während der Schulzeit.
+
+
 
 Die Welt 1770
 	1. Monarchien

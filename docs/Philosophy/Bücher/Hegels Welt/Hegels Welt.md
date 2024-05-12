@@ -126,3 +126,36 @@ Das [Chinesische Kaiserreich](https://de.wikipedia.org/wiki/Kaiserreich_China "
  Japan verfolgte weiterhin seine Abschottungspolitik gegenüber dem Rest der Welt, während sich die Staaten des südostasiatischen Festlandes konsolidierten und ihre Unabhängigkeit gegen europäische und chinesische Herausforderer verteidigten.
 
 Wirtschaftlich profitierten die Vereinigten Staaten wie auch die europäischen Kolonien der Karibik und Lateinamerikas von der Arbeitskraft von Millionen afrikanischer Sklaven. Die Jagd nach Sklaven und die Verschiffung nach Amerika erreichte in diesem Jahrhundert ihren Höhepunkt
+
+---
+**Hegels Welt: Karteikarten Zusammenfassung**
+
+**Georg Wilhelm Friedrich Hegel:**
+- Geburtsdatum: 27. August 1770.
+- Hauptvertreter des Deutschen Idealismus.
+
+**Inhaltsverzeichnis:**
+1. Was ist Idealismus?
+2. Hegel in der Schule.
+3. Der Mönch in der Revolte.
+4. Pensum 1788.
+5. Der Hofmeister.
+6. Im Haus zur Goldkette.
+7. Hegel wird Philosoph.
+8. Phänomenologie des Geistes.
+9. Die Zeitung...
+10. Schule, Logik, Ehe.
+11. Das schwierigste Buch.
+12. Heidelberg.
+
+**18. Jahrhundert:**
+- Zeitraum: 1701 bis 1800.
+- Weltbevölkerung: Start bei ca. 600 Millionen, Ende bei ca. 970 Millionen.
+- Europäische Dominanz: Großbritannien als führende Macht durch Handel und Industrialisierung.
+- Globale Auswirkungen europäischer Konflikte.
+- Rolle europäischer Handelsgesellschaften im globalen Handel.
+- Einfluss der Aufklärung: Forderung nach rationaler Weltsicht und gesellschaftlicher Umgestaltung.
+- Transformation von einer ständischen zu einer bürgerlichen Gesellschaft in Westeuropa.
+- Veränderungen in Asien: Wandel des indischen Mogulreichs und Expansion des Chinesischen Kaiserreichs.
+- Japanische Abschottungspolitik.
+- Wirtschaftliche Ausbeutung afrikanischer Sklaven in den Vereinigten Staaten und den europäischen Kolonien in Karibik und Lateinamerika.

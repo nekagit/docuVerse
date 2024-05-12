@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Brainstorm-Universum
+##### Brainstorm-Universum
 
 fiktives Universum,
 Buchreihe,

@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cb1348ceee63233e",
+        "id": "b1046664cb6c836a",
         "type": "tabs",
         "children": [
           {
-            "id": "0608fe110be596f4",
+            "id": "8155673e8b984c68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Online Business/Overview.md",
+                "file": "Philosophy/Anki.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30e7efc382d611ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Hegel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Online Business/Overview.md",
+                "file": "History/Hegel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Online Business/Overview.md",
+                "file": "History/Hegel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Online Business/Overview.md"
+                "file": "History/Hegel.md"
               }
             }
           }
@@ -148,6 +161,24 @@
   },
   "active": "3ba762082691b934",
   "lastOpenFiles": [
+    "pdfs/978-3-14-221315-6_01.pdf",
+    "pdfs/978-3-14-221315-6_01.pdf.crdownload",
+    "History/1700.md",
+    "History/Hegel.md",
+    "Philosophy/Anki.md",
+    "Philosophy/Bücher/Notizen Hegles Welt.md",
+    "Philosophy/Bücher/Wichtige Werke.md",
+    "Philosophy/Bücher/Hegels Welt/Hegels Welt.md",
+    "Philosophy/Bücher/Hegels Welt/Was ist Idealismus.md",
+    "Philosophy/Bücher/Hegels Welt/Idealismus ein Fehlschlag.md",
+    "Philosophy/Bücher/Hegels Welt/Hegels Einfluss.md",
+    "Book/Brainstorm-Universum.md",
+    "pdfs/Harry Potter, saga completa - J. K. Rowling.pdf",
+    "Philosophy/Bücher/Emile.md",
+    "Computer Science/University/Bachelor Thesis/Table of Contents.md",
+    "Computer Science/University/Bachelor Thesis/1. Introduction/Structure of Thesis.md",
+    "Computer Science/University/Bachelor Thesis/1. Introduction/Motivation and Current State of Art.md",
+    "Online Business/Overview.md",
     "World",
     "Animals",
     "Beauty",
@@ -156,11 +187,7 @@
     "Food",
     "Finance",
     "Work",
-    "Technik",
-    "Cars",
-    "Art",
     "intro.md",
-    "Online Business/Overview.md",
     "Computer Science/Hardware/Basics/Electricity.md",
     "Computer Science/Hardware/Basics/Klausur.md",
     "Computer Science/Hardware/Overview.md",
@@ -170,20 +197,6 @@
     "Computer Science/How To/HTML/Divs.md",
     "Computer Science/How To/CSS/Overview.md",
     "Computer Science/University/Bachelor Thesis/2. Basics/Extension.md",
-    "Computer Science/University/Bachelor Thesis/2. Basics/WebApp.md",
-    "Computer Science/University/Bachelor Thesis/2. Basics/GPT.md",
-    "Computer Science/University/Bachelor Thesis/1. Introduction/Structure of Thesis.md",
-    "Computer Science/University/Bachelor Thesis/1. Introduction/Motivation and Current State of Art.md",
-    "Computer Science/University/Bachelor Thesis/Table of Contents.md",
-    "Computer Science/Hardware/Peripherals.md",
-    "Philosophy/Anki.md",
-    "Biology/Anki.md",
-    "Languages/Espanol/Anki.md",
-    "History/Serbian/Anki.md",
-    "Biology/Overview.md",
-    "History/Serbian/Drugi svetski rat.md",
-    "History/Serbian/Knezevina srbija i srpska vojvodina.md",
-    "History/Serbian/Kraljevina Jugoslavija.md",
     "pics/Pasted image 20240415111847.png",
     "pics/Screenshot from 2024-04-15 11-04-38.png",
     "Pasted image 20240403223801.png",
