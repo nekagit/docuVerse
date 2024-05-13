@@ -176,8 +176,8 @@ export default function IndexComponent() {
                 gap: "3rem",
               }}
             >
-              <span >{renderOfferings()}</span>
               <span>{renderContacts()}</span>
+              <span >{renderOfferings()}</span>
             </span>
           </CardDescription>
         </CardHeader>
