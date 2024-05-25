@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "821531dce58bb0f4",
+        "id": "dc4f280a96834884",
         "type": "tabs",
         "children": [
           {
-            "id": "358ab801b9bf394b",
+            "id": "53ab4919fec6544c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibel/Neue Testament/7. Korinther 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibel/Neue Testament/7. Korinther 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bibel/Neue Testament/7. Korinther 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bibel/Neue Testament/7. Korinther 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,22 @@
   },
   "active": "3ba762082691b934",
   "lastOpenFiles": [
+    "Computer Science/Hardware/Basics/Klausur.md",
+    "Computer Science/Hardware/Basics/Electricity.md",
+    "Computer Science/Hardware/Overview.md",
+    "Computer Science/Hardware/Anki.md",
+    "Languages/Turkey/Overview.md",
+    "intro.md",
+    "Engleski.md",
+    "Daten.md",
+    "Card Game/Rule Book.md",
+    "Card Game/Logos Game.md",
+    "Card Game",
+    "Languages/Turkey/Vokablen/Vokab.md",
+    "Languages/Turkey/Lessons/Second Lesson/A1.md",
+    "Languages/Turkey/Lessons/First Lesson/A1.md",
+    "Languages/Turkey/Grammatik/Lesson 1.md",
+    "Bibel/Neue Testament/7. Korinther 1.md",
     "Bibel/Alte Testament/Propheten/14. Haggai.md",
     "Bibel/Alte Testament/Propheten/15. Sacharja.md",
     "Bibel/Alte Testament/Propheten/16. Maleachi.md",
@@ -158,22 +166,7 @@
     "Bibel/Neue Testament/5. Apostelgeschichte Lukas.md",
     "Bibel/Neue Testament/6. Römer.md",
     "Untitled 1.md",
-    "Bibel/Neue Testament/7. Korinther 1.md",
     "Bibel/Neue Testament/8. Korinther 2.md",
-    "Bibel/Neue Testament/10. Epheser.md",
-    "Bibel/Neue Testament/11. Philliper.md",
-    "Bibel/Neue Testament/12. Kollosser.md",
-    "Bibel/Neue Testament/13. Thessaloniker 1.md",
-    "Bibel/Neue Testament/14. Thessaloniker 2.md",
-    "Bibel/Neue Testament/15. Timotheus 1.md",
-    "Bibel/Neue Testament/16. Timotheus 2.md",
-    "Bibel/Neue Testament/17. Titus.md",
-    "Bibel/Neue Testament/18. Philemon.md",
-    "Bibel/Neue Testament/9. Galater.md",
-    "Bibel/Neue Testament/20. Petrus 2.md",
-    "Bibel/Neue Testament/21. Johannes 1.md",
-    "Bibel/Neue Testament/22. Johannes 2.md",
-    "Bibel/Neue Testament/23. Johannes 3.md",
     "Bibel/Alte Testament/Bücher",
     "Bibel/Alte Testament/Propheten",
     "Bibel/Neue Testament",
@@ -183,7 +176,6 @@
     "Languages/Turkey/Hören",
     "Languages/Turkey/Lesen",
     "Languages/Turkey/Grammatik",
-    "Languages/Turkey/Lessons",
     "pics/Pasted image 20240415111847.png",
     "pics/Screenshot from 2024-04-15 11-04-38.png",
     "Pasted image 20240403223801.png",
