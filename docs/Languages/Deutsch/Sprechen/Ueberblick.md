@@ -1,3 +1,69 @@
+## Übungen zum Sprechen
+
+### 1. Sprachpartner und Tandem
+- **Tandem-Partner**: Finde einen Sprachpartner, mit dem du regelmäßig sprechen kannst. Plattformen wie Tandem, HelloTalk oder ConversationExchange bieten die Möglichkeit, Muttersprachler zu finden.
+- **Sprachaustausch-Treffen**: Suche nach lokalen oder online Sprachaustausch-Treffen, um regelmäßig Deutsch zu sprechen.
+
+### 2. Online-Plattformen und Apps
+- **Italki**: Eine Plattform, auf der du Sprachlehrer finden und private Stunden buchen kannst. [Italki](https://www.italki.com/)
+- **Preply**: Ähnlich wie Italki, bietet Preply die Möglichkeit, mit Lehrern weltweit zu sprechen. [Preply](https://www.preply.com/)
+- **Busuu**: Bietet interaktive Sprachkurse und eine Community zum Üben. [Busuu](https://www.busuu.com/)
+- **HelloTalk**: Eine App, die Sprachlerner miteinander verbindet. [HelloTalk](https://www.hellotalk.com/)
+
+### 3. Selbstgespräche und Monologe
+- **Themen vorbereiten**: Wähle ein Thema und halte einen Monolog darüber. Nimm dich dabei auf und höre dir die Aufnahme an, um Fehler zu identifizieren.
+- **Tägliche Routinen beschreiben**: Erzähle von deinem Tag oder plane laut deine Aktivitäten.
+
+### 4. Rollenspiele
+- **Dialoge nachspielen**: Spiele verschiedene Alltagssituationen nach, z.B. beim Einkaufen, im Restaurant oder bei der Arbeit. Führe Dialoge mit einem Partner oder nimm beide Rollen selbst ein.
+- **Szenen aus Filmen nachsprechen**: Wähle Szenen aus deutschen Filmen oder Serien und sprich die Dialoge nach.
+
+### 5. Sprach- und Ausspracheübungen
+- **Zungenbrecher**: Übe mit Zungenbrechern, um deine Aussprache zu verbessern.
+  - Beispiel: "Fischers Fritze fischt frische Fische, frische Fische fischt Fischers Fritze."
+- **Phonetikübungen**: Nutze Phonetikübungen, um spezielle Laute zu üben. Plattformen wie "German Pronunciation" auf YouTube bieten zahlreiche Videos.
+
+### 6. Interaktive Übungen und Spiele
+- **Sprachspiele**: Spiele wie "Tabu" oder "20 Fragen" eignen sich hervorragend, um das Sprechen zu üben.
+- **Dialogkarten**: Verwende Karten mit Fragen und Antworten zu verschiedenen Themen, um Gespräche zu üben.
+
+### 7. Sprachkurse und Workshops
+- **Volkshochschulen (VHS)**: Viele Volkshochschulen bieten Deutschkurse und Konversationsgruppen an.
+- **Goethe Institut**: Bietet intensive Sprachkurse und Konversationskurse an. [Goethe Institut Kurse](https://www.goethe.de/de/spr/kup/kur.html)
+
+### 8. Praktische Übungen (Beispiele)
+#### Übung 1: Bildbeschreibungen
+- **Material**: Ein Bild oder Foto.
+- **Aufgabe**: Beschreibe das Bild detailliert. Achte auf Farben, Formen, Personen und Aktionen.
+- **Beispiel**: 
+  - Ein Bild von einem Marktplatz. Beschreibe, was die Leute tun, wie die Umgebung aussieht und welche Atmosphäre herrscht.
+
+#### Übung 2: Alltagssituationen nachstellen
+- **Material**: Szenen aus dem Alltag.
+- **Aufgabe**: Stelle Alltagssituationen nach, wie z.B. im Supermarkt einkaufen, ein Zugticket kaufen oder eine Verabredung treffen.
+- **Beispiel**: 
+  - Ein Rollenspiel, bei dem du in einem Café einen Kaffee bestellst und nach dem Weg fragst.
+
+#### Übung 3: Spontane Gespräche
+- **Material**: Themenkarten oder Fragenlisten.
+- **Aufgabe**: Ziehe eine Karte und sprich spontan über das Thema oder beantworte die Frage.
+- **Beispiel**: 
+  - Eine Karte mit dem Thema "Dein Lieblingsbuch". Erzähle, warum es dein Lieblingsbuch ist, worum es geht und was dir besonders gefällt.
+
+#### Übung 4: Debattieren
+- **Material**: Kontroverse Themen.
+- **Aufgabe**: Wähle ein Thema und diskutiere darüber. Argumentiere für oder gegen das Thema.
+- **Beispiel**: 
+  - Ein Thema wie "Sollten Handys in Schulen erlaubt sein?" Diskutiere die Vor- und Nachteile.
+
+### 9. Online-Communities und Foren
+- **Reddit**: Im Subreddit r/German kannst du Fragen stellen und dich mit anderen Lernenden austauschen. [r/German](https://www.reddit.com/r/German/)
+- **Lang-8**: Eine Community, in der Muttersprachler deine Texte korrigieren und du ihre im Gegenzug. [Lang-8](https://lang-8.com/)
+
+
+
+
+
 # 100 Deutsche Sätze
 
 1. Wir machen gemeinsam den Haushalt, während die Kinder spielen.

@@ -1,7 +1,3 @@
-
-
-
-
 # Überblick der Deutschen Grammatik
 
 ## 1. Substantive (Nomen)
