@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Turkey/Grammatik/Lesson1.md",
+                "file": "Languages/Deutsch/Grammatik/Ueberblick.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Turkey/Grammatik/Lesson1.md",
+                "file": "Languages/Deutsch/Grammatik/Ueberblick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Turkey/Grammatik/Lesson1.md",
+                "file": "Languages/Deutsch/Grammatik/Ueberblick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Turkey/Grammatik/Lesson1.md"
+                "file": "Languages/Deutsch/Grammatik/Ueberblick.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "53ab4919fec6544c",
   "lastOpenFiles": [
+    "Languages/Deutsch/Grammatik/Tabellen.md",
+    "Languages/Turkey/Grammatik/Lesson1.md",
     "Card Game/Logos Game.md",
     "Computer Science/Hardware/Basics/Klausur.md",
     "Computer Science/Hardware/Basics/Electricity.md",
@@ -162,7 +164,6 @@
     "Languages/Turkey/Vokablen/Vokab.md",
     "Languages/Turkey/Lessons/Second Lesson/A1.md",
     "Languages/Turkey/Lessons/First Lesson/A1.md",
-    "Languages/Turkey/Grammatik/Lesson1.md",
     "Bibel/Neue Testament/7. Korinther 1.md",
     "Bibel/Alte Testament/Propheten/14. Haggai.md",
     "Bibel/Alte Testament/Propheten/15. Sacharja.md",
@@ -174,7 +175,6 @@
     "Bibel/Neue Testament/5. Apostelgeschichte Lukas.md",
     "Bibel/Neue Testament/6. Römer.md",
     "Untitled 1.md",
-    "Bibel/Neue Testament/8. Korinther 2.md",
     "Bibel/Alte Testament/Bücher",
     "Bibel/Alte Testament/Propheten",
     "Bibel/Neue Testament",
