@@ -14,7 +14,7 @@ https://fluentinturkish.com/grammar
 1. **Beginner**: Alphabet
 
 - List of 29 letters
-- <Ü, İ, Ö, Ç, Ğ, Ş>
+	- Ü, İ, Ö, Ç, Ğ, Ş
 - Some history
 - Changes in loanwords
 - TDK (turkish language society)

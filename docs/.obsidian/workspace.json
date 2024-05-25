@@ -11,8 +11,12 @@
             "id": "53ab4919fec6544c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Turkey/Grammatik/Lesson1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Languages/Turkey/Grammatik/Lesson1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Languages/Turkey/Grammatik/Lesson1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Languages/Turkey/Grammatik/Lesson1.md"
+              }
             }
           }
         ]
@@ -154,7 +162,7 @@
     "Languages/Turkey/Vokablen/Vokab.md",
     "Languages/Turkey/Lessons/Second Lesson/A1.md",
     "Languages/Turkey/Lessons/First Lesson/A1.md",
-    "Languages/Turkey/Grammatik/Lesson 1.md",
+    "Languages/Turkey/Grammatik/Lesson1.md",
     "Bibel/Neue Testament/7. Korinther 1.md",
     "Bibel/Alte Testament/Propheten/14. Haggai.md",
     "Bibel/Alte Testament/Propheten/15. Sacharja.md",
